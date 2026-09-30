@@ -1,0 +1,2 @@
+data_lake/bronze/sales.csv -text
+silver/sales_silver.csv -text
