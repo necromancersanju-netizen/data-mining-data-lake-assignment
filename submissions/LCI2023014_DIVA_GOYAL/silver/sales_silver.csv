@@ -1,0 +1,991 @@
+order_id,customer_id,customer_name,product,category,quantity,unit_price,discount_percent,payment_method,city,state,order_date,order_status
+100331,C0005,Sakshi Joshi,Football,Sports,2,670,30,Credit Card,Bengaluru,Karnataka,2025-06-06,Cancelled
+100333,C0263,Siddharth Kulkarni,Programming Book,Books,4,670,0,Net Banking,Pune,Maharashtra,2025-05-08,Delivered
+100506,C0228,Diya Tripathi,Competitive Exam Guide,Books,6,610,12,UPI,Coimbatore,Tamil Nadu,2025-06-02,Delivered
+100931,C0204,Pranav Reddy,Dining Table,Furniture,10,37710,30,Credit Card,Pune,Maharashtra,2025-12-25,Cancelled
+100168,C0179,Sai Sharma,Office Chair,Furniture,4,6820,35,Cash on Delivery,Coimbatore,Tamil Nadu,2026-06-04,Processing
+100473,C0195,Tanvi Gupta,Badminton Racket,Sports,2,840,35,Debit Card,Kolkata,West Bengal,2026-03-24,Shipped
+100532,C0149,Manish Pillai,Shampoo,Beauty,4,770,12,Cash on Delivery,Delhi,Delhi,2026-04-30,Delivered
+100011,C0021,Keerthi Tripathi,Programming Book,Books,3,1140,35,Net Banking,Delhi,Delhi,2026-07-27,Delivered
+100064,C0276,Ananya Agarwal,Microwave Oven,Home Appliances,3,16610,0,UPI,Hyderabad,Telangana,2025-05-15,Delivered
+100176,C0138,Pranav Joshi,Electric Kettle,Home Appliances,2,2170,35,Net Banking,Vijayawada,Andhra Pradesh,2026-08-23,Delivered
+100307,C0189,Siddharth Shetty,Atta 10kg,Grocery,7,720,10,Debit Card,Coimbatore,Tamil Nadu,2025-12-25,Cancelled
+100414,C0097,Aditya Chopra,Programming Book,Books,10,1170,12,Credit Card,Bengaluru,Karnataka,2025-05-06,Delivered
+100680,C0244,Shreya Rao,Tea 1kg,Grocery,6,780,5,Debit Card,Mumbai,Maharashtra,2026-05-05,Returned
+100018,C0087,Akash Kulkarni,Jacket,Clothing,10,4310,25,Debit Card,Bengaluru,Karnataka,2026-08-17,Processing
+100060,C0246,Lakshmi Agarwal,Sofa,Furniture,1,50800,10,Credit Card,Chennai,Tamil Nadu,2026-01-18,Delivered
+100275,C0032,Anjali Kumar,Dumbbell Set,Sports,1,7290,12,Net Banking,Vijayawada,Andhra Pradesh,2025-03-05,Delivered
+100332,C0218,Rohan Pandey,Hair Serum,Beauty,6,450,12,UPI,Bengaluru,Karnataka,2025-12-06,Cancelled
+100667,C0191,Aman Naidu,Smartphone,Electronics,3,29520,12,Cash on Delivery,Delhi,Delhi,2026-03-04,Cancelled
+100865,C0155,Sneha Sharma,Saree,Clothing,3,7070,12,Credit Card,Mumbai,Maharashtra,2026-02-01,Delivered
+100883,C0345,Keerthi Yadav,Monitor,Electronics,8,16920,12,Cash on Delivery,Jaipur,Rajasthan,2026-08-19,Cancelled
+100101,C0248,Nandini Das,Dumbbell Set,Sports,10,7430,35,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-09-12,Delivered
+100375,C0027,Harsh Jain,Basmati Rice 5kg,Grocery,5,460,10,Debit Card,Mumbai,Maharashtra,2025-05-03,Shipped
+100525,C0057,Swathi Yadav,Novel,Books,8,760,20,Cash on Delivery,Chennai,Tamil Nadu,2025-12-29,Delivered
+100919,C0214,Neha Tripathi,Jacket,Clothing,5,3600,20,UPI,Jaipur,Rajasthan,2025-02-06,Delivered
+100928,C0106,Aman Rao,Mechanical Keyboard,Electronics,2,2430,12,Credit Card,Bengaluru,Karnataka,2025-05-19,Delivered
+100982,C0098,Sai Kumar,Novel,Books,10,260,35,Net Banking,Lucknow,Uttar Pradesh,2026-06-02,Returned
+100130,C0264,Siddharth Mishra,Perfume,Beauty,8,4250,25,UPI,Lucknow,Uttar Pradesh,2026-08-03,Shipped
+100202,C0100,Riya Reddy,Hair Serum,Beauty,7,650,25,Cash on Delivery,Coimbatore,Tamil Nadu,2026-02-12,Delivered
+100610,C0158,Deepak Pandey,Shampoo,Beauty,6,380,35,Net Banking,Vijayawada,Andhra Pradesh,2026-03-16,Shipped
+100619,C0036,Aarav Singh,Running Shoes,Sports,1,3690,12,Net Banking,Vijayawada,Andhra Pradesh,2026-01-09,Shipped
+100793,C0109,Ananya Joshi,Dining Table,Furniture,3,40530,0,Net Banking,Hyderabad,Telangana,2026-03-27,Delivered
+100829,C0036,Aarav Singh,Coffee 500g,Grocery,10,790,0,Net Banking,Jaipur,Rajasthan,2025-05-01,Delivered
+100849,C0276,Ananya Agarwal,Cricket Bat,Sports,10,1850,10,Net Banking,Jaipur,Rajasthan,2025-01-30,Delivered
+100907,C0075,Swathi Tripathi,T-shirt,Clothing,4,880,0,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-01-23,Shipped
+100207,C0197,Lakshmi Das,Competitive Exam Guide,Books,8,480,15,Credit Card,Delhi,Delhi,2026-01-28,Delivered
+100585,C0217,Meera Pandey,Data Science Handbook,Books,3,1110,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-05-27,Delivered
+100623,C0182,Sakshi Naidu,Tea 1kg,Grocery,2,410,0,Credit Card,Bengaluru,Karnataka,2025-10-31,Processing
+100010,C0113,Neha Sharma,Kurta,Clothing,4,860,25,UPI,Lucknow,Uttar Pradesh,2026-08-24,Processing
+100589,C0220,Vivaan Pillai,Sofa,Furniture,5,34590,5,Cash on Delivery,Lucknow,Uttar Pradesh,2026-05-31,Delivered
+100612,C0091,Siddharth Joshi,Shampoo,Beauty,1,620,10,Net Banking,Kolkata,West Bengal,2025-11-20,Returned
+100628,C0020,Aarav Patel,Sports Shoes,Clothing,1,3360,30,Debit Card,Mumbai,Maharashtra,2026-05-04,Delivered
+100887,C0157,Harsh Iyer,Yoga Mat,Sports,9,1260,20,Credit Card,Lucknow,Uttar Pradesh,2025-05-02,Delivered
+100252,C0149,Manish Pillai,Programming Book,Books,10,920,10,Net Banking,Kolkata,West Bengal,2026-01-06,Delivered
+100374,C0099,Arjun Pandey,Electric Kettle,Home Appliances,9,930,40,Net Banking,Vijayawada,Andhra Pradesh,2026-01-09,Delivered
+100483,C0096,Manish Gupta,Cooking Oil 5l,Grocery,3,620,0,Credit Card,Bengaluru,Karnataka,2026-09-06,Delivered
+100531,C0005,Sakshi Joshi,Jacket,Clothing,8,6940,15,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-06-08,Shipped
+100616,C0192,Divya Sharma,T-shirt,Clothing,7,1530,15,Cash on Delivery,Chennai,Tamil Nadu,2025-03-22,Delivered
+100721,C0162,Siddharth Kapoor,Business Book,Books,6,1100,10,Net Banking,Pune,Maharashtra,2026-04-19,Delivered
+100185,C0308,Diya Patel,Cooking Oil 5l,Grocery,5,640,20,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-03-05,Delivered
+100509,C0011,Riya Chaudhary,Running Shoes,Sports,10,4590,40,Debit Card,Pune,Maharashtra,2026-04-19,Delivered
+100836,C0276,Ananya Agarwal,Cooking Oil 5l,Grocery,3,710,20,Net Banking,Coimbatore,Tamil Nadu,2026-08-29,Delivered
+100985,C0089,Siddharth Iyer,Kurta,Clothing,2,840,35,Cash on Delivery,Delhi,Delhi,2025-09-19,Delivered
+100201,C0291,Varun Pillai,Ceiling Fan,Home Appliances,3,3170,25,Net Banking,Mumbai,Maharashtra,2025-08-28,Cancelled
+100204,C0156,Nandini Bose,Yoga Mat,Sports,5,620,15,Cash on Delivery,Jaipur,Rajasthan,2025-01-21,Delivered
+100366,C0062,Lakshmi Pillai,Competitive Exam Guide,Books,1,850,15,Credit Card,Hyderabad,Telangana,2026-07-14,Delivered
+100656,C0225,Sanjay Das,Face Wash,Beauty,1,210,30,Net Banking,Jaipur,Rajasthan,2025-05-19,Delivered
+100179,C0047,Sneha Mishra,Tea 1kg,Grocery,3,600,35,Credit Card,Jaipur,Rajasthan,2025-01-23,Delivered
+100228,C0271,Deepak Shetty,Novel,Books,1,750,0,Net Banking,Chennai,Tamil Nadu,2025-11-01,Processing
+100243,C0007,Sai Mishra,Dining Table,Furniture,7,33330,40,UPI,Pune,Maharashtra,2026-04-27,Cancelled
+100270,C0173,Nandini Patel,Shampoo,Beauty,2,720,15,UPI,Hyderabad,Telangana,2025-10-05,Delivered
+100687,C0192,Divya Sharma,Football,Sports,3,1080,10,Debit Card,Coimbatore,Tamil Nadu,2026-04-20,Returned
+100852,C0076,Neha Reddy,Basmati Rice 5kg,Grocery,4,730,12,Credit Card,Vijayawada,Andhra Pradesh,2025-02-19,Delivered
+100511,C0142,Aarav Chopra,Tea 1kg,Grocery,1,390,10,Cash on Delivery,Hyderabad,Telangana,2026-06-01,Delivered
+100209,C0231,Varun Kumar,Business Book,Books,3,560,10,Net Banking,Mumbai,Maharashtra,2025-07-21,Delivered
+100258,C0264,Siddharth Mishra,Laptop,Electronics,2,65940,12,Credit Card,Pune,Maharashtra,2025-02-17,Delivered
+100450,C0189,Siddharth Shetty,Sofa,Furniture,7,12850,20,Credit Card,Jaipur,Rajasthan,2025-06-04,Delivered
+100775,C0192,Divya Sharma,Bookshelf,Furniture,2,10040,40,UPI,Kolkata,West Bengal,2026-04-22,Shipped
+100918,C0095,Abhinav Malhotra,Mixer Grinder,Home Appliances,6,4870,35,Debit Card,Kolkata,West Bengal,2025-12-11,Delivered
+100926,C0002,Deepak Jain,Ceiling Fan,Home Appliances,5,3070,40,Net Banking,Pune,Maharashtra,2026-08-19,Delivered
+100081,C0145,Shreya Saxena,Monitor,Electronics,1,18960,35,Credit Card,Mumbai,Maharashtra,2026-04-22,Delivered
+100158,C0337,Nikhil Joshi,Dining Table,Furniture,1,32910,40,Credit Card,Vijayawada,Andhra Pradesh,2026-07-29,Shipped
+100402,C0205,Abhinav Rao,Bluetooth Speaker,Electronics,1,4910,0,Net Banking,Chennai,Tamil Nadu,2025-11-15,Shipped
+100485,C0057,Swathi Yadav,Ceiling Fan,Home Appliances,2,2640,30,Net Banking,Vijayawada,Andhra Pradesh,2025-05-28,Delivered
+100491,C0285,Sanjay Verma,Laptop,Electronics,10,45130,5,Cash on Delivery,Kolkata,West Bengal,2026-08-03,Shipped
+100518,C0072,Arjun Sharma,Biography,Books,3,350,5,Net Banking,Pune,Maharashtra,2025-04-20,Shipped
+100030,C0303,Nandini Agarwal,Sports Bottle,Sports,7,360,0,Cash on Delivery,Pune,Maharashtra,2025-11-10,Delivered
+100054,C0057,Swathi Yadav,Shampoo,Beauty,1,820,12,Cash on Delivery,Lucknow,Uttar Pradesh,2025-11-08,Delivered
+100067,C0304,Akash Yadav,Football,Sports,1,1530,20,Net Banking,Delhi,Delhi,2025-10-05,Delivered
+100725,C0216,Lakshmi Das,Mechanical Keyboard,Electronics,8,4730,40,Cash on Delivery,Lucknow,Uttar Pradesh,2025-01-26,Shipped
+100914,C0321,Pranav Sharma,Makeup Kit,Beauty,6,4870,30,Net Banking,Chennai,Tamil Nadu,2026-07-05,Delivered
+100045,C0346,Nandini Mehta,Wireless Mouse,Electronics,7,1260,35,UPI,Pune,Maharashtra,2026-04-03,Delivered
+100516,C0196,Divya Gupta,Air Fryer,Home Appliances,2,4320,0,UPI,Coimbatore,Tamil Nadu,2025-08-18,Delivered
+100666,C0079,Neha Pandey,Coffee 500g,Grocery,9,740,25,Cash on Delivery,Jaipur,Rajasthan,2026-07-12,Delivered
+100040,C0295,Lakshmi Pillai,Perfume,Beauty,6,1010,15,Debit Card,Lucknow,Uttar Pradesh,2025-10-17,Delivered
+100803,C0343,Pooja Jain,Programming Book,Books,7,630,20,Cash on Delivery,Chennai,Tamil Nadu,2026-04-02,Shipped
+100812,C0085,Aarav Agarwal,Hair Serum,Beauty,7,670,20,UPI,Chennai,Tamil Nadu,2025-07-20,Delivered
+100152,C0090,Abhinav Pillai,Ceiling Fan,Home Appliances,10,3450,35,Cash on Delivery,Chennai,Tamil Nadu,2026-02-27,Delivered
+100927,C0275,Aditya Mehta,Shampoo,Beauty,1,780,40,Credit Card,Delhi,Delhi,2026-05-27,Cancelled
+100037,C0321,Pranav Sharma,Cricket Bat,Sports,5,2290,40,Net Banking,Mumbai,Maharashtra,2026-08-15,Returned
+100268,C0315,Meera Malhotra,Sunscreen,Beauty,9,920,12,Cash on Delivery,Coimbatore,Tamil Nadu,2026-05-06,Shipped
+100269,C0157,Harsh Iyer,Yoga Mat,Sports,6,1400,10,Cash on Delivery,Mumbai,Maharashtra,2025-02-23,Delivered
+100864,C0147,Deepak Kumar,Competitive Exam Guide,Books,5,970,30,Cash on Delivery,Hyderabad,Telangana,2025-12-07,Delivered
+100003,C0348,Keerthi Rao,Hoodie,Clothing,6,3080,12,UPI,Pune,Maharashtra,2025-05-06,Shipped
+100134,C0270,Pranav Iyer,Study Table,Furniture,9,4260,40,Debit Card,Bengaluru,Karnataka,2025-08-11,Delivered
+100372,C0197,Lakshmi Das,Shampoo,Beauty,9,490,15,Cash on Delivery,Bengaluru,Karnataka,2025-04-28,Returned
+100427,C0192,Divya Sharma,Football,Sports,10,1020,10,Net Banking,Jaipur,Rajasthan,2025-03-06,Delivered
+100544,C0321,Pranav Sharma,Microwave Oven,Home Appliances,7,10840,35,Net Banking,Lucknow,Uttar Pradesh,2026-02-04,Shipped
+100798,C0090,Abhinav Pillai,Mechanical Keyboard,Electronics,4,3610,0,Debit Card,Kolkata,West Bengal,2026-04-09,Delivered
+100219,C0145,Shreya Saxena,Moisturizer,Beauty,5,690,15,Net Banking,Jaipur,Rajasthan,2025-08-25,Delivered
+100287,C0310,Sakshi Bose,Basmati Rice 5kg,Grocery,10,580,20,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-03-26,Cancelled
+100305,C0199,Pooja Reddy,Cooking Oil 5l,Grocery,5,840,40,Net Banking,Delhi,Delhi,2025-06-16,Delivered
+100970,C0175,Diya Naidu,Study Table,Furniture,9,14390,30,UPI,Bengaluru,Karnataka,2025-05-02,Delivered
+100540,C0206,Harsh Pillai,Ceiling Fan,Home Appliances,2,2600,15,Net Banking,Chennai,Tamil Nadu,2025-02-10,Returned
+100781,C0190,Harsh Patel,Dry Fruits Pack,Grocery,3,1270,20,Credit Card,Lucknow,Uttar Pradesh,2025-03-24,Delivered
+100070,C0263,Siddharth Kulkarni,Sofa,Furniture,4,28910,25,Debit Card,Mumbai,Maharashtra,2025-01-29,Delivered
+100197,C0280,Akash Singh,Monitor,Electronics,8,22630,10,Credit Card,Lucknow,Uttar Pradesh,2025-02-19,Shipped
+100343,C0036,Aarav Singh,Running Shoes,Sports,6,4140,0,Debit Card,Kolkata,West Bengal,2025-10-22,Processing
+100910,C0113,Neha Sharma,Coffee 500g,Grocery,7,820,0,UPI,Coimbatore,Tamil Nadu,2025-02-07,Processing
+100115,C0069,Sai Malhotra,Badminton Racket,Sports,7,3900,35,UPI,Coimbatore,Tamil Nadu,2025-01-12,Processing
+100225,C0229,Keerthi Tripathi,Sunscreen,Beauty,5,500,40,Credit Card,Mumbai,Maharashtra,2025-03-08,Processing
+100484,C0206,Harsh Pillai,Usb-c Hub,Electronics,2,2350,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-07-01,Processing
+100731,C0081,Abhinav Gupta,Sofa,Furniture,1,34850,35,Debit Card,Delhi,Delhi,2025-09-15,Delivered
+100542,C0169,Priya Singh,Spice Combo,Grocery,3,380,5,Credit Card,Mumbai,Maharashtra,2025-04-16,Processing
+100558,C0308,Diya Patel,Cricket Bat,Sports,10,4150,15,Credit Card,Mumbai,Maharashtra,2025-01-04,Cancelled
+100626,C0230,Siddharth Iyer,Atta 10kg,Grocery,8,440,15,UPI,Vijayawada,Andhra Pradesh,2025-03-06,Delivered
+100141,C0046,Vikram Iyer,Face Wash,Beauty,6,480,30,Credit Card,Mumbai,Maharashtra,2026-06-25,Processing
+100215,C0210,Neha Agarwal,Badminton Racket,Sports,1,830,40,Credit Card,Bengaluru,Karnataka,2025-01-11,Shipped
+100260,C0135,Anjali Kapoor,Atta 10kg,Grocery,1,510,0,Debit Card,Hyderabad,Telangana,2026-07-28,Delivered
+100279,C0259,Aditi Agarwal,Office Chair,Furniture,5,11290,12,Cash on Delivery,Kolkata,West Bengal,2025-07-28,Delivered
+100462,C0131,Neha Singh,Jacket,Clothing,10,4620,12,Credit Card,Lucknow,Uttar Pradesh,2025-03-02,Processing
+100607,C0120,Varun Shetty,Induction Cooktop,Home Appliances,3,4250,35,Credit Card,Hyderabad,Telangana,2026-07-24,Shipped
+100691,C0319,Sanjay Gupta,Sofa,Furniture,3,51360,20,Net Banking,Kolkata,West Bengal,2025-07-20,Processing
+100899,C0140,Sneha Sharma,Dining Table,Furniture,6,10550,0,UPI,Pune,Maharashtra,2025-11-11,Processing
+100112,C0111,Nandini Sharma,Bookshelf,Furniture,2,9780,15,Cash on Delivery,Chennai,Tamil Nadu,2025-02-04,Delivered
+100507,C0325,Keerthi Sharma,Spice Combo,Grocery,5,400,35,Cash on Delivery,Bengaluru,Karnataka,2026-06-23,Cancelled
+100602,C0337,Nikhil Joshi,Sports Shoes,Clothing,2,5680,0,Cash on Delivery,Chennai,Tamil Nadu,2026-01-24,Shipped
+100765,C0094,Sai Patel,Formal Shirt,Clothing,6,2450,0,Cash on Delivery,Pune,Maharashtra,2025-09-18,Delivered
+100331,C0137,Riya Kapoor,Jacket,Clothing,4,1860,20,Net Banking,Kolkata,West Bengal,2025-02-20,Delivered
+100009,C0320,Lakshmi Rao,Data Science Handbook,Books,2,680,30,Debit Card,Vijayawada,Andhra Pradesh,2025-09-04,Delivered
+100038,C0196,Divya Gupta,Wireless Mouse,Electronics,10,910,10,Credit Card,Hyderabad,Telangana,2025-04-21,Delivered
+100151,C0150,Vivaan Nair,Mixer Grinder,Home Appliances,8,5860,12,Net Banking,Vijayawada,Andhra Pradesh,2025-10-14,Delivered
+100200,C0046,Vikram Iyer,Perfume,Beauty,8,1890,40,UPI,Vijayawada,Andhra Pradesh,2025-10-05,Shipped
+100299,C0106,Aman Rao,Monitor,Electronics,3,18470,0,Debit Card,Hyderabad,Telangana,2025-09-14,Delivered
+100449,C0194,Tanvi Verma,Business Book,Books,5,1100,10,UPI,Jaipur,Rajasthan,2025-10-15,Processing
+100906,C0139,Tanvi Naidu,Mixer Grinder,Home Appliances,6,4400,30,UPI,Hyderabad,Telangana,2026-03-02,Returned
+100915,C0284,Nikhil Yadav,Saree,Clothing,4,3640,30,Net Banking,Pune,Maharashtra,2025-10-02,Delivered
+100940,C0349,Tanvi Reddy,Vacuum Cleaner,Home Appliances,9,12420,40,Cash on Delivery,Coimbatore,Tamil Nadu,2026-08-29,Returned
+100077,C0183,Sakshi Joshi,Hoodie,Clothing,5,2470,20,Credit Card,Chennai,Tamil Nadu,2026-03-30,Shipped
+100471,C0171,Vivaan Naidu,Business Book,Books,7,1010,0,UPI,Hyderabad,Telangana,2026-03-12,Delivered
+100530,C0140,Sneha Sharma,Competitive Exam Guide,Books,7,950,5,Cash on Delivery,Pune,Maharashtra,2026-06-09,Delivered
+100868,C0240,Meera Yadav,Dry Fruits Pack,Grocery,7,1300,5,Debit Card,Bengaluru,Karnataka,2025-04-21,Shipped
+100715,C0350,Kavya Bose,Business Book,Books,7,780,35,Credit Card,Pune,Maharashtra,2026-04-10,Delivered
+100329,C0151,Varun Verma,Bedside Table,Furniture,9,3530,20,Net Banking,Vijayawada,Andhra Pradesh,2025-04-08,Delivered
+100337,C0058,Swathi Mishra,Tea 1kg,Grocery,4,470,12,Cash on Delivery,Lucknow,Uttar Pradesh,2025-05-24,Cancelled
+100729,C0176,Meera Joshi,Spice Combo,Grocery,7,640,12,Debit Card,Vijayawada,Andhra Pradesh,2025-10-20,Delivered
+100734,C0061,Arjun Nair,Jeans,Clothing,3,2720,20,Credit Card,Jaipur,Rajasthan,2026-04-28,Processing
+100853,C0043,Pranav Menon,Hoodie,Clothing,6,2820,20,Credit Card,Mumbai,Maharashtra,2026-01-29,Shipped
+100049,C0175,Diya Naidu,Running Shoes,Sports,1,6530,5,Net Banking,Jaipur,Rajasthan,2025-07-25,Processing
+100433,C0196,Divya Gupta,Laptop,Electronics,3,65930,15,Cash on Delivery,Delhi,Delhi,2025-12-15,Shipped
+100794,C0268,Keerthi Iyer,Cooking Oil 5l,Grocery,10,940,30,Credit Card,Chennai,Tamil Nadu,2026-07-06,Delivered
+100813,C0083,Ananya Singh,T-shirt,Clothing,6,1320,12,Debit Card,Pune,Maharashtra,2025-06-29,Shipped
+100819,C0286,Rahul Naidu,Dumbbell Set,Sports,3,4290,35,Debit Card,Coimbatore,Tamil Nadu,2025-10-17,Shipped
+100041,C0113,Neha Sharma,Study Table,Furniture,6,7530,10,Credit Card,Delhi,Delhi,2025-07-17,Delivered
+100084,C0280,Akash Singh,Microwave Oven,Home Appliances,8,10660,30,Net Banking,Kolkata,West Bengal,2025-04-21,Delivered
+100169,C0124,Tanvi Chaudhary,Biography,Books,3,810,10,Credit Card,Kolkata,West Bengal,2025-08-19,Shipped
+100330,C0133,Vikram Reddy,Yoga Mat,Sports,2,1890,25,Cash on Delivery,Mumbai,Maharashtra,2025-10-25,Delivered
+100364,C0154,Kavya Reddy,Electric Kettle,Home Appliances,10,980,40,Debit Card,Coimbatore,Tamil Nadu,2025-11-07,Delivered
+100669,C0225,Sanjay Das,Bedside Table,Furniture,6,3690,20,Net Banking,Bengaluru,Karnataka,2026-02-25,Delivered
+100841,C0315,Meera Malhotra,Running Shoes,Sports,9,2010,5,UPI,Bengaluru,Karnataka,2025-04-19,Delivered
+100175,C0060,Arjun Patel,Face Wash,Beauty,4,680,20,Cash on Delivery,Hyderabad,Telangana,2026-02-26,Delivered
+100460,C0131,Neha Singh,Moisturizer,Beauty,4,600,10,Net Banking,Mumbai,Maharashtra,2026-05-30,Delivered
+100736,C0266,Divya Chopra,Sports Bottle,Sports,2,500,15,Credit Card,Delhi,Delhi,2025-02-24,Delivered
+100878,C0112,Aditya Rao,Mixer Grinder,Home Appliances,5,3910,25,Credit Card,Delhi,Delhi,2026-05-18,Delivered
+100943,C0096,Manish Gupta,Face Wash,Beauty,10,480,0,Cash on Delivery,Mumbai,Maharashtra,2025-02-12,Delivered
+100953,C0173,Nandini Patel,Power Bank,Electronics,1,3370,10,UPI,Mumbai,Maharashtra,2026-07-10,Shipped
+100975,C0298,Ananya Iyer,Perfume,Beauty,8,4050,40,Credit Card,Coimbatore,Tamil Nadu,2025-09-04,Shipped
+100247,C0074,Ananya Reddy,Bedside Table,Furniture,2,4470,25,UPI,Pune,Maharashtra,2025-08-24,Shipped
+100882,C0068,Vikram Yadav,Yoga Mat,Sports,4,770,5,Debit Card,Chennai,Tamil Nadu,2025-04-26,Delivered
+100578,C0339,Deepak Malhotra,Dry Fruits Pack,Grocery,1,1180,35,Net Banking,Bengaluru,Karnataka,2025-12-16,Cancelled
+100700,C0295,Lakshmi Pillai,Running Shoes,Sports,3,5350,5,Credit Card,Delhi,Delhi,2026-03-22,Shipped
+100777,C0024,Kavya Malhotra,Moisturizer,Beauty,8,1020,5,Credit Card,Jaipur,Rajasthan,2026-06-30,Delivered
+100810,C0054,Neha Shetty,Competitive Exam Guide,Books,5,740,0,Net Banking,Vijayawada,Andhra Pradesh,2025-10-19,Delivered
+100412,C0202,Neha Pandey,Bedside Table,Furniture,7,5030,35,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-11-29,Delivered
+100012,C0315,Meera Malhotra,Basmati Rice 5kg,Grocery,1,640,5,Net Banking,Vijayawada,Andhra Pradesh,2026-09-18,Delivered
+100291,C0269,Nikhil Rao,Bedside Table,Furniture,2,4430,10,Cash on Delivery,Hyderabad,Telangana,2026-07-04,Delivered
+100326,C0249,Priya Patel,Laptop,Electronics,10,44920,10,Cash on Delivery,Coimbatore,Tamil Nadu,2025-03-20,Processing
+100422,C0185,Sai Patel,Monitor,Electronics,9,19940,40,Credit Card,Pune,Maharashtra,2025-11-06,Processing
+100636,C0132,Vikram Menon,Novel,Books,2,400,20,Credit Card,Pune,Maharashtra,2026-08-30,Shipped
+100800,C0228,Diya Tripathi,Yoga Mat,Sports,5,720,5,Net Banking,Chennai,Tamil Nadu,2026-08-11,Processing
+100842,C0253,Karthik Mehta,Sugar 5kg,Grocery,8,330,20,Debit Card,Vijayawada,Andhra Pradesh,2025-11-28,Shipped
+100350,C0348,Keerthi Rao,Competitive Exam Guide,Books,3,360,0,Credit Card,Hyderabad,Telangana,2025-10-17,Delivered
+100681,C0215,Sai Naidu,Bluetooth Speaker,Electronics,3,7740,5,Net Banking,Delhi,Delhi,2025-11-20,Processing
+100886,C0124,Tanvi Chaudhary,Shampoo,Beauty,10,720,12,Cash on Delivery,Jaipur,Rajasthan,2025-12-14,Delivered
+100912,C0266,Divya Chopra,Mechanical Keyboard,Electronics,9,3880,10,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-04-10,Processing
+100131,C0045,Harsh Singh,Moisturizer,Beauty,2,920,15,UPI,Jaipur,Rajasthan,2025-09-29,Delivered
+100166,C0219,Rahul Jain,Saree,Clothing,2,2870,25,Credit Card,Kolkata,West Bengal,2025-05-31,Shipped
+100323,C0055,Aman Shetty,Jacket,Clothing,6,6320,10,Debit Card,Coimbatore,Tamil Nadu,2026-02-28,Shipped
+100377,C0160,Aarav Nair,Induction Cooktop,Home Appliances,9,2190,30,Cash on Delivery,Coimbatore,Tamil Nadu,2025-10-17,Processing
+100416,C0033,Diya Agarwal,Sunscreen,Beauty,6,1030,30,Net Banking,Pune,Maharashtra,2026-09-06,Cancelled
+100425,C0264,Siddharth Mishra,Smartphone,Electronics,4,24760,40,UPI,Lucknow,Uttar Pradesh,2025-08-15,Processing
+100595,C0291,Varun Pillai,Study Table,Furniture,4,19190,40,Cash on Delivery,Coimbatore,Tamil Nadu,2025-05-09,Processing
+100894,C0026,Neha Chaudhary,Shampoo,Beauty,8,590,35,Net Banking,Vijayawada,Andhra Pradesh,2025-04-12,Delivered
+100231,C0269,Nikhil Rao,Cooking Oil 5l,Grocery,2,790,25,Debit Card,Coimbatore,Tamil Nadu,2026-04-05,Delivered
+100253,C0292,Riya Naidu,Yoga Mat,Sports,3,1270,20,Cash on Delivery,Delhi,Delhi,2025-12-30,Delivered
+100396,C0247,Neha Chaudhary,Power Bank,Electronics,9,860,0,Net Banking,Chennai,Tamil Nadu,2025-12-27,Delivered
+100672,C0018,Ananya Yadav,Office Chair,Furniture,3,17120,35,Debit Card,Mumbai,Maharashtra,2025-10-25,Delivered
+100682,C0304,Akash Yadav,T-shirt,Clothing,5,530,25,Cash on Delivery,Chennai,Tamil Nadu,2025-12-03,Delivered
+100934,C0326,Rohan Mishra,Microwave Oven,Home Appliances,9,7780,30,UPI,Jaipur,Rajasthan,2026-03-19,Shipped
+100393,C0296,Arjun Shetty,Kurta,Clothing,8,2420,20,Cash on Delivery,Chennai,Tamil Nadu,2025-07-09,Delivered
+100597,C0281,Kavya Tripathi,Face Wash,Beauty,10,330,15,Credit Card,Pune,Maharashtra,2025-11-06,Delivered
+100305,C0076,Neha Reddy,Office Chair,Furniture,2,15390,5,Net Banking,Jaipur,Rajasthan,2025-12-29,Delivered
+100073,C0066,Pranav Patel,Kurta,Clothing,3,1970,0,Cash on Delivery,Hyderabad,Telangana,2026-08-01,Delivered
+100150,C0088,Shreya Das,Monitor,Electronics,4,21160,15,UPI,Delhi,Delhi,2025-06-15,Delivered
+100154,C0180,Arjun Agarwal,Novel,Books,5,600,25,Debit Card,Coimbatore,Tamil Nadu,2025-04-27,Delivered
+100732,C0171,Vivaan Naidu,Monitor,Electronics,6,25370,0,Net Banking,Kolkata,West Bengal,2025-02-25,Delivered
+100281,C0121,Arjun Patel,Coffee 500g,Grocery,5,480,5,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-01-29,Shipped
+100405,C0144,Priya Bose,Bedside Table,Furniture,7,5960,35,Debit Card,Mumbai,Maharashtra,2025-02-20,Processing
+100967,C0220,Vivaan Pillai,Biography,Books,7,380,25,Cash on Delivery,Delhi,Delhi,2025-05-16,Processing
+100766,C0011,Riya Chaudhary,Smartphone,Electronics,2,65890,35,Credit Card,Vijayawada,Andhra Pradesh,2026-09-11,Delivered
+100979,C0081,Abhinav Gupta,Office Chair,Furniture,2,7680,15,Credit Card,Chennai,Tamil Nadu,2026-05-11,Shipped
+100004,C0051,Tanvi Sharma,Running Shoes,Sports,6,2260,35,Net Banking,Lucknow,Uttar Pradesh,2026-07-31,Cancelled
+100400,C0276,Ananya Agarwal,Sports Bottle,Sports,10,540,20,Cash on Delivery,Mumbai,Maharashtra,2025-05-06,Cancelled
+100939,C0209,Nandini Sharma,Smartphone,Electronics,3,51150,10,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-04-21,Delivered
+100058,C0194,Tanvi Verma,Power Bank,Electronics,2,1780,0,Net Banking,Jaipur,Rajasthan,2026-04-01,Delivered
+100274,C0076,Neha Reddy,Ceiling Fan,Home Appliances,4,4570,10,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-07-23,Shipped
+100456,C0284,Nikhil Yadav,Dumbbell Set,Sports,2,4010,30,Credit Card,Delhi,Delhi,2025-03-15,Delivered
+100501,C0226,Priya Bose,Badminton Racket,Sports,5,880,35,Cash on Delivery,Pune,Maharashtra,2025-10-29,Delivered
+100122,C0188,Ananya Sharma,Sugar 5kg,Grocery,6,340,10,Debit Card,Vijayawada,Andhra Pradesh,2026-06-28,Shipped
+100137,C0325,Keerthi Sharma,Vacuum Cleaner,Home Appliances,10,13930,40,Debit Card,Delhi,Delhi,2025-02-20,Cancelled
+100467,C0240,Meera Yadav,Sofa,Furniture,1,34500,0,Net Banking,Pune,Maharashtra,2026-04-29,Shipped
+100666,C0305,Keerthi Singh,Power Bank,Electronics,1,1750,35,Debit Card,Jaipur,Rajasthan,2025-04-15,Delivered
+100614,C0118,Swathi Agarwal,Dining Table,Furniture,10,12170,5,Cash on Delivery,Chennai,Tamil Nadu,2026-01-02,Delivered
+100855,C0089,Siddharth Iyer,Tea 1kg,Grocery,2,390,12,Cash on Delivery,Kolkata,West Bengal,2025-08-21,Cancelled
+100955,C0300,Meera Reddy,Mixer Grinder,Home Appliances,10,5970,30,Cash on Delivery,Bengaluru,Karnataka,2025-07-21,Delivered
+100047,C0016,Neha Patel,Biography,Books,5,890,35,UPI,Lucknow,Uttar Pradesh,2026-09-11,Cancelled
+100148,C0120,Varun Shetty,Sports Bottle,Sports,2,680,40,Credit Card,Pune,Maharashtra,2026-03-14,Delivered
+100217,C0214,Neha Tripathi,Football,Sports,1,650,20,UPI,Chennai,Tamil Nadu,2026-06-14,Delivered
+100353,C0047,Sneha Mishra,Office Chair,Furniture,9,13030,20,UPI,Hyderabad,Telangana,2025-11-28,Delivered
+100727,C0301,Abhinav Pandey,Smartphone,Electronics,1,56060,35,UPI,Bengaluru,Karnataka,2025-03-25,Delivered
+100870,C0021,Keerthi Tripathi,Yoga Mat,Sports,2,1460,0,Debit Card,Hyderabad,Telangana,2025-09-05,Processing
+100102,C0032,Anjali Kumar,Atta 10kg,Grocery,7,0,40,Credit Card,Mumbai,Maharashtra,2025-03-02,Processing
+100360,C0303,Nandini Agarwal,Jeans,Clothing,6,1920,40,Net Banking,Coimbatore,Tamil Nadu,2026-02-17,Cancelled
+100363,C0030,Sneha Nair,Basmati Rice 5kg,Grocery,3,900,20,Debit Card,Delhi,Delhi,2026-03-09,Delivered
+100415,C0306,Nandini Shetty,Bookshelf,Furniture,7,11460,12,Credit Card,Chennai,Tamil Nadu,2025-08-03,Cancelled
+100475,C0226,Priya Bose,Usb-c Hub,Electronics,9,4440,0,Debit Card,Pune,Maharashtra,2026-02-09,Delivered
+100424,C0158,Deepak Pandey,Football,Sports,1,1780,40,UPI,Bengaluru,Karnataka,2026-01-06,Delivered
+100658,C0118,Swathi Agarwal,Kurta,Clothing,10,1220,15,UPI,Pune,Maharashtra,2025-01-12,Delivered
+100908,C0239,Pooja Sharma,Air Fryer,Home Appliances,2,4110,30,Net Banking,Vijayawada,Andhra Pradesh,2025-04-07,Delivered
+100053,C0083,Ananya Singh,Competitive Exam Guide,Books,4,930,30,Cash on Delivery,Coimbatore,Tamil Nadu,2025-10-25,Delivered
+100124,C0006,Aditi Tripathi,Football,Sports,1,1670,35,Cash on Delivery,Jaipur,Rajasthan,2026-06-29,Delivered
+100489,C0042,Arjun Singh,Saree,Clothing,1,8820,25,Cash on Delivery,Kolkata,West Bengal,2025-03-04,Processing
+100555,C0201,Sakshi Tripathi,Biography,Books,6,720,12,Credit Card,Jaipur,Rajasthan,2025-06-12,Delivered
+100831,C0013,Vikram Pillai,Atta 10kg,Grocery,1,600,35,Cash on Delivery,Mumbai,Maharashtra,2025-10-17,Delivered
+100850,C0020,Aarav Patel,Cricket Bat,Sports,6,7900,12,Credit Card,Delhi,Delhi,2025-11-18,Delivered
+100098,C0276,Ananya Agarwal,Study Table,Furniture,3,17560,20,Cash on Delivery,Lucknow,Uttar Pradesh,2025-11-30,Shipped
+100335,C0217,Meera Pandey,Bedside Table,Furniture,5,5800,5,Debit Card,Bengaluru,Karnataka,2026-05-07,Delivered
+100566,C0065,Pranav Agarwal,Atta 10kg,Grocery,2,420,10,Cash on Delivery,Lucknow,Uttar Pradesh,2026-07-01,Returned
+100570,C0236,Siddharth Verma,Cricket Bat,Sports,9,5340,40,Debit Card,Chennai,Tamil Nadu,2025-04-03,Delivered
+100097,C0244,Shreya Rao,Sofa,Furniture,4,47430,10,Net Banking,Hyderabad,Telangana,,Returned
+100190,C0344,Aman Jain,Induction Cooktop,Home Appliances,6,4920,40,Net Banking,Vijayawada,Andhra Pradesh,2025-09-22,Delivered
+100394,C0055,Aman Shetty,Sunscreen,Beauty,1,760,15,Debit Card,Lucknow,Uttar Pradesh,2026-01-16,Delivered
+100778,C0157,Harsh Iyer,Usb-c Hub,Electronics,1,4350,40,Debit Card,Vijayawada,Andhra Pradesh,2026-04-22,Returned
+100891,C0122,Abhinav Yadav,Formal Shirt,Clothing,3,2980,0,UPI,Mumbai,Maharashtra,2025-02-12,Delivered
+100917,C0180,Arjun Agarwal,Hair Serum,Beauty,3,280,20,Net Banking,Pune,Maharashtra,2026-07-23,Returned
+100026,C0137,Riya Kapoor,Programming Book,Books,10,900,10,Debit Card,Delhi,Delhi,2026-02-22,Delivered
+100157,C0266,Divya Chopra,Biography,Books,3,440,20,UPI,Delhi,Delhi,2025-05-01,Shipped
+100237,C0197,Lakshmi Das,Face Wash,Beauty,5,670,0,Cash on Delivery,Bengaluru,Karnataka,2026-09-13,Delivered
+100392,C0320,Lakshmi Rao,Moisturizer,Beauty,5,910,10,Debit Card,Lucknow,Uttar Pradesh,2026-04-19,Delivered
+100550,C0034,Nandini Kapoor,Coffee 500g,Grocery,4,530,40,Cash on Delivery,Chennai,Tamil Nadu,2025-07-12,Delivered
+100752,C0256,Keerthi Mishra,Power Bank,Electronics,2,3010,25,Net Banking,Vijayawada,Andhra Pradesh,2025-07-06,Returned
+100044,C0080,Deepak Agarwal,Bookshelf,Furniture,9,6550,30,Cash on Delivery,Jaipur,Rajasthan,2026-04-21,Delivered
+100096,C0080,Deepak Agarwal,Sofa,Furniture,1,21850,0,Net Banking,Chennai,Tamil Nadu,2025-09-06,Processing
+100470,C0222,Divya Sharma,Perfume,Beauty,10,3350,25,Cash on Delivery,Mumbai,Maharashtra,2026-09-16,Delivered
+100230,C0198,Nandini Mehta,Face Wash,Beauty,5,370,0,Net Banking,Mumbai,Maharashtra,2025-03-16,Shipped
+100411,C0312,Aarav Kulkarni,Usb-c Hub,Electronics,10,2350,5,Cash on Delivery,Lucknow,Uttar Pradesh,2026-02-22,Delivered
+100443,C0137,Riya Kapoor,Vacuum Cleaner,Home Appliances,4,7180,10,Debit Card,Mumbai,Maharashtra,2025-03-11,Delivered
+100562,C0158,Deepak Pandey,Cooking Oil 5l,Grocery,1,800,10,Cash on Delivery,Delhi,Delhi,2025-04-03,Delivered
+100604,C0288,Arjun Saxena,Saree,Clothing,6,7320,25,Net Banking,Bengaluru,Karnataka,2026-08-29,Processing
+100664,C0222,Divya Sharma,Makeup Kit,Beauty,7,3220,10,Cash on Delivery,Lucknow,Uttar Pradesh,2025-01-14,Delivered
+100160,C0174,Aarav Tripathi,Office Chair,Furniture,10,10670,40,UPI,Kolkata,West Bengal,2026-06-01,Delivered
+100641,C0105,Swathi Gupta,Air Fryer,Home Appliances,7,6780,0,Net Banking,Mumbai,Maharashtra,2025-04-13,Delivered
+100318,C0309,Kavya Chopra,Running Shoes,Sports,7,6630,10,Debit Card,Delhi,Delhi,2025-06-07,Delivered
+100722,C0082,Sanjay Patel,Sofa,Furniture,2,46120,30,Debit Card,Kolkata,West Bengal,2025-12-22,Delivered
+100920,C0022,Divya Chaudhary,Shampoo,Beauty,4,900,40,Debit Card,Lucknow,Uttar Pradesh,2025-10-27,Shipped
+100222,C0316,Aman Das,Running Shoes,Sports,10,6260,30,Debit Card,Jaipur,Rajasthan,2025-11-23,Delivered
+100334,C0336,Siddharth Pandey,Cricket Bat,Sports,9,3350,25,Cash on Delivery,Kolkata,West Bengal,2026-07-02,Delivered
+100390,C0251,Akash Kulkarni,Usb-c Hub,Electronics,6,3950,25,Credit Card,Jaipur,Rajasthan,2025-12-25,Returned
+100637,C0020,Aarav Patel,Novel,Books,4,610,20,Net Banking,Chennai,Tamil Nadu,,Delivered
+100698,C0224,Keerthi Naidu,Laptop,Electronics,9,60320,25,Net Banking,Delhi,Delhi,2025-11-18,Delivered
+100724,C0097,Aditya Chopra,Moisturizer,Beauty,3,1140,15,UPI,Hyderabad,Telangana,2026-06-10,Processing
+100817,C0284,Nikhil Yadav,Electric Kettle,Home Appliances,1,1980,15,Net Banking,Mumbai,Maharashtra,2026-06-04,Delivered
+100196,C0334,Akash Saxena,Vacuum Cleaner,Home Appliances,1,13940,35,Debit Card,Vijayawada,Andhra Pradesh,2025-08-06,Delivered
+100577,C0300,Meera Reddy,Smartphone,Electronics,10,38490,30,UPI,Vijayawada,Andhra Pradesh,2025-11-19,Delivered
+100746,C0250,Karthik Patel,Mixer Grinder,Home Appliances,8,4800,40,Credit Card,Delhi,Delhi,2026-02-24,Shipped
+100092,C0095,Abhinav Malhotra,Programming Book,Books,6,660,5,Cash on Delivery,Delhi,Delhi,2025-05-31,Processing
+100186,C0123,Divya Naidu,Microwave Oven,Home Appliances,9,10690,40,UPI,Lucknow,Uttar Pradesh,2025-04-18,Shipped
+100336,C0137,Riya Kapoor,Badminton Racket,Sports,3,2550,0,Debit Card,Hyderabad,Telangana,2025-12-28,Delivered
+100609,C0111,Nandini Sharma,Laptop,Electronics,2,62420,20,Credit Card,Bengaluru,Karnataka,2026-06-15,Returned
+100651,C0094,Sai Patel,Data Science Handbook,Books,9,830,40,Net Banking,Hyderabad,Telangana,2025-10-24,Delivered
+100660,C0072,Arjun Sharma,Sports Bottle,Sports,5,780,20,UPI,Lucknow,Uttar Pradesh,2026-08-01,Delivered
+100066,C0325,Keerthi Sharma,Monitor,Electronics,4,27340,35,Cash on Delivery,Jaipur,Rajasthan,2025-08-20,Delivered
+100220,C0057,Swathi Yadav,Football,Sports,3,1990,35,Cash on Delivery,Lucknow,Uttar Pradesh,2025-02-15,Shipped
+100261,C0200,Isha Singh,Usb-c Hub,Electronics,5,2710,30,UPI,Delhi,Delhi,2025-08-30,Delivered
+100584,C0120,Varun Shetty,Makeup Kit,Beauty,8,1250,12,Debit Card,Jaipur,Rajasthan,2025-07-27,Delivered
+100707,C0146,Diya Joshi,Bedside Table,Furniture,8,6790,20,Debit Card,Lucknow,Uttar Pradesh,2025-01-24,Delivered
+100076,C0004,Neha Kumar,Moisturizer,Beauty,5,280,10,Net Banking,Chennai,Tamil Nadu,2026-07-16,Processing
+100079,C0263,Siddharth Kulkarni,Cricket Bat,Sports,4,2610,30,Credit Card,Jaipur,Rajasthan,2025-04-19,Delivered
+100133,C0163,Sanjay Singh,Dumbbell Set,Sports,5,1900,30,Net Banking,Chennai,Tamil Nadu,2025-06-22,Delivered
+100249,C0060,Arjun Patel,Monitor,Electronics,7,24480,35,Credit Card,Pune,Maharashtra,2026-01-02,Cancelled
+100581,C0165,Aditi Chopra,Spice Combo,Grocery,7,430,20,Net Banking,Coimbatore,Tamil Nadu,2025-07-07,Returned
+100737,C0257,Pooja Joshi,Power Bank,Electronics,5,1080,12,UPI,Mumbai,Maharashtra,2025-03-23,Cancelled
+100771,C0104,Karthik Yadav,Dumbbell Set,Sports,3,4240,10,Debit Card,Pune,Maharashtra,2026-03-11,Shipped
+100962,C0101,Aman Jain,Study Table,Furniture,5,15000,40,UPI,Delhi,Delhi,2025-08-29,Delivered
+100362,C0290,Riya Das,Office Chair,Furniture,4,12320,15,UPI,Coimbatore,Tamil Nadu,2025-03-10,Processing
+100490,C0226,Priya Bose,Hoodie,Clothing,1,3800,35,Debit Card,Kolkata,West Bengal,2026-05-17,Delivered
+100655,C0160,Aarav Nair,Spice Combo,Grocery,9,340,40,Cash on Delivery,Pune,Maharashtra,2025-08-11,Delivered
+100719,C0312,Aarav Kulkarni,Biography,Books,1,450,5,Credit Card,Vijayawada,Andhra Pradesh,2026-09-29,Delivered
+100873,C0192,Divya Sharma,Sports Bottle,Sports,10,320,0,Cash on Delivery,Kolkata,West Bengal,2025-07-01,Delivered
+100945,C0316,Aman Das,Induction Cooktop,Home Appliances,1,5130,30,Debit Card,Lucknow,Uttar Pradesh,2025-03-02,Delivered
+100062,C0201,Sakshi Tripathi,Makeup Kit,Beauty,6,1730,35,Net Banking,Coimbatore,Tamil Nadu,2025-12-12,Shipped
+100232,C0338,Vivaan Patel,Jeans,Clothing,3,2690,0,UPI,Delhi,Delhi,2026-03-22,Delivered
+100348,C0073,Abhinav Kulkarni,Jeans,Clothing,2,2090,0,Net Banking,Lucknow,Uttar Pradesh,2025-11-14,Delivered
+100797,C0306,Nandini Shetty,Office Chair,Furniture,3,3810,30,Net Banking,Coimbatore,Tamil Nadu,2025-11-02,Delivered
+100014,C0342,Pranav Jain,Formal Shirt,Clothing,5,2050,0,Net Banking,Pune,Maharashtra,2025-12-20,Delivered
+100444,C0090,Abhinav Pillai,Novel,Books,8,530,15,Credit Card,Mumbai,Maharashtra,2025-09-11,Delivered
+100488,C0236,Siddharth Verma,Shampoo,Beauty,10,390,10,Net Banking,Vijayawada,Andhra Pradesh,2025-10-19,Delivered
+100214,C0044,Varun Das,Smartphone,Electronics,6,17550,5,Net Banking,Delhi,Delhi,2025-06-22,Delivered
+100259,C0049,Sakshi Chopra,Yoga Mat,Sports,10,1900,40,Net Banking,Kolkata,West Bengal,2026-09-02,Cancelled
+100282,C0073,Abhinav Kulkarni,Dumbbell Set,Sports,6,6500,25,Credit Card,Mumbai,Maharashtra,2026-07-10,Shipped
+100739,C0039,Siddharth Reddy,Electric Kettle,Home Appliances,7,1880,20,UPI,Coimbatore,Tamil Nadu,2026-01-31,Delivered
+100869,C0122,Abhinav Yadav,Bookshelf,Furniture,1,3980,30,Cash on Delivery,Coimbatore,Tamil Nadu,2026-04-26,Returned
+100155,C0204,Pranav Reddy,Basmati Rice 5kg,Grocery,7,480,40,UPI,Coimbatore,Tamil Nadu,2025-05-09,Shipped
+100162,C0295,Lakshmi Pillai,Novel,Books,1,730,10,Credit Card,Coimbatore,Tamil Nadu,2026-03-03,Delivered
+100254,C0145,Shreya Saxena,Office Chair,Furniture,8,3100,20,UPI,Mumbai,Maharashtra,2025-02-17,Delivered
+100373,C0145,Shreya Saxena,Makeup Kit,Beauty,10,2490,35,Debit Card,Kolkata,West Bengal,2026-02-03,Processing
+100596,C0218,Rohan Pandey,Bedside Table,Furniture,3,4730,25,Debit Card,Chennai,Tamil Nadu,2025-07-24,Cancelled
+100690,C0115,Siddharth Saxena,Jeans,Clothing,10,3390,20,Credit Card,Hyderabad,Telangana,2026-07-30,Returned
+100726,C0339,Deepak Malhotra,Laptop,Electronics,3,69120,40,Net Banking,Vijayawada,Andhra Pradesh,2025-02-13,Delivered
+100880,C0013,Vikram Pillai,Vacuum Cleaner,Home Appliances,9,10360,40,UPI,Pune,Maharashtra,2026-06-26,Delivered
+100938,C0087,Akash Kulkarni,Hoodie,Clothing,10,1440,12,UPI,Jaipur,Rajasthan,2025-04-23,Processing
+100983,C0025,Deepak Gupta,Sports Bottle,Sports,4,1040,10,Net Banking,Bengaluru,Karnataka,2026-07-20,Delivered
+100356,C0257,Pooja Joshi,Cricket Bat,Sports,6,4530,20,Debit Card,Coimbatore,Tamil Nadu,2025-08-24,Cancelled
+100399,C0072,Arjun Sharma,Mechanical Keyboard,Electronics,7,2800,10,Debit Card,Bengaluru,Karnataka,2026-09-10,Shipped
+100465,C0086,Kavya Singh,Sports Shoes,Clothing,6,5290,30,UPI,Coimbatore,Tamil Nadu,2025-10-16,Delivered
+100469,C0139,Tanvi Naidu,Data Science Handbook,Books,5,840,5,UPI,Chennai,Tamil Nadu,2026-07-06,Delivered
+101000,C0181,Shreya Gupta,Monitor,Electronics,3,14940,30,Net Banking,Mumbai,Maharashtra,2025-09-19,Cancelled
+100316,C0082,Sanjay Patel,Sunscreen,Beauty,6,370,25,Cash on Delivery,Mumbai,Maharashtra,2025-01-21,Processing
+100403,C0008,Aarav Iyer,Badminton Racket,Sports,6,1570,25,Credit Card,Bengaluru,Karnataka,2026-06-02,Delivered
+100744,C0261,Manish Tripathi,Makeup Kit,Beauty,6,3830,20,Cash on Delivery,Delhi,Delhi,2026-09-15,Shipped
+100932,C0191,Aman Naidu,Sunscreen,Beauty,5,850,30,Cash on Delivery,Chennai,Tamil Nadu,2026-07-23,Delivered
+100300,C0282,Siddharth Malhotra,Vacuum Cleaner,Home Appliances,8,8960,0,UPI,Jaipur,Rajasthan,2025-10-27,Cancelled
+100703,C0079,Neha Pandey,Business Book,Books,8,390,35,Debit Card,Pune,Maharashtra,2026-01-23,Delivered
+100708,C0335,Akash Reddy,Ceiling Fan,Home Appliances,4,2220,35,Debit Card,Pune,Maharashtra,2026-06-27,Returned
+100227,C0318,Swathi Singh,Electric Kettle,Home Appliances,1,1280,20,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-01-08,Delivered
+100554,C0344,Aman Jain,Sofa,Furniture,6,46460,10,UPI,Coimbatore,Tamil Nadu,2026-09-22,Processing
+100866,C0146,Diya Joshi,Mechanical Keyboard,Electronics,2,6440,35,Credit Card,Coimbatore,Tamil Nadu,2025-02-20,Cancelled
+100904,C0260,Aman Kapoor,Sunscreen,Beauty,6,840,5,Credit Card,Lucknow,Uttar Pradesh,2026-04-14,Shipped
+100989,C0225,Sanjay Das,Badminton Racket,Sports,10,2990,40,Net Banking,Chennai,Tamil Nadu,2025-11-24,Delivered
+100043,C0087,Akash Kulkarni,Sugar 5kg,Grocery,1,410,0,Net Banking,Pune,Maharashtra,2025-01-20,Shipped
+100285,C0247,Neha Chaudhary,Induction Cooktop,Home Appliances,10,4030,20,Debit Card,Coimbatore,Tamil Nadu,2026-04-21,Cancelled
+100791,C0044,Varun Das,Bookshelf,Furniture,10,8240,30,Net Banking,Bengaluru,Karnataka,2025-06-06,Delivered
+100957,C0140,Sneha Sharma,Bedside Table,Furniture,1,3170,25,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-06-21,Delivered
+100990,C0165,Aditi Chopra,Competitive Exam Guide,Books,2,960,12,Credit Card,Jaipur,Rajasthan,2025-07-28,Processing
+100036,C0341,Sneha Singh,Usb-c Hub,Electronics,3,2520,35,Credit Card,Delhi,Delhi,2025-03-06,Delivered
+100569,C0082,Sanjay Patel,Induction Cooktop,Home Appliances,8,3210,25,Cash on Delivery,Pune,Maharashtra,2026-01-11,Processing
+100860,C0185,Sai Patel,Data Science Handbook,Books,3,1500,40,Debit Card,Chennai,Tamil Nadu,2026-04-26,Delivered
+100019,C0082,Sanjay Patel,Programming Book,Books,10,580,10,Credit Card,Pune,Maharashtra,2026-05-11,Returned
+100387,C0272,Sanjay Naidu,Office Chair,Furniture,9,5560,12,Cash on Delivery,Bengaluru,Karnataka,2026-06-12,Delivered
+100747,C0348,Keerthi Rao,Makeup Kit,Beauty,2,1250,40,Cash on Delivery,Jaipur,Rajasthan,2025-04-20,Delivered
+100858,C0115,Siddharth Saxena,Hair Serum,Beauty,4,310,5,Debit Card,Vijayawada,Andhra Pradesh,2026-03-17,Shipped
+100314,C0313,Sai Das,Usb-c Hub,Electronics,8,1910,20,Debit Card,Lucknow,Uttar Pradesh,2026-08-02,Shipped
+100459,C0015,Siddharth Yadav,Sports Shoes,Clothing,1,3730,25,UPI,Pune,Maharashtra,2025-08-31,Shipped
+100472,C0114,Sai Nair,Coffee 500g,Grocery,5,620,15,UPI,Lucknow,Uttar Pradesh,2025-10-30,Shipped
+100135,C0153,Ananya Jain,Sports Bottle,Sports,2,510,10,UPI,Vijayawada,Andhra Pradesh,2026-06-07,Delivered
+100181,C0051,Tanvi Sharma,Sofa,Furniture,6,29020,25,UPI,Mumbai,Maharashtra,2026-04-12,Processing
+100310,C0332,Meera Agarwal,Vacuum Cleaner,Home Appliances,9,9280,20,Debit Card,Bengaluru,Karnataka,2025-04-12,Cancelled
+100322,C0004,Neha Kumar,Programming Book,Books,3,610,35,UPI,Bengaluru,Karnataka,2025-01-02,Delivered
+100410,C0112,Aditya Rao,Perfume,Beauty,10,3080,25,Credit Card,Pune,Maharashtra,2025-01-12,Delivered
+100622,C0239,Pooja Sharma,Badminton Racket,Sports,5,1560,35,Credit Card,Bengaluru,Karnataka,2025-05-05,Delivered
+100699,C0322,Pooja Saxena,Air Fryer,Home Appliances,5,10920,20,Credit Card,Kolkata,West Bengal,2026-06-12,Shipped
+100242,C0268,Keerthi Iyer,Sports Bottle,Sports,9,460,10,Debit Card,Vijayawada,Andhra Pradesh,2025-05-30,Delivered
+100315,C0167,Kavya Chaudhary,Badminton Racket,Sports,1,3480,40,Debit Card,Kolkata,West Bengal,2026-02-24,Processing
+100327,C0046,Vikram Iyer,Sports Bottle,Sports,2,580,40,Credit Card,Mumbai,Maharashtra,2025-10-19,Processing
+100421,C0003,Riya Patel,Hair Serum,Beauty,1,480,35,UPI,Chennai,Tamil Nadu,2026-08-13,Delivered
+100505,C0232,Keerthi Kulkarni,Dining Table,Furniture,9,27040,0,Credit Card,Jaipur,Rajasthan,2025-04-01,Cancelled
+100508,C0214,Neha Tripathi,Competitive Exam Guide,Books,1,790,10,Debit Card,Delhi,Delhi,2026-03-06,Delivered
+100035,C0217,Meera Pandey,Dry Fruits Pack,Grocery,8,1090,5,Debit Card,Mumbai,Maharashtra,2025-12-20,Delivered
+100106,C0127,Riya Kumar,Spice Combo,Grocery,3,680,40,Credit Card,Mumbai,Maharashtra,2025-02-28,Delivered
+100123,C0272,Sanjay Naidu,Atta 10kg,Grocery,4,560,0,UPI,Coimbatore,Tamil Nadu,2026-01-15,Shipped
+100273,C0290,Riya Das,Tea 1kg,Grocery,3,350,35,UPI,Coimbatore,Tamil Nadu,2026-06-04,Shipped
+100567,C0206,Harsh Pillai,Business Book,Books,9,670,0,Net Banking,Hyderabad,Telangana,2025-07-24,Delivered
+100896,C0237,Sanjay Menon,Hoodie,Clothing,9,2990,40,UPI,Pune,Maharashtra,2025-10-11,Delivered
+100264,C0247,Neha Chaudhary,Mechanical Keyboard,Electronics,1,3600,12,Debit Card,Mumbai,Maharashtra,2025-02-27,Delivered
+100317,C0264,Siddharth Mishra,Kurta,Clothing,10,1070,30,Credit Card,Jaipur,Rajasthan,2025-02-04,Cancelled
+100407,C0286,Rahul Naidu,Bedside Table,Furniture,7,4620,15,Debit Card,Mumbai,Maharashtra,2026-05-06,Delivered
+100457,C0051,Tanvi Sharma,Office Chair,Furniture,3,15130,15,Credit Card,Coimbatore,Tamil Nadu,2026-06-30,Delivered
+100905,C0171,Vivaan Naidu,Perfume,Beauty,1,1300,30,Cash on Delivery,Chennai,Tamil Nadu,2026-02-03,Delivered
+100001,C0256,Keerthi Mishra,Saree,Clothing,2,6710,20,Credit Card,Mumbai,Maharashtra,2026-01-01,Delivered
+100063,C0099,Arjun Pandey,Coffee 500g,Grocery,4,840,15,Credit Card,Mumbai,Maharashtra,2025-11-16,Delivered
+100164,C0247,Neha Chaudhary,Bedside Table,Furniture,7,2430,25,Debit Card,Jaipur,Rajasthan,2025-11-21,Delivered
+100692,C0141,Varun Agarwal,Electric Kettle,Home Appliances,4,920,0,Net Banking,Delhi,Delhi,2026-08-18,Shipped
+100618,C0155,Sneha Sharma,Induction Cooktop,Home Appliances,5,3320,12,UPI,Mumbai,Maharashtra,2025-02-26,Cancelled
+100822,C0185,Sai Patel,Competitive Exam Guide,Books,3,600,0,Net Banking,Mumbai,Maharashtra,2025-11-17,Returned
+100265,C0112,Aditya Rao,Electric Kettle,Home Appliances,4,1710,30,Net Banking,Delhi,Delhi,2026-06-22,Delivered
+100426,C0241,Aman Joshi,Formal Shirt,Clothing,7,2960,15,Credit Card,Jaipur,Rajasthan,2026-06-22,Delivered
+100474,C0008,Aarav Iyer,Programming Book,Books,10,910,15,Net Banking,Bengaluru,Karnataka,2026-05-25,Delivered
+100504,C0076,Neha Reddy,Mixer Grinder,Home Appliances,5,2840,25,Cash on Delivery,Lucknow,Uttar Pradesh,2025-08-25,Processing
+100969,C0277,Swathi Patel,Sports Shoes,Clothing,4,6000,20,UPI,Hyderabad,Telangana,2026-09-15,Delivered
+100541,C0240,Meera Yadav,Badminton Racket,Sports,5,1770,30,Cash on Delivery,Delhi,Delhi,2026-07-05,Delivered
+100606,C0336,Siddharth Pandey,Mechanical Keyboard,Electronics,6,2070,40,Net Banking,Bengaluru,Karnataka,2025-08-17,Delivered
+100306,C0003,Riya Patel,Face Wash,Beauty,5,350,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-04-24,Cancelled
+100500,C0320,Lakshmi Rao,Basmati Rice 5kg,Grocery,2,490,20,Cash on Delivery,Lucknow,Uttar Pradesh,2025-07-26,Delivered
+100627,C0125,Riya Pandey,Biography,Books,2,630,12,Net Banking,Bengaluru,Karnataka,2026-07-15,Delivered
+100988,C0050,Tanvi Patel,Hoodie,Clothing,6,3610,0,Debit Card,Pune,Maharashtra,2025-10-26,Delivered
+100119,C0191,Aman Naidu,Cricket Bat,Sports,5,2450,12,Net Banking,Mumbai,Maharashtra,2025-07-15,Delivered
+100188,C0319,Sanjay Gupta,T-shirt,Clothing,10,700,0,Credit Card,Pune,Maharashtra,2025-07-17,Cancelled
+100382,C0046,Vikram Iyer,Tea 1kg,Grocery,10,380,12,Debit Card,Kolkata,West Bengal,2026-01-22,Delivered
+100512,C0138,Pranav Joshi,Power Bank,Electronics,4,1920,0,Credit Card,Mumbai,Maharashtra,2025-11-24,Shipped
+100078,C0030,Sneha Nair,Mechanical Keyboard,Electronics,1,5620,0,Credit Card,Mumbai,Maharashtra,2025-03-04,Delivered
+100099,C0023,Riya Kapoor,Badminton Racket,Sports,2,2670,35,Credit Card,Kolkata,West Bengal,2025-08-16,Delivered
+100438,C0153,Ananya Jain,Formal Shirt,Clothing,6,1400,12,Cash on Delivery,Bengaluru,Karnataka,2025-02-24,Processing
+100521,C0095,Abhinav Malhotra,Perfume,Beauty,10,3310,5,Credit Card,Delhi,Delhi,2025-01-06,Processing
+100640,C0096,Manish Gupta,Tea 1kg,Grocery,3,460,25,UPI,Jaipur,Rajasthan,2025-12-30,Shipped
+100786,C0263,Siddharth Kulkarni,Bluetooth Speaker,Electronics,2,7880,30,Cash on Delivery,Delhi,Delhi,2025-11-15,Cancelled
+100088,C0199,Pooja Reddy,Bedside Table,Furniture,4,2160,35,Cash on Delivery,Mumbai,Maharashtra,2025-08-29,Delivered
+100192,C0165,Aditi Chopra,Basmati Rice 5kg,Grocery,4,730,25,Credit Card,Coimbatore,Tamil Nadu,2025-03-23,Shipped
+100455,C0206,Harsh Pillai,Moisturizer,Beauty,9,1200,12,Debit Card,Coimbatore,Tamil Nadu,2025-04-06,Returned
+100594,C0186,Sai Bose,Perfume,Beauty,1,3830,12,Net Banking,Jaipur,Rajasthan,2025-09-16,Cancelled
+100895,C0018,Ananya Yadav,Badminton Racket,Sports,5,2710,10,Debit Card,Hyderabad,Telangana,2026-03-15,Delivered
+100922,C0296,Arjun Shetty,Cricket Bat,Sports,6,1710,15,Cash on Delivery,Chennai,Tamil Nadu,2025-03-14,Delivered
+100016,C0215,Sai Naidu,Hoodie,Clothing,2,2390,0,Net Banking,Jaipur,Rajasthan,2025-04-08,Delivered
+100080,C0105,Swathi Gupta,Face Wash,Beauty,7,450,0,Debit Card,Bengaluru,Karnataka,2026-05-20,Processing
+100951,C0147,Deepak Kumar,Face Wash,Beauty,10,210,12,UPI,Vijayawada,Andhra Pradesh,2025-02-05,Delivered
+100020,C0122,Abhinav Yadav,Mechanical Keyboard,Electronics,1,5890,15,Credit Card,Jaipur,Rajasthan,2025-12-06,Delivered
+100713,C0232,Keerthi Kulkarni,Sports Bottle,Sports,2,1120,0,Net Banking,Kolkata,West Bengal,2025-12-17,Delivered
+100750,C0038,Anjali Pandey,Makeup Kit,Beauty,1,980,40,Cash on Delivery,Jaipur,Rajasthan,2026-02-18,Delivered
+100935,C0068,Vikram Yadav,Makeup Kit,Beauty,6,1110,0,UPI,Delhi,Delhi,2025-04-28,Cancelled
+100167,C0182,Sakshi Naidu,Tea 1kg,Grocery,5,780,0,Credit Card,Mumbai,Maharashtra,2025-08-26,Cancelled
+100244,C0286,Rahul Naidu,Football,Sports,2,2320,12,Credit Card,Bengaluru,Karnataka,2026-07-30,Delivered
+100441,C0205,Abhinav Rao,Novel,Books,8,580,40,Credit Card,Vijayawada,Andhra Pradesh,2026-07-07,Delivered
+100539,C0009,Keerthi Naidu,Air Fryer,Home Appliances,1,8430,25,Credit Card,Vijayawada,Andhra Pradesh,2025-09-24,Shipped
+100552,C0329,Karthik Shetty,Data Science Handbook,Books,9,1280,0,UPI,Jaipur,Rajasthan,2025-11-23,Delivered
+100759,C0301,Abhinav Pandey,Coffee 500g,Grocery,1,390,10,UPI,Jaipur,Rajasthan,2026-09-18,Delivered
+100795,C0075,Swathi Tripathi,Atta 10kg,Grocery,8,480,5,Debit Card,Chennai,Tamil Nadu,2025-06-08,Processing
+100832,C0206,Harsh Pillai,Ceiling Fan,Home Appliances,1,2830,12,Credit Card,Lucknow,Uttar Pradesh,2026-07-10,Processing
+100924,C0172,Manish Kapoor,Moisturizer,Beauty,2,850,25,Cash on Delivery,Mumbai,Maharashtra,2025-12-20,Shipped
+100189,C0169,Priya Singh,Jacket,Clothing,8,5750,25,Cash on Delivery,Hyderabad,Telangana,2025-01-16,Delivered
+100480,C0174,Aarav Tripathi,Ceiling Fan,Home Appliances,3,4000,40,Credit Card,Pune,Maharashtra,2026-01-03,Returned
+100624,C0254,Pooja Nair,Business Book,Books,5,1010,30,Net Banking,Lucknow,Uttar Pradesh,2026-04-25,Processing
+100384,C0023,Riya Kapoor,Dumbbell Set,Sports,2,7310,12,Debit Card,Coimbatore,Tamil Nadu,2026-06-29,Delivered
+100388,C0056,Sanjay Shetty,Jeans,Clothing,10,2380,5,Debit Card,Pune,Maharashtra,2026-08-18,Delivered
+100654,C0111,Nandini Sharma,Sofa,Furniture,10,53830,12,Credit Card,Hyderabad,Telangana,2025-06-10,Returned
+100255,C0128,Tanvi Gupta,Face Wash,Beauty,9,330,15,Net Banking,Hyderabad,Telangana,2025-08-16,Processing
+100293,C0258,Lakshmi Joshi,Sports Bottle,Sports,5,990,12,UPI,Delhi,Delhi,2026-06-23,Shipped
+100369,C0305,Keerthi Singh,Mixer Grinder,Home Appliances,3,5050,40,Debit Card,Hyderabad,Telangana,2026-09-02,Processing
+100481,C0165,Aditi Chopra,Shampoo,Beauty,5,250,25,Credit Card,Kolkata,West Bengal,2025-07-15,Processing
+100538,C0162,Siddharth Kapoor,Air Fryer,Home Appliances,2,11580,40,Cash on Delivery,Delhi,Delhi,2025-06-26,Delivered
+100587,C0117,Aditya Malhotra,Yoga Mat,Sports,8,1760,30,Net Banking,Delhi,Delhi,2026-03-01,Delivered
+100633,C0078,Aditi Patel,Bedside Table,Furniture,9,1860,0,UPI,Vijayawada,Andhra Pradesh,2025-12-10,Delivered
+100824,C0345,Keerthi Yadav,Dumbbell Set,Sports,9,5530,5,Credit Card,Lucknow,Uttar Pradesh,2026-01-22,Cancelled
+100871,C0079,Neha Pandey,Sports Shoes,Clothing,7,2070,35,Credit Card,Delhi,Delhi,2025-02-12,Delivered
+100898,C0147,Deepak Kumar,Makeup Kit,Beauty,5,3420,20,Debit Card,Jaipur,Rajasthan,2025-11-16,Processing
+100226,C0170,Shreya Kulkarni,Mixer Grinder,Home Appliances,8,5070,15,Debit Card,Chennai,Tamil Nadu,2025-10-16,Delivered
+100370,C0238,Aditya Chopra,Spice Combo,Grocery,5,250,40,UPI,Jaipur,Rajasthan,2025-10-22,Cancelled
+100404,C0194,Tanvi Verma,Spice Combo,Grocery,2,460,40,Net Banking,Kolkata,West Bengal,2025-12-04,Shipped
+100458,C0216,Lakshmi Das,Football,Sports,5,800,12,Debit Card,Vijayawada,Andhra Pradesh,2026-09-03,Shipped
+100676,C0246,Lakshmi Agarwal,Biography,Books,5,620,15,Debit Card,Coimbatore,Tamil Nadu,2026-07-26,Cancelled
+100677,C0216,Lakshmi Das,Induction Cooktop,Home Appliances,6,5420,25,Credit Card,Kolkata,West Bengal,2025-07-12,Processing
+100911,C0330,Deepak Menon,Running Shoes,Sports,2,4040,5,Net Banking,Jaipur,Rajasthan,2026-01-19,Delivered
+100057,C0103,Rahul Saxena,Jacket,Clothing,6,2640,10,Debit Card,Mumbai,Maharashtra,2025-12-09,Delivered
+100069,C0078,Aditi Patel,Atta 10kg,Grocery,2,580,0,Net Banking,Chennai,Tamil Nadu,2026-05-21,Returned
+100173,C0072,Arjun Sharma,Spice Combo,Grocery,10,630,0,Credit Card,Chennai,Tamil Nadu,2026-08-05,Shipped
+100048,C0135,Anjali Kapoor,Data Science Handbook,Books,9,1410,40,Cash on Delivery,Hyderabad,Telangana,2026-04-15,Processing
+100100,C0227,Aarav Kumar,Cooking Oil 5l,Grocery,8,730,5,Net Banking,Delhi,Delhi,2025-05-24,Delivered
+100303,C0243,Swathi Joshi,Novel,Books,2,370,25,Debit Card,Chennai,Tamil Nadu,2026-02-09,Delivered
+100355,C0052,Rahul Kapoor,Yoga Mat,Sports,10,1390,25,Credit Card,Kolkata,West Bengal,2026-04-03,Returned
+100434,C0313,Sai Das,Business Book,Books,4,490,30,Credit Card,Mumbai,Maharashtra,2026-03-30,Delivered
+100823,C0154,Kavya Reddy,Jacket,Clothing,7,4070,0,UPI,Bengaluru,Karnataka,2025-07-19,Delivered
+100847,C0040,Karthik Bose,Atta 10kg,Grocery,5,640,30,Credit Card,Chennai,Tamil Nadu,2025-04-05,Delivered
+100893,C0077,Isha Iyer,Novel,Books,2,500,0,Debit Card,Chennai,Tamil Nadu,2025-12-16,Delivered
+100052,C0163,Sanjay Singh,Novel,Books,7,790,12,Net Banking,Hyderabad,Telangana,2025-12-17,Delivered
+100114,C0252,Keerthi Singh,Ceiling Fan,Home Appliances,5,2920,15,Net Banking,Chennai,Tamil Nadu,2025-02-15,Delivered
+100339,C0177,Ananya Mishra,Wireless Mouse,Electronics,9,1540,20,Credit Card,Chennai,Tamil Nadu,2025-08-19,Delivered
+100448,C0270,Pranav Iyer,Bedside Table,Furniture,1,4290,35,UPI,Lucknow,Uttar Pradesh,,Delivered
+100834,C0204,Pranav Reddy,Yoga Mat,Sports,10,780,25,Net Banking,Chennai,Tamil Nadu,2025-01-22,Delivered
+100835,C0300,Meera Reddy,Sunscreen,Beauty,4,1010,20,Credit Card,Chennai,Tamil Nadu,2025-02-06,Delivered
+100877,C0041,Pooja Reddy,Tea 1kg,Grocery,6,710,35,Credit Card,Hyderabad,Telangana,2026-07-20,Delivered
+100909,C0221,Nikhil Reddy,Biography,Books,4,510,25,Cash on Delivery,Mumbai,Maharashtra,2025-03-28,Delivered
+100174,C0088,Shreya Das,Air Fryer,Home Appliances,6,5840,12,Debit Card,Pune,Maharashtra,2026-08-17,Delivered
+100221,C0168,Arjun Mehta,Kurta,Clothing,2,1900,20,Credit Card,Chennai,Tamil Nadu,2025-10-27,Processing
+100389,C0063,Abhinav Rao,Football,Sports,1,740,0,Cash on Delivery,Delhi,Delhi,2026-05-18,Delivered
+100423,C0292,Riya Naidu,Laptop,Electronics,5,59530,30,Debit Card,Vijayawada,Andhra Pradesh,2026-02-14,Delivered
+100218,C0269,Nikhil Rao,Bluetooth Speaker,Electronics,8,5000,30,UPI,Lucknow,Uttar Pradesh,2025-11-06,Shipped
+100371,C0340,Tanvi Rao,Business Book,Books,6,850,5,Debit Card,Pune,Maharashtra,2026-04-28,Delivered
+100381,C0335,Akash Reddy,Sports Bottle,Sports,3,690,20,UPI,Lucknow,Uttar Pradesh,2025-03-05,Delivered
+100476,C0012,Keerthi Chaudhary,Hair Serum,Beauty,4,1070,15,Net Banking,Hyderabad,Telangana,2026-08-13,Delivered
+100517,C0041,Pooja Reddy,Football,Sports,3,2320,40,Credit Card,Chennai,Tamil Nadu,2026-06-15,Delivered
+100592,C0306,Nandini Shetty,Formal Shirt,Clothing,5,2440,5,UPI,Coimbatore,Tamil Nadu,2025-09-20,Delivered
+100601,C0278,Vikram Malhotra,Induction Cooktop,Home Appliances,9,4860,5,Debit Card,Kolkata,West Bengal,2026-07-08,Delivered
+100942,C0314,Riya Kumar,Wireless Mouse,Electronics,2,2260,15,Debit Card,Pune,Maharashtra,2025-05-19,Delivered
+100486,C0199,Pooja Reddy,Vacuum Cleaner,Home Appliances,6,9980,20,Debit Card,Bengaluru,Karnataka,2025-03-20,Shipped
+100559,C0025,Deepak Gupta,Competitive Exam Guide,Books,7,790,15,Credit Card,Mumbai,Maharashtra,2026-06-02,Processing
+100851,C0172,Manish Kapoor,Vacuum Cleaner,Home Appliances,9,4820,5,Net Banking,Mumbai,Maharashtra,2025-10-22,Delivered
+100147,C0145,Shreya Saxena,Dumbbell Set,Sports,5,5700,20,Cash on Delivery,Chennai,Tamil Nadu,2025-07-15,Delivered
+100021,C0257,Pooja Joshi,Smartphone,Electronics,7,15540,5,Debit Card,Hyderabad,Telangana,2026-06-29,Delivered
+100121,C0167,Kavya Chaudhary,Laptop,Electronics,1,56250,40,UPI,Jaipur,Rajasthan,2026-04-02,Shipped
+100413,C0348,Keerthi Rao,Study Table,Furniture,8,5110,12,Debit Card,Hyderabad,Telangana,2026-04-12,Shipped
+100582,C0016,Neha Patel,Competitive Exam Guide,Books,7,500,30,Net Banking,Vijayawada,Andhra Pradesh,2025-07-22,Cancelled
+100605,C0134,Arjun Iyer,Makeup Kit,Beauty,5,2110,35,UPI,Jaipur,Rajasthan,2026-08-17,Delivered
+100837,C0192,Divya Sharma,Face Wash,Beauty,5,190,40,UPI,Kolkata,West Bengal,2025-02-11,Delivered
+100900,C0345,Keerthi Yadav,Power Bank,Electronics,3,3070,30,Cash on Delivery,Kolkata,West Bengal,2026-06-18,Processing
+100949,C0035,Nandini Gupta,Jeans,Clothing,4,2130,0,Credit Card,Coimbatore,Tamil Nadu,2025-10-31,Delivered
+100142,C0337,Nikhil Joshi,Sunscreen,Beauty,4,430,30,Credit Card,Mumbai,Maharashtra,2026-04-09,Delivered
+100461,C0095,Abhinav Malhotra,Saree,Clothing,5,8730,20,Cash on Delivery,Delhi,Delhi,2025-06-03,Delivered
+100006,C0117,Aditya Malhotra,Biography,Books,7,650,10,Credit Card,Pune,Maharashtra,2026-05-09,Shipped
+100065,C0156,Nandini Bose,Induction Cooktop,Home Appliances,6,3990,30,Cash on Delivery,Kolkata,West Bengal,2025-04-12,Delivered
+100145,C0007,Sai Mishra,Face Wash,Beauty,7,350,30,Cash on Delivery,Bengaluru,Karnataka,2025-08-28,Delivered
+100165,C0134,Arjun Iyer,Hair Serum,Beauty,10,330,30,UPI,Mumbai,Maharashtra,2026-02-09,Delivered
+100172,C0058,Swathi Mishra,Jacket,Clothing,10,5780,30,Net Banking,Vijayawada,Andhra Pradesh,2025-11-30,Delivered
+100193,C0090,Abhinav Pillai,Makeup Kit,Beauty,5,2220,10,Cash on Delivery,Chennai,Tamil Nadu,2025-03-05,Shipped
+100561,C0005,Sakshi Joshi,Dry Fruits Pack,Grocery,1,1600,10,Cash on Delivery,Jaipur,Rajasthan,2026-01-25,Delivered
+100652,C0337,Nikhil Joshi,Moisturizer,Beauty,4,520,35,Debit Card,Lucknow,Uttar Pradesh,2025-02-14,Delivered
+100684,C0343,Pooja Jain,Smartphone,Electronics,5,49940,5,Credit Card,Coimbatore,Tamil Nadu,2025-09-05,Shipped
+100999,C0017,Siddharth Nair,Hair Serum,Beauty,1,940,20,Cash on Delivery,Delhi,Delhi,2026-08-15,Shipped
+100093,C0290,Riya Das,Moisturizer,Beauty,4,680,5,UPI,Mumbai,Maharashtra,2025-04-14,Delivered
+100294,C0193,Sakshi Shetty,Running Shoes,Sports,10,3670,15,Debit Card,Hyderabad,Telangana,2025-05-30,Delivered
+100420,C0168,Arjun Mehta,Programming Book,Books,6,1010,10,Net Banking,Vijayawada,Andhra Pradesh,2025-07-19,Shipped
+100553,C0213,Aman Chopra,Dumbbell Set,Sports,10,3510,10,Net Banking,Bengaluru,Karnataka,2026-02-18,Delivered
+100717,C0281,Kavya Tripathi,Bluetooth Speaker,Electronics,5,4090,25,Debit Card,Bengaluru,Karnataka,2026-01-04,Processing
+100973,C0154,Kavya Reddy,Football,Sports,9,2280,5,Debit Card,Kolkata,West Bengal,2025-02-21,Delivered
+100105,C0314,Riya Kumar,Competitive Exam Guide,Books,1,780,10,Net Banking,Lucknow,Uttar Pradesh,2026-01-02,Delivered
+100132,C0273,Aman Chaudhary,Atta 10kg,Grocery,2,460,25,Cash on Delivery,Kolkata,West Bengal,2025-11-13,Shipped
+100139,C0252,Keerthi Singh,Novel,Books,10,530,35,Credit Card,Jaipur,Rajasthan,2026-02-13,Delivered
+100802,C0153,Ananya Jain,Basmati Rice 5kg,Grocery,7,540,5,Net Banking,Chennai,Tamil Nadu,2026-09-14,Delivered
+100808,C0066,Pranav Patel,Yoga Mat,Sports,5,600,25,Cash on Delivery,Mumbai,Maharashtra,2025-02-10,Delivered
+100901,C0142,Aarav Chopra,Perfume,Beauty,3,2950,0,Net Banking,Pune,Maharashtra,2025-09-24,Returned
+100754,C0043,Pranav Menon,Football,Sports,5,1460,35,Cash on Delivery,Hyderabad,Telangana,2025-05-26,Delivered
+100397,C0050,Tanvi Patel,Atta 10kg,Grocery,1,510,35,UPI,Delhi,Delhi,2026-05-18,Delivered
+100564,C0211,Meera Chopra,Bedside Table,Furniture,1,2530,10,UPI,Lucknow,Uttar Pradesh,2026-06-06,Processing
+100679,C0265,Pranav Joshi,Mechanical Keyboard,Electronics,10,4690,5,Cash on Delivery,Pune,Maharashtra,2026-04-03,Delivered
+100844,C0201,Sakshi Tripathi,Cooking Oil 5l,Grocery,3,820,0,Debit Card,Coimbatore,Tamil Nadu,2025-07-28,Delivered
+100846,C0054,Neha Shetty,Study Table,Furniture,3,5850,12,UPI,Mumbai,Maharashtra,2025-03-27,Cancelled
+100872,C0210,Neha Agarwal,Novel,Books,2,410,10,Credit Card,Jaipur,Rajasthan,2025-10-26,Delivered
+100885,C0020,Aarav Patel,Data Science Handbook,Books,7,1000,0,Net Banking,Bengaluru,Karnataka,2026-03-12,Returned
+100972,C0267,Kavya Malhotra,Ceiling Fan,Home Appliances,6,1790,40,Debit Card,Hyderabad,Telangana,2026-09-18,Shipped
+100082,C0231,Varun Kumar,Sofa,Furniture,9,40630,35,Net Banking,Kolkata,West Bengal,2026-09-13,Cancelled
+100163,C0320,Lakshmi Rao,Atta 10kg,Grocery,2,610,40,Credit Card,Jaipur,Rajasthan,2026-08-09,Delivered
+100203,C0125,Riya Pandey,Study Table,Furniture,8,11970,10,Net Banking,Pune,Maharashtra,2025-12-17,Shipped
+100250,C0010,Shreya Agarwal,Monitor,Electronics,6,23430,10,Credit Card,Delhi,Delhi,2026-01-05,Delivered
+100583,C0330,Deepak Menon,Mixer Grinder,Home Appliances,8,3190,35,Net Banking,Coimbatore,Tamil Nadu,2026-07-05,Delivered
+100755,C0274,Akash Jain,Cooking Oil 5l,Grocery,4,820,12,Debit Card,Lucknow,Uttar Pradesh,2025-11-30,Delivered
+100952,C0093,Shreya Singh,Saree,Clothing,8,8000,15,UPI,Vijayawada,Andhra Pradesh,2025-05-27,Returned
+100997,C0038,Anjali Pandey,Business Book,Books,2,780,10,Debit Card,Pune,Maharashtra,2025-08-04,Shipped
+100267,C0308,Diya Patel,Office Chair,Furniture,10,7070,20,UPI,Vijayawada,Andhra Pradesh,2025-01-12,Delivered
+100429,C0189,Siddharth Shetty,Dumbbell Set,Sports,10,3390,30,Cash on Delivery,Kolkata,West Bengal,2025-03-05,Shipped
+100580,C0264,Siddharth Mishra,Dumbbell Set,Sports,5,4480,40,UPI,Mumbai,Maharashtra,2025-11-05,Delivered
+100890,C0036,Aarav Singh,Bookshelf,Furniture,2,2890,15,UPI,Bengaluru,Karnataka,2025-11-14,Delivered
+100436,C0093,Shreya Singh,Mixer Grinder,Home Appliances,1,4280,30,Credit Card,Bengaluru,Karnataka,2025-12-18,Shipped
+100735,C0173,Nandini Patel,Sofa,Furniture,7,38780,0,Credit Card,Jaipur,Rajasthan,2026-07-23,Cancelled
+100194,C0152,Sakshi Agarwal,Kurta,Clothing,9,2010,12,Credit Card,Mumbai,Maharashtra,2025-06-25,Returned
+100289,C0175,Diya Naidu,Novel,Books,10,450,15,Cash on Delivery,Kolkata,West Bengal,2026-06-07,Delivered
+100776,C0104,Karthik Yadav,Face Wash,Beauty,6,620,15,Cash on Delivery,Bengaluru,Karnataka,2026-03-23,Delivered
+100884,C0180,Arjun Agarwal,Football,Sports,8,1300,10,Cash on Delivery,Chennai,Tamil Nadu,2025-11-28,Delivered
+100028,C0197,Lakshmi Das,Makeup Kit,Beauty,3,4800,15,UPI,Kolkata,West Bengal,2026-06-26,Delivered
+100074,C0292,Riya Naidu,Makeup Kit,Beauty,5,1950,25,Net Banking,Vijayawada,Andhra Pradesh,2025-10-24,Returned
+100104,C0159,Riya Rao,Bedside Table,Furniture,10,2810,12,Net Banking,Pune,Maharashtra,2025-07-08,Delivered
+100447,C0294,Sai Kumar,Running Shoes,Sports,6,3720,12,UPI,Delhi,Delhi,2026-06-05,Delivered
+100494,C0210,Neha Agarwal,Dumbbell Set,Sports,2,3780,15,UPI,Chennai,Tamil Nadu,2025-01-23,Delivered
+100575,C0343,Pooja Jain,Hoodie,Clothing,8,1660,10,Debit Card,Chennai,Tamil Nadu,2025-06-01,Delivered
+100783,C0015,Siddharth Yadav,Dumbbell Set,Sports,5,6130,0,UPI,Kolkata,West Bengal,2025-10-12,Returned
+100854,C0253,Karthik Mehta,Face Wash,Beauty,6,480,0,Debit Card,Hyderabad,Telangana,2025-01-03,Shipped
+100974,C0303,Nandini Agarwal,Biography,Books,7,800,35,Net Banking,Pune,Maharashtra,2026-05-23,Cancelled
+100005,C0227,Aarav Kumar,Coffee 500g,Grocery,10,740,12,Debit Card,Vijayawada,Andhra Pradesh,2026-08-30,Delivered
+100170,C0158,Deepak Pandey,Competitive Exam Guide,Books,6,0,0,Net Banking,Pune,Maharashtra,2025-08-26,Shipped
+100482,C0014,Arjun Pillai,Basmati Rice 5kg,Grocery,7,780,10,Cash on Delivery,Lucknow,Uttar Pradesh,2026-03-21,Shipped
+100495,C0185,Sai Patel,Formal Shirt,Clothing,9,1550,40,Credit Card,Coimbatore,Tamil Nadu,2025-02-15,Delivered
+100527,C0144,Priya Bose,Shampoo,Beauty,6,500,25,Debit Card,Jaipur,Rajasthan,2026-09-15,Shipped
+100563,C0170,Shreya Kulkarni,Spice Combo,Grocery,4,490,12,Debit Card,Coimbatore,Tamil Nadu,2025-10-30,Delivered
+100856,C0196,Divya Gupta,Electric Kettle,Home Appliances,6,1610,35,Debit Card,Hyderabad,Telangana,2025-08-29,Delivered
+100925,C0185,Sai Patel,Running Shoes,Sports,6,5030,0,Net Banking,Chennai,Tamil Nadu,2026-01-29,Delivered
+100941,C0194,Tanvi Verma,Novel,Books,4,460,20,Cash on Delivery,Delhi,Delhi,2025-03-08,Delivered
+100116,C0125,Riya Pandey,T-shirt,Clothing,9,1050,12,Cash on Delivery,Delhi,Delhi,2025-04-07,Processing
+100365,C0005,Sakshi Joshi,Wireless Mouse,Electronics,5,780,15,UPI,Pune,Maharashtra,2025-03-04,Delivered
+100693,C0289,Aditi Mishra,Face Wash,Beauty,10,560,25,Debit Card,Lucknow,Uttar Pradesh,2025-02-06,Delivered
+100694,C0030,Sneha Nair,Basmati Rice 5kg,Grocery,9,610,35,UPI,Kolkata,West Bengal,2025-05-29,Delivered
+100770,C0228,Diya Tripathi,Air Fryer,Home Appliances,10,5410,15,Cash on Delivery,Hyderabad,Telangana,2025-03-01,Delivered
+100772,C0300,Meera Reddy,Running Shoes,Sports,9,4820,15,Credit Card,Bengaluru,Karnataka,2025-10-03,Delivered
+100816,C0261,Manish Tripathi,Smartphone,Electronics,3,0,10,Net Banking,Delhi,Delhi,2025-08-13,Delivered
+100980,C0145,Shreya Saxena,Mechanical Keyboard,Electronics,9,6040,25,Net Banking,Mumbai,Maharashtra,2025-07-22,Delivered
+100987,C0323,Rahul Kapoor,Bluetooth Speaker,Electronics,7,4460,0,Cash on Delivery,Chennai,Tamil Nadu,2025-09-08,Delivered
+100600,C0178,Vivaan Pandey,Formal Shirt,Clothing,6,1450,25,Cash on Delivery,Kolkata,West Bengal,2025-03-12,Processing
+100709,C0143,Priya Rao,Microwave Oven,Home Appliances,4,15330,15,Credit Card,Bengaluru,Karnataka,2026-03-10,Delivered
+100756,C0004,Neha Kumar,Office Chair,Furniture,2,12380,25,UPI,Lucknow,Uttar Pradesh,2025-10-21,Processing
+100767,C0071,Rohan Reddy,Coffee 500g,Grocery,10,530,10,UPI,Bengaluru,Karnataka,2026-06-09,Delivered
+100017,C0332,Meera Agarwal,Football,Sports,10,2080,40,Debit Card,Delhi,Delhi,2026-05-25,Delivered
+100033,C0204,Pranav Reddy,Saree,Clothing,1,8440,12,Cash on Delivery,Chennai,Tamil Nadu,2025-01-30,Delivered
+100034,C0192,Divya Sharma,Yoga Mat,Sports,7,1720,20,Cash on Delivery,Coimbatore,Tamil Nadu,2025-08-19,Delivered
+100211,C0343,Pooja Jain,Mixer Grinder,Home Appliances,7,3510,15,Debit Card,Jaipur,Rajasthan,2025-06-04,Returned
+100662,C0087,Akash Kulkarni,Atta 10kg,Grocery,8,470,10,UPI,Pune,Maharashtra,2025-07-13,Delivered
+100751,C0081,Abhinav Gupta,Coffee 500g,Grocery,10,400,0,Cash on Delivery,Delhi,Delhi,2025-07-08,Returned
+100007,C0187,Siddharth Menon,Biography,Books,4,730,30,Cash on Delivery,Hyderabad,Telangana,2025-12-02,Delivered
+100031,C0084,Anjali Sharma,Bookshelf,Furniture,7,5190,0,UPI,Pune,Maharashtra,2025-12-16,Delivered
+100089,C0142,Aarav Chopra,Kurta,Clothing,6,2440,10,Debit Card,Vijayawada,Andhra Pradesh,2026-07-25,Delivered
+100094,C0170,Shreya Kulkarni,Biography,Books,4,640,0,Debit Card,Bengaluru,Karnataka,2025-11-18,Delivered
+100257,C0307,Keerthi Kapoor,Jeans,Clothing,7,1200,12,UPI,Lucknow,Uttar Pradesh,2026-03-08,Shipped
+100409,C0058,Swathi Mishra,Competitive Exam Guide,Books,4,770,30,UPI,Hyderabad,Telangana,2026-01-11,Delivered
+100109,C0247,Neha Chaudhary,Sunscreen,Beauty,5,900,5,Debit Card,Coimbatore,Tamil Nadu,2026-06-21,Shipped
+100477,C0051,Tanvi Sharma,Running Shoes,Sports,10,5500,5,Cash on Delivery,Hyderabad,Telangana,2025-11-22,Returned
+100774,C0228,Diya Tripathi,Business Book,Books,9,520,10,Cash on Delivery,Lucknow,Uttar Pradesh,2026-06-09,Processing
+100838,C0317,Kavya Pandey,Badminton Racket,Sports,10,1630,25,Credit Card,Kolkata,West Bengal,2026-09-10,Delivered
+100208,C0210,Neha Agarwal,Sofa,Furniture,6,20940,25,Credit Card,Kolkata,West Bengal,2025-05-22,Delivered
+100524,C0200,Isha Singh,Running Shoes,Sports,8,6540,15,Credit Card,Hyderabad,Telangana,2025-02-13,Shipped
+100611,C0100,Riya Reddy,Jeans,Clothing,9,1380,20,Credit Card,Coimbatore,Tamil Nadu,2025-09-22,Delivered
+100671,C0208,Pooja Verma,Jeans,Clothing,4,2490,40,UPI,Lucknow,Uttar Pradesh,2025-02-02,Delivered
+100801,C0284,Nikhil Yadav,Sugar 5kg,Grocery,3,400,10,Debit Card,Mumbai,Maharashtra,2026-03-05,Delivered
+100072,C0312,Aarav Kulkarni,Face Wash,Beauty,5,270,0,Debit Card,Bengaluru,Karnataka,2026-08-15,Delivered
+100354,C0241,Aman Joshi,Shampoo,Beauty,10,520,25,UPI,Coimbatore,Tamil Nadu,2025-11-12,Processing
+100728,C0147,Deepak Kumar,Tea 1kg,Grocery,5,800,35,Net Banking,Pune,Maharashtra,2025-06-27,Processing
+100748,C0273,Aman Chaudhary,Cooking Oil 5l,Grocery,9,690,10,UPI,Coimbatore,Tamil Nadu,2025-12-08,Processing
+100108,C0347,Aman Chaudhary,Cricket Bat,Sports,9,6250,30,Net Banking,Coimbatore,Tamil Nadu,2025-11-05,Cancelled
+100620,C0035,Nandini Gupta,Football,Sports,3,1580,10,Net Banking,Lucknow,Uttar Pradesh,2025-05-14,Shipped
+100146,C0011,Riya Chaudhary,Makeup Kit,Beauty,10,3520,30,UPI,Chennai,Tamil Nadu,2025-08-04,Delivered
+100223,C0124,Tanvi Chaudhary,Coffee 500g,Grocery,10,740,10,Cash on Delivery,Mumbai,Maharashtra,2025-07-23,Delivered
+100276,C0145,Shreya Saxena,Dining Table,Furniture,8,15100,10,Net Banking,Hyderabad,Telangana,2025-12-26,Delivered
+100903,C0102,Aditi Patel,Basmati Rice 5kg,Grocery,1,730,10,Credit Card,Coimbatore,Tamil Nadu,2025-01-21,Shipped
+100171,C0220,Vivaan Pillai,Makeup Kit,Beauty,7,4320,30,UPI,Kolkata,West Bengal,2026-09-26,Shipped
+100437,C0248,Nandini Das,Induction Cooktop,Home Appliances,9,4550,5,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-03-07,Delivered
+100087,C0172,Manish Kapoor,Study Table,Furniture,8,7560,35,Credit Card,Pune,Maharashtra,2025-11-30,Cancelled
+100159,C0144,Priya Bose,Novel,Books,10,560,12,Net Banking,Hyderabad,Telangana,2026-03-28,Delivered
+100391,C0145,Shreya Saxena,Competitive Exam Guide,Books,9,740,15,Cash on Delivery,Delhi,Delhi,2026-01-24,Cancelled
+100857,C0090,Abhinav Pillai,Bedside Table,Furniture,4,2460,20,Debit Card,Coimbatore,Tamil Nadu,2025-07-19,Delivered
+100923,C0120,Varun Shetty,Bookshelf,Furniture,9,8900,0,Cash on Delivery,Pune,Maharashtra,2026-06-19,Shipped
+100947,C0317,Kavya Pandey,Dumbbell Set,Sports,10,2650,15,Cash on Delivery,Bengaluru,Karnataka,2026-06-21,Delivered
+100086,C0219,Rahul Jain,Cooking Oil 5l,Grocery,10,730,10,Credit Card,Kolkata,West Bengal,2025-09-22,Processing
+100271,C0245,Ananya Verma,Makeup Kit,Beauty,8,3780,20,Cash on Delivery,Lucknow,Uttar Pradesh,2025-05-23,Cancelled
+100386,C0057,Swathi Yadav,Sofa,Furniture,3,14280,5,Net Banking,Delhi,Delhi,2026-08-23,Cancelled
+100792,C0034,Nandini Kapoor,Bookshelf,Furniture,4,8520,20,Credit Card,Hyderabad,Telangana,2025-05-06,Delivered
+100863,C0299,Vivaan Chaudhary,Dining Table,Furniture,3,31470,30,Debit Card,Vijayawada,Andhra Pradesh,2025-05-31,Processing
+100881,C0061,Arjun Nair,Shampoo,Beauty,3,620,15,Credit Card,Hyderabad,Telangana,2025-03-27,Delivered
+100921,C0046,Vikram Iyer,Hair Serum,Beauty,7,870,40,Debit Card,Vijayawada,Andhra Pradesh,2025-07-23,Shipped
+100024,C0237,Sanjay Menon,Saree,Clothing,8,4810,15,Debit Card,Chennai,Tamil Nadu,2025-09-09,Delivered
+100199,C0034,Nandini Kapoor,Competitive Exam Guide,Books,1,360,30,Credit Card,Coimbatore,Tamil Nadu,2025-01-22,Shipped
+100263,C0037,Nikhil Patel,Power Bank,Electronics,2,1810,0,UPI,Lucknow,Uttar Pradesh,2026-03-27,Delivered
+100295,C0274,Akash Jain,Moisturizer,Beauty,8,1100,10,Cash on Delivery,Hyderabad,Telangana,2026-03-03,Delivered
+100430,C0289,Aditi Mishra,Sports Bottle,Sports,8,980,20,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-08-27,Delivered
+100523,C0240,Meera Yadav,Makeup Kit,Beauty,7,1240,0,Net Banking,Coimbatore,Tamil Nadu,2026-02-14,Delivered
+100784,C0076,Neha Reddy,Laptop,Electronics,5,74160,0,Debit Card,Jaipur,Rajasthan,2025-12-19,Shipped
+100493,C0149,Manish Pillai,Office Chair,Furniture,4,3400,12,Cash on Delivery,Mumbai,Maharashtra,2025-01-20,Processing
+100638,C0271,Deepak Shetty,Biography,Books,6,310,20,Net Banking,Mumbai,Maharashtra,2026-05-26,Processing
+100805,C0339,Deepak Malhotra,Saree,Clothing,2,6470,20,Debit Card,Hyderabad,Telangana,2025-05-07,Delivered
+100929,C0233,Aman Bose,Hair Serum,Beauty,10,1180,35,Credit Card,Kolkata,West Bengal,2025-12-06,Delivered
+100930,C0056,Sanjay Shetty,Formal Shirt,Clothing,8,1790,35,Credit Card,Coimbatore,Tamil Nadu,2026-07-28,Delivered
+100113,C0093,Shreya Singh,Monitor,Electronics,7,11270,12,Cash on Delivery,Hyderabad,Telangana,2025-12-22,Processing
+100453,C0069,Sai Malhotra,Ceiling Fan,Home Appliances,1,3280,25,Debit Card,Vijayawada,Andhra Pradesh,2025-10-17,Delivered
+100497,C0273,Aman Chaudhary,Cooking Oil 5l,Grocery,6,660,40,Credit Card,Hyderabad,Telangana,2025-05-18,Delivered
+100528,C0028,Aditya Naidu,Face Wash,Beauty,8,390,35,Debit Card,Bengaluru,Karnataka,2025-03-02,Processing
+100635,C0204,Pranav Reddy,Ceiling Fan,Home Appliances,1,1770,5,Cash on Delivery,Chennai,Tamil Nadu,2026-07-18,Delivered
+100644,C0243,Swathi Joshi,Business Book,Books,9,380,20,Credit Card,Delhi,Delhi,2026-01-03,Processing
+100757,C0106,Aman Rao,Hair Serum,Beauty,1,850,30,Debit Card,Bengaluru,Karnataka,2026-05-31,Delivered
+100916,C0205,Abhinav Rao,Programming Book,Books,7,1180,35,Net Banking,Hyderabad,Telangana,2026-03-31,Delivered
+100454,C0303,Nandini Agarwal,Basmati Rice 5kg,Grocery,2,570,35,Net Banking,Kolkata,West Bengal,2025-02-28,Delivered
+100631,C0300,Meera Reddy,Programming Book,Books,4,760,25,Debit Card,Mumbai,Maharashtra,2026-06-11,Delivered
+100790,C0183,Sakshi Joshi,Football,Sports,3,1180,5,Credit Card,Lucknow,Uttar Pradesh,2025-08-26,Delivered
+100995,C0263,Siddharth Kulkarni,Kurta,Clothing,4,2150,30,UPI,Vijayawada,Andhra Pradesh,2026-05-10,Cancelled
+100359,C0340,Tanvi Rao,Smartphone,Electronics,7,13900,35,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-05-15,Shipped
+100442,C0152,Sakshi Agarwal,Football,Sports,1,980,35,UPI,Hyderabad,Telangana,2026-01-20,Delivered
+100571,C0273,Aman Chaudhary,Running Shoes,Sports,8,6880,35,Credit Card,Mumbai,Maharashtra,2026-05-29,Delivered
+100608,C0081,Abhinav Gupta,Sugar 5kg,Grocery,1,450,20,Credit Card,Hyderabad,Telangana,2026-05-11,Delivered
+100648,C0230,Siddharth Iyer,Air Fryer,Home Appliances,6,11030,20,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-07-29,Delivered
+100874,C0062,Lakshmi Pillai,Biography,Books,2,430,30,Debit Card,Coimbatore,Tamil Nadu,2025-05-24,Cancelled
+100992,C0053,Anjali Saxena,Dining Table,Furniture,7,30100,35,Credit Card,Jaipur,Rajasthan,2026-04-18,Delivered
+100288,C0339,Deepak Malhotra,Office Chair,Furniture,6,4850,25,Cash on Delivery,Chennai,Tamil Nadu,2026-02-09,Shipped
+100665,C0054,Neha Shetty,Yoga Mat,Sports,9,900,30,Debit Card,Hyderabad,Telangana,2025-03-03,Delivered
+100668,C0179,Sai Sharma,Study Table,Furniture,5,6630,35,Cash on Delivery,Lucknow,Uttar Pradesh,2025-11-29,Delivered
+100064,C0149,Manish Pillai,Basmati Rice 5kg,Grocery,1,560,40,Debit Card,Jaipur,Rajasthan,2026-08-31,Delivered
+100964,C0019,Aman Tripathi,Ceiling Fan,Home Appliances,3,4950,35,Debit Card,Jaipur,Rajasthan,2026-06-04,Delivered
+100556,C0343,Pooja Jain,Makeup Kit,Beauty,8,1450,15,Net Banking,Kolkata,West Bengal,2025-01-12,Shipped
+100050,C0045,Harsh Singh,Sports Shoes,Clothing,5,5530,25,UPI,Vijayawada,Andhra Pradesh,2025-11-25,Cancelled
+100233,C0233,Aman Bose,Sunscreen,Beauty,5,740,40,Debit Card,Pune,Maharashtra,2026-01-21,Shipped
+100280,C0154,Kavya Reddy,Perfume,Beauty,2,3630,25,Net Banking,Bengaluru,Karnataka,2026-03-09,Shipped
+100753,C0177,Ananya Mishra,Dry Fruits Pack,Grocery,9,1260,0,Net Banking,Vijayawada,Andhra Pradesh,2025-08-24,Processing
+100993,C0161,Nandini Tripathi,Saree,Clothing,5,5490,25,Credit Card,Hyderabad,Telangana,2026-03-18,Shipped
+100046,C0172,Manish Kapoor,Perfume,Beauty,3,3220,40,Credit Card,Chennai,Tamil Nadu,2025-10-31,Delivered
+100431,C0111,Nandini Sharma,Novel,Books,10,470,0,Cash on Delivery,Lucknow,Uttar Pradesh,2025-09-22,Shipped
+100642,C0153,Ananya Jain,Air Fryer,Home Appliances,2,4170,10,Cash on Delivery,Lucknow,Uttar Pradesh,2026-01-01,Delivered
+100806,C0114,Sai Nair,Coffee 500g,Grocery,2,360,5,Net Banking,Jaipur,Rajasthan,2025-05-10,Delivered
+100156,C0176,Meera Joshi,T-shirt,Clothing,7,990,35,Cash on Delivery,Hyderabad,Telangana,2026-09-12,Shipped
+100239,C0335,Akash Reddy,Data Science Handbook,Books,6,1070,5,Cash on Delivery,Jaipur,Rajasthan,2025-11-27,Delivered
+100498,C0009,Keerthi Naidu,Sofa,Furniture,6,52870,0,Debit Card,Bengaluru,Karnataka,2025-05-13,Delivered
+100678,C0086,Kavya Singh,Ceiling Fan,Home Appliances,1,2180,35,Debit Card,Lucknow,Uttar Pradesh,2026-07-02,Delivered
+100960,C0102,Aditi Patel,Induction Cooktop,Home Appliances,4,2450,30,Debit Card,Pune,Maharashtra,2025-05-20,Delivered
+100068,C0131,Neha Singh,Electric Kettle,Home Appliances,7,2210,20,UPI,Mumbai,Maharashtra,2026-04-04,Delivered
+100183,C0021,Keerthi Tripathi,Data Science Handbook,Books,9,1150,20,Debit Card,Pune,Maharashtra,2026-05-09,Cancelled
+100235,C0349,Tanvi Reddy,Power Bank,Electronics,7,1790,0,UPI,Vijayawada,Andhra Pradesh,2026-03-02,Delivered
+100238,C0245,Ananya Verma,Programming Book,Books,3,460,40,Credit Card,Vijayawada,Andhra Pradesh,2026-07-05,Delivered
+100319,C0018,Ananya Yadav,Spice Combo,Grocery,9,750,12,Net Banking,Kolkata,West Bengal,2026-05-19,Shipped
+100773,C0315,Meera Malhotra,Study Table,Furniture,7,11310,40,Debit Card,Pune,Maharashtra,2026-02-25,Delivered
+100406,C0004,Neha Kumar,Monitor,Electronics,7,27080,25,Debit Card,Mumbai,Maharashtra,2025-06-04,Shipped
+100568,C0317,Kavya Pandey,Yoga Mat,Sports,5,550,5,UPI,Delhi,Delhi,2025-02-08,Delivered
+100761,C0020,Aarav Patel,Bookshelf,Furniture,7,7450,25,UPI,Pune,Maharashtra,2026-01-01,Delivered
+100768,C0207,Deepak Saxena,Atta 10kg,Grocery,6,410,0,Debit Card,Hyderabad,Telangana,2026-01-22,Delivered
+100789,C0043,Pranav Menon,Office Chair,Furniture,7,13560,35,Credit Card,Mumbai,Maharashtra,2025-09-17,Delivered
+100298,C0101,Aman Jain,Programming Book,Books,5,1070,35,Debit Card,Coimbatore,Tamil Nadu,2026-07-02,Delivered
+100513,C0300,Meera Reddy,Vacuum Cleaner,Home Appliances,4,7360,10,UPI,Bengaluru,Karnataka,2026-08-27,Shipped
+100695,C0180,Arjun Agarwal,Competitive Exam Guide,Books,4,500,40,Credit Card,Coimbatore,Tamil Nadu,2025-10-13,Delivered
+100182,C0324,Rohan Naidu,Novel,Books,1,370,5,UPI,Lucknow,Uttar Pradesh,2025-04-08,Delivered
+100398,C0283,Nandini Singh,Novel,Books,2,330,0,Net Banking,Chennai,Tamil Nadu,2025-11-29,Processing
+100572,C0065,Pranav Agarwal,Sugar 5kg,Grocery,8,400,40,Debit Card,Vijayawada,Andhra Pradesh,2025-05-11,Delivered
+100659,C0304,Akash Yadav,Jacket,Clothing,3,6960,40,UPI,Delhi,Delhi,2026-09-13,Processing
+100716,C0238,Aditya Chopra,Mixer Grinder,Home Appliances,2,2960,20,UPI,Bengaluru,Karnataka,2025-01-01,Returned
+100950,C0143,Priya Rao,Business Book,Books,6,510,5,Net Banking,Vijayawada,Andhra Pradesh,2025-05-17,Shipped
+100025,C0002,Deepak Jain,Coffee 500g,Grocery,7,610,20,Cash on Delivery,Hyderabad,Telangana,2026-09-01,Delivered
+100071,C0215,Sai Naidu,Dining Table,Furniture,1,36490,15,Debit Card,Lucknow,Uttar Pradesh,2025-02-24,Shipped
+100090,C0037,Nikhil Patel,Business Book,Books,8,640,5,Net Banking,Delhi,Delhi,2025-09-12,Delivered
+100312,C0049,Sakshi Chopra,Microwave Oven,Home Appliances,6,16920,0,Net Banking,Delhi,Delhi,2025-06-16,Delivered
+100463,C0097,Aditya Chopra,Monitor,Electronics,1,15040,25,UPI,Mumbai,Maharashtra,2025-12-08,Delivered
+100296,C0246,Lakshmi Agarwal,Power Bank,Electronics,4,1830,0,Debit Card,Coimbatore,Tamil Nadu,2026-05-09,Delivered
+100625,C0151,Varun Verma,Sugar 5kg,Grocery,9,390,25,UPI,Mumbai,Maharashtra,2025-12-22,Delivered
+100859,C0268,Keerthi Iyer,Running Shoes,Sports,8,3630,10,Credit Card,Jaipur,Rajasthan,2025-10-28,Delivered
+100888,C0162,Siddharth Kapoor,Jacket,Clothing,2,1800,35,Cash on Delivery,Chennai,Tamil Nadu,2026-09-21,Delivered
+100161,C0266,Divya Chopra,Sports Shoes,Clothing,6,3180,10,Credit Card,Kolkata,West Bengal,2026-07-29,Delivered
+100187,C0023,Riya Kapoor,Face Wash,Beauty,4,480,40,Net Banking,Bengaluru,Karnataka,2025-01-18,Delivered
+100213,C0041,Pooja Reddy,Bedside Table,Furniture,10,3290,5,Debit Card,Delhi,Delhi,2026-05-27,Shipped
+100352,C0344,Aman Jain,Mechanical Keyboard,Electronics,6,4560,20,Debit Card,Bengaluru,Karnataka,2026-06-04,Shipped
+100579,C0228,Diya Tripathi,T-shirt,Clothing,7,1140,30,Cash on Delivery,Delhi,Delhi,2025-01-31,Delivered
+100599,C0047,Sneha Mishra,Biography,Books,8,410,40,Credit Card,Kolkata,West Bengal,2026-04-02,Processing
+100634,C0262,Tanvi Mehta,Atta 10kg,Grocery,10,560,15,Cash on Delivery,Hyderabad,Telangana,,Processing
+100689,C0147,Deepak Kumar,Perfume,Beauty,3,1850,15,Cash on Delivery,Lucknow,Uttar Pradesh,2025-08-24,Delivered
+100718,C0193,Sakshi Shetty,Microwave Oven,Home Appliances,5,8720,40,Debit Card,Mumbai,Maharashtra,2025-09-13,Delivered
+100875,C0063,Abhinav Rao,Sugar 5kg,Grocery,6,240,30,Cash on Delivery,Bengaluru,Karnataka,2026-07-21,Delivered
+100981,C0229,Keerthi Tripathi,Sports Shoes,Clothing,3,1520,10,UPI,Bengaluru,Karnataka,2025-12-28,Delivered
+100091,C0103,Rahul Saxena,Dining Table,Furniture,2,34530,25,Net Banking,Mumbai,Maharashtra,2025-04-06,Delivered
+100966,C0267,Kavya Malhotra,Bookshelf,Furniture,10,7650,10,Credit Card,Lucknow,Uttar Pradesh,2025-10-09,Returned
+100127,C0264,Siddharth Mishra,Dining Table,Furniture,8,32780,12,Cash on Delivery,Hyderabad,Telangana,2025-12-16,Shipped
+100002,C0042,Arjun Singh,T-shirt,Clothing,6,680,5,Debit Card,Chennai,Tamil Nadu,2025-08-03,Delivered
+100023,C0070,Sneha Chopra,Face Wash,Beauty,6,290,20,Debit Card,Lucknow,Uttar Pradesh,2026-03-24,Shipped
+100297,C0149,Manish Pillai,Dry Fruits Pack,Grocery,7,780,35,Credit Card,Lucknow,Uttar Pradesh,2025-07-29,Delivered
+100345,C0062,Lakshmi Pillai,Study Table,Furniture,2,13510,15,UPI,Hyderabad,Telangana,2026-07-01,Delivered
+100650,C0234,Tanvi Chopra,Office Chair,Furniture,2,11510,12,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-08-25,Processing
+100701,C0017,Siddharth Nair,Competitive Exam Guide,Books,10,660,12,Net Banking,Lucknow,Uttar Pradesh,2025-09-09,Delivered
+100743,C0107,Aditi Kapoor,Shampoo,Beauty,9,680,40,Net Banking,Kolkata,West Bengal,2025-10-21,Delivered
+100936,C0146,Diya Joshi,Hair Serum,Beauty,6,620,40,UPI,Vijayawada,Andhra Pradesh,2025-06-29,Delivered
+100140,C0075,Swathi Tripathi,Cooking Oil 5l,Grocery,4,790,20,Credit Card,Hyderabad,Telangana,2025-10-01,Shipped
+100246,C0349,Tanvi Reddy,Saree,Clothing,1,7670,5,Cash on Delivery,Mumbai,Maharashtra,2025-08-26,Delivered
+100346,C0023,Riya Kapoor,Makeup Kit,Beauty,7,1540,40,Net Banking,Pune,Maharashtra,2026-03-28,Delivered
+100349,C0005,Sakshi Joshi,Usb-c Hub,Electronics,9,2500,15,Debit Card,Mumbai,Maharashtra,2025-06-14,Processing
+100492,C0082,Sanjay Patel,Data Science Handbook,Books,3,1560,20,UPI,Bengaluru,Karnataka,2025-06-29,Delivered
+100515,C0314,Riya Kumar,Sunscreen,Beauty,9,380,25,Debit Card,Vijayawada,Andhra Pradesh,2026-03-21,Delivered
+100526,C0102,Aditi Patel,Makeup Kit,Beauty,3,4420,15,UPI,Bengaluru,Karnataka,2025-12-23,Delivered
+100586,C0316,Aman Das,Makeup Kit,Beauty,6,2490,10,Credit Card,Vijayawada,Andhra Pradesh,2026-08-30,Shipped
+100674,C0103,Rahul Saxena,Novel,Books,1,760,40,Cash on Delivery,Delhi,Delhi,2026-01-26,Processing
+100948,C0023,Riya Kapoor,Electric Kettle,Home Appliances,2,1110,35,Debit Card,Bengaluru,Karnataka,2025-10-12,Delivered
+100499,C0206,Harsh Pillai,Bedside Table,Furniture,10,2580,10,Cash on Delivery,Chennai,Tamil Nadu,2025-09-02,Delivered
+100576,C0265,Pranav Joshi,Bedside Table,Furniture,9,3570,40,Debit Card,Hyderabad,Telangana,2026-03-23,Processing
+100686,C0334,Akash Saxena,Air Fryer,Home Appliances,4,4090,12,Cash on Delivery,Jaipur,Rajasthan,2025-01-15,Delivered
+100825,C0316,Aman Das,Atta 10kg,Grocery,4,500,15,UPI,Coimbatore,Tamil Nadu,2025-01-08,Delivered
+100902,C0260,Aman Kapoor,Business Book,Books,5,1050,15,Net Banking,Mumbai,Maharashtra,2026-07-09,Delivered
+100118,C0037,Nikhil Patel,Shampoo,Beauty,6,820,30,Credit Card,Mumbai,Maharashtra,2026-09-09,Returned
+100432,C0330,Deepak Menon,Hoodie,Clothing,8,3540,40,Cash on Delivery,Lucknow,Uttar Pradesh,2025-06-24,Shipped
+100464,C0180,Arjun Agarwal,Bookshelf,Furniture,9,10390,15,Net Banking,Hyderabad,Telangana,2025-07-24,Shipped
+100649,C0266,Divya Chopra,Tea 1kg,Grocery,3,680,10,Cash on Delivery,Jaipur,Rajasthan,2026-08-01,Delivered
+100657,C0327,Diya Joshi,Air Fryer,Home Appliances,5,8420,10,Debit Card,Pune,Maharashtra,2026-01-01,Shipped
+100705,C0298,Ananya Iyer,Sports Bottle,Sports,5,960,20,UPI,Bengaluru,Karnataka,2025-08-17,Delivered
+100740,C0316,Aman Das,Dining Table,Furniture,2,44590,5,Credit Card,Hyderabad,Telangana,2025-05-13,Processing
+100022,C0271,Deepak Shetty,Novel,Books,3,310,12,Debit Card,Hyderabad,Telangana,2026-09-08,Delivered
+100588,C0228,Diya Tripathi,Bookshelf,Furniture,4,11260,40,Credit Card,Mumbai,Maharashtra,2026-08-09,Cancelled
+100177,C0072,Arjun Sharma,Ceiling Fan,Home Appliances,7,3920,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-01-18,Delivered
+100385,C0145,Shreya Saxena,Dry Fruits Pack,Grocery,7,1520,10,Credit Card,Hyderabad,Telangana,2026-02-13,Delivered
+100418,C0235,Varun Kapoor,Programming Book,Books,3,1190,35,Debit Card,Hyderabad,Telangana,2025-01-16,Delivered
+100529,C0081,Abhinav Gupta,Sports Bottle,Sports,8,1190,0,Credit Card,Bengaluru,Karnataka,2025-03-11,Shipped
+100630,C0082,Sanjay Patel,Competitive Exam Guide,Books,1,420,25,Cash on Delivery,Delhi,Delhi,2026-01-15,Shipped
+100661,C0293,Akash Pillai,Jacket,Clothing,4,6190,12,Cash on Delivery,Lucknow,Uttar Pradesh,2025-12-10,Delivered
+100889,C0056,Sanjay Shetty,Face Wash,Beauty,3,470,20,Credit Card,Hyderabad,Telangana,2026-02-25,Delivered
+100341,C0248,Nandini Das,Sunscreen,Beauty,7,710,5,Cash on Delivery,Bengaluru,Karnataka,2026-02-19,Shipped
+100361,C0063,Abhinav Rao,Vacuum Cleaner,Home Appliances,2,4070,20,Credit Card,Lucknow,Uttar Pradesh,2025-11-04,Delivered
+100670,C0167,Kavya Chaudhary,Biography,Books,7,620,12,Cash on Delivery,Mumbai,Maharashtra,2025-06-06,Delivered
+100933,C0304,Akash Yadav,Novel,Books,8,430,40,Debit Card,Chennai,Tamil Nadu,2025-11-12,Delivered
+100956,C0004,Neha Kumar,Novel,Books,5,760,12,Credit Card,Vijayawada,Andhra Pradesh,2025-09-26,Delivered
+100111,C0198,Nandini Mehta,Laptop,Electronics,5,54330,25,Debit Card,Vijayawada,Andhra Pradesh,2025-11-02,Cancelled
+100149,C0320,Lakshmi Rao,Football,Sports,1,1400,30,UPI,Bengaluru,Karnataka,2025-04-09,Delivered
+100428,C0012,Keerthi Chaudhary,Running Shoes,Sports,5,6850,0,Net Banking,Kolkata,West Bengal,2025-05-22,Delivered
+100027,C0310,Sakshi Bose,Jeans,Clothing,8,2960,12,Debit Card,Hyderabad,Telangana,2026-07-01,Shipped
+100136,C0218,Rohan Pandey,Usb-c Hub,Electronics,7,2710,15,Net Banking,Bengaluru,Karnataka,2026-09-04,Delivered
+100216,C0246,Lakshmi Agarwal,Dining Table,Furniture,8,24180,5,UPI,Coimbatore,Tamil Nadu,2026-01-09,Delivered
+100417,C0166,Riya Mishra,Laptop,Electronics,9,44500,0,Credit Card,Mumbai,Maharashtra,2026-05-31,Delivered
+100128,C0249,Priya Patel,Spice Combo,Grocery,3,350,20,Net Banking,Coimbatore,Tamil Nadu,2025-05-06,Delivered
+100351,C0197,Lakshmi Das,Competitive Exam Guide,Books,10,970,12,Net Banking,Bengaluru,Karnataka,2026-01-28,Delivered
+100557,C0145,Shreya Saxena,Induction Cooktop,Home Appliances,9,3450,10,Net Banking,Jaipur,Rajasthan,2025-01-19,Cancelled
+100769,C0053,Anjali Saxena,Dumbbell Set,Sports,2,5240,30,UPI,Hyderabad,Telangana,2025-02-11,Shipped
+100320,C0111,Nandini Sharma,Jacket,Clothing,2,3590,10,UPI,Vijayawada,Andhra Pradesh,2025-09-16,Delivered
+100367,C0078,Aditi Patel,Sports Bottle,Sports,10,1170,35,Debit Card,Delhi,Delhi,2025-10-04,Delivered
+100468,C0172,Manish Kapoor,Atta 10kg,Grocery,4,740,10,Net Banking,Lucknow,Uttar Pradesh,2026-09-09,Delivered
+100061,C0081,Abhinav Gupta,Sunscreen,Beauty,10,960,35,Debit Card,Coimbatore,Tamil Nadu,2025-08-02,Processing
+100085,C0199,Pooja Reddy,Jacket,Clothing,7,6990,20,Debit Card,Vijayawada,Andhra Pradesh,2025-02-10,Delivered
+100683,C0332,Meera Agarwal,Usb-c Hub,Electronics,9,4900,25,Credit Card,Kolkata,West Bengal,2025-01-14,Delivered
+100738,C0005,Sakshi Joshi,Competitive Exam Guide,Books,2,660,35,UPI,Vijayawada,Andhra Pradesh,2026-03-01,Shipped
+100760,C0144,Priya Bose,Spice Combo,Grocery,1,610,25,Debit Card,Chennai,Tamil Nadu,2025-11-19,Delivered
+100815,C0092,Ananya Kulkarni,Competitive Exam Guide,Books,7,460,20,Cash on Delivery,Lucknow,Uttar Pradesh,2025-03-20,Processing
+100833,C0037,Nikhil Patel,Smartphone,Electronics,7,17190,40,Net Banking,Chennai,Tamil Nadu,2025-12-18,Delivered
+100897,C0086,Kavya Singh,Monitor,Electronics,7,28140,10,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-05-15,Delivered
+100042,C0030,Sneha Nair,Running Shoes,Sports,1,5340,25,UPI,Delhi,Delhi,2025-11-04,Delivered
+100639,C0105,Swathi Gupta,Data Science Handbook,Books,7,1190,40,UPI,Delhi,Delhi,2025-12-12,Delivered
+100807,C0337,Nikhil Joshi,Monitor,Electronics,9,19460,12,Net Banking,Vijayawada,Andhra Pradesh,2025-03-27,Delivered
+100224,C0062,Lakshmi Pillai,Usb-c Hub,Electronics,9,1140,5,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-02-27,Delivered
+100229,C0052,Rahul Kapoor,Business Book,Books,7,480,20,Cash on Delivery,Mumbai,Maharashtra,2026-03-20,Shipped
+100466,C0294,Sai Kumar,Office Chair,Furniture,6,13180,12,UPI,Lucknow,Uttar Pradesh,2025-05-01,Delivered
+100741,C0308,Diya Patel,Vacuum Cleaner,Home Appliances,5,9090,20,Credit Card,Chennai,Tamil Nadu,2026-07-18,Delivered
+100799,C0211,Meera Chopra,Mixer Grinder,Home Appliances,5,3870,10,Credit Card,Coimbatore,Tamil Nadu,2025-04-02,Delivered
+100814,C0124,Tanvi Chaudhary,Electric Kettle,Home Appliances,7,1660,40,Net Banking,Mumbai,Maharashtra,2025-08-22,Delivered
+100821,C0077,Isha Iyer,Cricket Bat,Sports,9,4160,15,Cash on Delivery,Jaipur,Rajasthan,2026-02-04,Delivered
+100830,C0087,Akash Kulkarni,Tea 1kg,Grocery,10,450,5,Net Banking,Delhi,Delhi,2026-03-28,Delivered
+100839,C0032,Anjali Kumar,Cricket Bat,Sports,10,2120,35,Cash on Delivery,Lucknow,Uttar Pradesh,2025-11-30,Delivered
+100434,C0149,Manish Pillai,Sugar 5kg,Grocery,1,230,35,Cash on Delivery,Kolkata,West Bengal,2026-06-06,Returned
+100313,C0220,Vivaan Pillai,Hair Serum,Beauty,7,880,35,UPI,Lucknow,Uttar Pradesh,2025-07-20,Delivered
+100357,C0147,Deepak Kumar,Badminton Racket,Sports,1,1740,40,Cash on Delivery,Hyderabad,Telangana,2025-01-19,Delivered
+100383,C0168,Arjun Mehta,Study Table,Furniture,3,10890,35,Credit Card,Hyderabad,Telangana,2025-10-17,Shipped
+100742,C0313,Sai Das,Atta 10kg,Grocery,2,630,25,UPI,Bengaluru,Karnataka,2026-02-16,Delivered
+100764,C0327,Diya Joshi,Yoga Mat,Sports,10,630,5,Debit Card,Delhi,Delhi,2025-04-09,Cancelled
+100862,C0042,Arjun Singh,Air Fryer,Home Appliances,8,7830,40,Debit Card,Coimbatore,Tamil Nadu,2026-06-16,Delivered
+100876,C0157,Harsh Iyer,Sports Shoes,Clothing,1,2000,40,Net Banking,Hyderabad,Telangana,2026-07-02,Delivered
+100283,C0004,Neha Kumar,Cooking Oil 5l,Grocery,9,790,10,Debit Card,Jaipur,Rajasthan,2025-04-22,Cancelled
+100565,C0141,Varun Agarwal,Air Fryer,Home Appliances,3,4590,15,Net Banking,Bengaluru,Karnataka,2025-08-16,Shipped
+100730,C0200,Isha Singh,Cooking Oil 5l,Grocery,1,720,15,UPI,Vijayawada,Andhra Pradesh,2026-01-22,Shipped
+100811,C0292,Riya Naidu,Competitive Exam Guide,Books,9,430,5,Debit Card,Bengaluru,Karnataka,2026-04-26,Processing
+100820,C0241,Aman Joshi,Bookshelf,Furniture,9,3060,40,Debit Card,Kolkata,West Bengal,2025-01-02,Delivered
+100994,C0085,Aarav Agarwal,Sofa,Furniture,3,29860,35,Net Banking,Lucknow,Uttar Pradesh,2026-02-09,Delivered
+100321,C0192,Divya Sharma,Badminton Racket,Sports,9,3020,20,Cash on Delivery,Kolkata,West Bengal,2026-01-15,Cancelled
+100452,C0261,Manish Tripathi,Dumbbell Set,Sports,5,6660,25,Cash on Delivery,Delhi,Delhi,2026-08-22,Cancelled
+100551,C0108,Sanjay Kumar,Wireless Mouse,Electronics,2,2250,12,UPI,Coimbatore,Tamil Nadu,2025-01-09,Delivered
+100714,C0248,Nandini Das,Smartphone,Electronics,8,13720,12,Debit Card,Chennai,Tamil Nadu,2026-09-27,Cancelled
+100785,C0222,Divya Sharma,Mechanical Keyboard,Electronics,5,5060,15,Net Banking,Chennai,Tamil Nadu,2025-04-26,Delivered
+100944,C0101,Aman Jain,Air Fryer,Home Appliances,6,9980,40,UPI,Kolkata,West Bengal,2025-06-13,Delivered
+100032,C0060,Arjun Patel,Induction Cooktop,Home Appliances,3,3520,10,Debit Card,Mumbai,Maharashtra,2025-06-30,Delivered
+100055,C0270,Pranav Iyer,Dry Fruits Pack,Grocery,7,930,12,Cash on Delivery,Coimbatore,Tamil Nadu,2026-08-20,Delivered
+100120,C0216,Lakshmi Das,Induction Cooktop,Home Appliances,7,4590,10,Net Banking,Hyderabad,Telangana,2025-09-17,Returned
+100195,C0232,Keerthi Kulkarni,Yoga Mat,Sports,3,890,30,UPI,Bengaluru,Karnataka,2026-06-28,Delivered
+100304,C0048,Divya Iyer,Makeup Kit,Beauty,5,2830,12,Debit Card,Bengaluru,Karnataka,2025-04-04,Delivered
+100248,C0176,Meera Joshi,Mechanical Keyboard,Electronics,10,6330,40,Net Banking,Mumbai,Maharashtra,2025-09-26,Delivered
+100256,C0216,Lakshmi Das,Cooking Oil 5l,Grocery,5,1000,10,Net Banking,Lucknow,Uttar Pradesh,2026-05-07,Delivered
+100284,C0302,Ananya Reddy,Study Table,Furniture,2,1790,30,Debit Card,Vijayawada,Andhra Pradesh,2026-06-22,Delivered
+100546,C0025,Deepak Gupta,Hoodie,Clothing,10,1320,12,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-11-14,Processing
+100629,C0184,Aman Joshi,Office Chair,Furniture,9,0,15,Credit Card,Hyderabad,Telangana,2025-03-28,Delivered
+100653,C0152,Sakshi Agarwal,Sports Shoes,Clothing,2,1910,10,Debit Card,Kolkata,West Bengal,2025-10-13,Processing
+100780,C0235,Varun Kapoor,Office Chair,Furniture,5,15610,0,Credit Card,Lucknow,Uttar Pradesh,2025-02-22,Delivered
+100965,C0240,Meera Yadav,Bookshelf,Furniture,6,3040,40,Debit Card,Mumbai,Maharashtra,2026-02-23,Delivered
+100103,C0182,Sakshi Naidu,Office Chair,Furniture,2,14350,25,UPI,Mumbai,Maharashtra,2025-03-08,Processing
+100117,C0130,Aman Saxena,Dumbbell Set,Sports,8,2360,5,Cash on Delivery,Kolkata,West Bengal,2025-08-04,Shipped
+100617,C0107,Aditi Kapoor,Dining Table,Furniture,7,23750,30,Debit Card,Mumbai,Maharashtra,2025-03-02,Processing
+100126,C0347,Aman Chaudhary,Running Shoes,Sports,4,4040,15,Net Banking,Mumbai,Maharashtra,2026-09-09,Delivered
+100210,C0314,Riya Kumar,Vacuum Cleaner,Home Appliances,8,14410,0,Credit Card,Pune,Maharashtra,2026-01-13,Delivered
+100234,C0330,Deepak Menon,Power Bank,Electronics,6,2250,12,UPI,Bengaluru,Karnataka,2025-08-08,Delivered
+100782,C0327,Diya Joshi,Tea 1kg,Grocery,6,360,5,UPI,Bengaluru,Karnataka,2025-10-14,Delivered
+100301,C0347,Aman Chaudhary,Formal Shirt,Clothing,10,1010,10,Credit Card,Kolkata,West Bengal,2025-04-29,Processing
+100673,C0131,Neha Singh,Hair Serum,Beauty,6,780,40,UPI,Mumbai,Maharashtra,2025-12-31,Delivered
+100688,C0282,Siddharth Malhotra,Programming Book,Books,5,980,15,Debit Card,Pune,Maharashtra,2026-02-11,Delivered
+100913,C0271,Deepak Shetty,Jeans,Clothing,6,3300,20,Debit Card,Delhi,Delhi,2026-05-07,Cancelled
+100958,C0331,Varun Reddy,Power Bank,Electronics,4,3250,30,Cash on Delivery,Mumbai,Maharashtra,2026-06-18,Delivered
+100308,C0311,Divya Shetty,Ceiling Fan,Home Appliances,9,3270,25,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-09-28,Delivered
+100368,C0007,Sai Mishra,Electric Kettle,Home Appliances,6,2320,0,UPI,Coimbatore,Tamil Nadu,2025-08-25,Shipped
+100445,C0143,Priya Rao,Coffee 500g,Grocery,2,430,20,Net Banking,Jaipur,Rajasthan,2025-01-21,Delivered
+100029,C0044,Varun Das,Microwave Oven,Home Appliances,4,7450,40,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-09-17,Delivered
+100379,C0350,Kavya Bose,Office Chair,Furniture,5,15000,20,Credit Card,Coimbatore,Tamil Nadu,2026-09-12,Returned
+100593,C0094,Sai Patel,Coffee 500g,Grocery,5,890,5,Debit Card,Lucknow,Uttar Pradesh,2026-05-06,Delivered
+100632,C0050,Tanvi Patel,Bedside Table,Furniture,8,2470,35,Credit Card,Bengaluru,Karnataka,2025-11-10,Shipped
+100733,C0041,Pooja Reddy,Competitive Exam Guide,Books,9,980,25,Debit Card,Jaipur,Rajasthan,2025-09-27,Delivered
+100843,C0131,Neha Singh,Dumbbell Set,Sports,3,5050,15,Credit Card,Hyderabad,Telangana,2026-09-16,Delivered
+100245,C0202,Neha Pandey,Face Wash,Beauty,7,280,20,Net Banking,Jaipur,Rajasthan,2025-03-07,Shipped
+100311,C0113,Neha Sharma,Dumbbell Set,Sports,2,5490,15,Cash on Delivery,Kolkata,West Bengal,2026-06-04,Processing
+100848,C0041,Pooja Reddy,Cooking Oil 5l,Grocery,3,730,25,Debit Card,Coimbatore,Tamil Nadu,2025-05-06,Shipped
+100861,C0338,Vivaan Patel,Spice Combo,Grocery,8,600,35,Net Banking,Bengaluru,Karnataka,2026-03-21,Shipped
+100991,C0037,Nikhil Patel,Sugar 5kg,Grocery,9,250,15,Credit Card,Bengaluru,Karnataka,2025-11-01,Returned
+100072,C0211,Meera Chopra,Competitive Exam Guide,Books,9,770,20,Credit Card,Jaipur,Rajasthan,2026-06-30,Delivered
+100191,C0244,Shreya Rao,Laptop,Electronics,7,68020,12,Net Banking,Pune,Maharashtra,2025-04-03,Processing
+100487,C0232,Keerthi Kulkarni,Office Chair,Furniture,4,1790,25,Debit Card,Mumbai,Maharashtra,2025-02-05,Returned
+100502,C0068,Vikram Yadav,Induction Cooktop,Home Appliances,2,5040,25,Debit Card,Jaipur,Rajasthan,2025-03-11,Cancelled
+100590,C0159,Riya Rao,Running Shoes,Sports,3,3030,30,Debit Card,Mumbai,Maharashtra,2025-03-13,Delivered
+100968,C0073,Abhinav Kulkarni,Wireless Mouse,Electronics,5,1640,12,UPI,Lucknow,Uttar Pradesh,2025-03-19,Shipped
+100039,C0165,Aditi Chopra,Formal Shirt,Clothing,6,1320,12,UPI,Hyderabad,Telangana,2025-05-16,Delivered
+100107,C0133,Vikram Reddy,Makeup Kit,Beauty,2,2910,0,Credit Card,Chennai,Tamil Nadu,2026-06-11,Delivered
+100277,C0303,Nandini Agarwal,Competitive Exam Guide,Books,8,880,15,Credit Card,Hyderabad,Telangana,2026-01-29,Delivered
+100292,C0054,Neha Shetty,Vacuum Cleaner,Home Appliances,8,6920,0,UPI,Pune,Maharashtra,2026-08-30,Cancelled
+100324,C0195,Tanvi Gupta,Sunscreen,Beauty,1,470,40,Debit Card,Bengaluru,Karnataka,2025-11-27,Returned
+100549,C0251,Akash Kulkarni,Tea 1kg,Grocery,1,380,10,Credit Card,Jaipur,Rajasthan,2025-10-29,Delivered
+100560,C0278,Vikram Malhotra,T-shirt,Clothing,5,960,30,Debit Card,Lucknow,Uttar Pradesh,2025-10-14,Delivered
+100143,C0184,Aman Joshi,Football,Sports,5,1030,15,Debit Card,Coimbatore,Tamil Nadu,2025-11-26,Delivered
+100451,C0070,Sneha Chopra,Makeup Kit,Beauty,1,3770,0,Credit Card,Jaipur,Rajasthan,2025-12-14,Shipped
+100478,C0029,Kavya Sharma,Ceiling Fan,Home Appliances,2,3060,12,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-06-19,Delivered
+100548,C0162,Siddharth Kapoor,Business Book,Books,5,690,25,Credit Card,Hyderabad,Telangana,2025-08-09,Shipped
+100138,C0123,Divya Naidu,Yoga Mat,Sports,8,950,10,Net Banking,Jaipur,Rajasthan,2025-10-13,Processing
+100696,C0019,Aman Tripathi,Jacket,Clothing,5,6400,12,Cash on Delivery,Vijayawada,Andhra Pradesh,2026-03-07,Delivered
+100262,C0348,Keerthi Rao,Dry Fruits Pack,Grocery,8,880,5,Debit Card,Coimbatore,Tamil Nadu,2025-07-23,Delivered
+100325,C0250,Karthik Patel,Football,Sports,7,1020,40,UPI,Bengaluru,Karnataka,2025-12-21,Delivered
+100440,C0106,Aman Rao,Perfume,Beauty,5,4480,30,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-02-07,Shipped
+100573,C0340,Tanvi Rao,Perfume,Beauty,3,2600,25,Cash on Delivery,Hyderabad,Telangana,2026-03-09,Cancelled
+100646,C0186,Sai Bose,Vacuum Cleaner,Home Appliances,10,17990,20,Net Banking,Kolkata,West Bengal,2026-08-02,Shipped
+100685,C0249,Priya Patel,Running Shoes,Sports,1,2640,0,UPI,Vijayawada,Andhra Pradesh,2025-11-05,Delivered
+100710,C0110,Anjali Joshi,Usb-c Hub,Electronics,9,3230,35,Credit Card,Chennai,Tamil Nadu,2025-11-20,Delivered
+100008,C0124,Tanvi Chaudhary,Dining Table,Furniture,6,25970,40,Cash on Delivery,Delhi,Delhi,2025-09-25,Delivered
+100144,C0136,Aman Nair,Moisturizer,Beauty,4,1150,40,Cash on Delivery,Hyderabad,Telangana,2025-03-31,Returned
+100278,C0254,Pooja Nair,Usb-c Hub,Electronics,9,3940,0,UPI,Jaipur,Rajasthan,2025-02-05,Processing
+100378,C0201,Sakshi Tripathi,Atta 10kg,Grocery,3,400,25,Credit Card,Lucknow,Uttar Pradesh,2026-09-18,Delivered
+100535,C0109,Ananya Joshi,Office Chair,Furniture,2,4080,15,Net Banking,Vijayawada,Andhra Pradesh,2025-06-18,Delivered
+100818,C0221,Nikhil Reddy,Running Shoes,Sports,4,6110,20,Cash on Delivery,Delhi,Delhi,2025-07-17,Returned
+100963,C0115,Siddharth Saxena,Ceiling Fan,Home Appliances,8,3820,0,UPI,Pune,Maharashtra,2025-10-10,Delivered
+100998,C0087,Akash Kulkarni,Business Book,Books,10,990,0,Net Banking,Delhi,Delhi,2025-10-05,Delivered
+100198,C0014,Arjun Pillai,Hoodie,Clothing,5,2160,12,Net Banking,Vijayawada,Andhra Pradesh,2025-09-03,Shipped
+100240,C0187,Siddharth Menon,Sofa,Furniture,10,52320,0,Net Banking,Delhi,Delhi,2025-04-02,Delivered
+100309,C0295,Lakshmi Pillai,Office Chair,Furniture,9,7900,12,Credit Card,Bengaluru,Karnataka,2025-12-13,Delivered
+100510,C0016,Neha Patel,Monitor,Electronics,8,17390,20,Credit Card,Lucknow,Uttar Pradesh,2025-12-03,Delivered
+100205,C0242,Karthik Chaudhary,Biography,Books,1,560,40,Net Banking,Jaipur,Rajasthan,2025-10-31,Shipped
+100302,C0179,Sai Sharma,Basmati Rice 5kg,Grocery,8,650,35,Net Banking,Kolkata,West Bengal,2026-08-13,Delivered
+100503,C0312,Aarav Kulkarni,Wireless Mouse,Electronics,9,1050,20,Debit Card,Delhi,Delhi,2025-02-08,Cancelled
+100522,C0288,Arjun Saxena,Jeans,Clothing,1,3030,20,Cash on Delivery,Kolkata,West Bengal,2025-03-15,Delivered
+100647,C0234,Tanvi Chopra,Sports Shoes,Clothing,3,1500,20,Cash on Delivery,Chennai,Tamil Nadu,2025-12-15,Delivered
+100978,C0289,Aditi Mishra,Novel,Books,10,420,40,UPI,Pune,Maharashtra,2025-01-26,Processing
+100408,C0096,Manish Gupta,Atta 10kg,Grocery,9,460,12,Net Banking,Lucknow,Uttar Pradesh,2025-05-15,Delivered
+100763,C0275,Aditya Mehta,Hoodie,Clothing,1,1380,12,Credit Card,Vijayawada,Andhra Pradesh,2025-04-22,Returned
+100697,C0278,Vikram Malhotra,Sugar 5kg,Grocery,1,400,30,Net Banking,Lucknow,Uttar Pradesh,2026-07-25,Shipped
+100787,C0312,Aarav Kulkarni,Sofa,Furniture,1,22810,15,Cash on Delivery,Kolkata,West Bengal,2026-01-27,Delivered
+100976,C0078,Aditi Patel,Cooking Oil 5l,Grocery,1,940,20,Debit Card,Pune,Maharashtra,2025-11-19,Delivered
+100129,C0304,Akash Yadav,Vacuum Cleaner,Home Appliances,10,12200,12,Credit Card,Hyderabad,Telangana,2026-09-30,Shipped
+100206,C0053,Anjali Saxena,Shampoo,Beauty,7,860,0,Net Banking,Jaipur,Rajasthan,2026-02-15,Shipped
+100533,C0299,Vivaan Chaudhary,Novel,Books,9,740,15,Net Banking,Chennai,Tamil Nadu,2026-05-28,Delivered
+100828,C0012,Keerthi Chaudhary,Hair Serum,Beauty,7,1070,10,Credit Card,Delhi,Delhi,2025-03-31,Delivered
+100867,C0321,Pranav Sharma,Spice Combo,Grocery,10,600,40,Credit Card,Lucknow,Uttar Pradesh,2025-09-24,Delivered
+100937,C0039,Siddharth Reddy,Laptop,Electronics,4,59350,12,Net Banking,Vijayawada,Andhra Pradesh,2026-05-21,Delivered
+100479,C0110,Anjali Joshi,Saree,Clothing,4,1650,35,Credit Card,Hyderabad,Telangana,2025-11-07,Delivered
+100083,C0328,Riya Iyer,Study Table,Furniture,10,17860,10,UPI,Jaipur,Rajasthan,2026-06-01,Processing
+100547,C0231,Varun Kumar,Laptop,Electronics,1,81010,10,Net Banking,Hyderabad,Telangana,2025-08-04,Delivered
+100840,C0253,Karthik Mehta,Face Wash,Beauty,4,400,10,UPI,Bengaluru,Karnataka,2026-07-13,Cancelled
+100056,C0246,Lakshmi Agarwal,Air Fryer,Home Appliances,3,10240,30,UPI,Hyderabad,Telangana,2026-01-20,Shipped
+100212,C0234,Tanvi Chopra,Ceiling Fan,Home Appliances,2,1860,15,UPI,Kolkata,West Bengal,2025-02-18,Shipped
+100395,C0226,Priya Bose,T-shirt,Clothing,3,1480,12,Credit Card,Mumbai,Maharashtra,2025-05-05,Shipped
+100184,C0137,Riya Kapoor,Bookshelf,Furniture,10,11920,30,Debit Card,Chennai,Tamil Nadu,2025-05-04,Shipped
+100946,C0345,Keerthi Yadav,Electric Kettle,Home Appliances,5,1150,30,Debit Card,Coimbatore,Tamil Nadu,2025-01-28,Processing
+100059,C0167,Kavya Chaudhary,Sofa,Furniture,1,45850,40,Cash on Delivery,Kolkata,West Bengal,2026-09-19,Processing
+100272,C0295,Lakshmi Pillai,T-shirt,Clothing,1,1560,15,Credit Card,Coimbatore,Tamil Nadu,2025-04-26,Delivered
+100474,C0263,Siddharth Kulkarni,Novel,Books,4,420,30,Net Banking,Pune,Maharashtra,2026-01-02,Cancelled
+100543,C0010,Shreya Agarwal,Makeup Kit,Beauty,3,2610,40,Debit Card,Hyderabad,Telangana,2026-04-10,Shipped
+100574,C0287,Anjali Chopra,Biography,Books,9,860,20,Credit Card,Hyderabad,Telangana,2025-04-19,Delivered
+100631,C0157,Harsh Iyer,Induction Cooktop,Home Appliances,6,4000,40,Net Banking,Hyderabad,Telangana,2025-06-23,Shipped
+100720,C0230,Siddharth Iyer,Monitor,Electronics,4,19770,20,Debit Card,Chennai,Tamil Nadu,2025-04-10,Delivered
+100796,C0163,Sanjay Singh,Tea 1kg,Grocery,10,530,20,Net Banking,Lucknow,Uttar Pradesh,2025-01-30,Returned
+100347,C0339,Deepak Malhotra,Shampoo,Beauty,9,860,25,Net Banking,Chennai,Tamil Nadu,2026-02-15,Delivered
+100520,C0011,Riya Chaudhary,Study Table,Furniture,1,5650,15,Cash on Delivery,Bengaluru,Karnataka,2026-09-19,Returned
+100534,C0271,Deepak Shetty,Wireless Mouse,Electronics,8,970,25,Cash on Delivery,Coimbatore,Tamil Nadu,2025-03-04,Delivered
+100643,C0149,Manish Pillai,Tea 1kg,Grocery,5,580,30,Cash on Delivery,Coimbatore,Tamil Nadu,2025-05-16,Processing
+100749,C0190,Harsh Patel,Formal Shirt,Clothing,1,1840,25,Cash on Delivery,Vijayawada,Andhra Pradesh,2025-06-24,Delivered
+100762,C0220,Vivaan Pillai,Makeup Kit,Beauty,7,3470,10,Cash on Delivery,Bengaluru,Karnataka,2026-05-25,Delivered
+100827,C0247,Neha Chaudhary,Makeup Kit,Beauty,10,1790,25,Debit Card,Delhi,Delhi,2025-10-09,Delivered
+100125,C0215,Sai Naidu,Sugar 5kg,Grocery,4,410,30,Debit Card,Hyderabad,Telangana,2025-09-17,Returned
+100338,C0173,Nandini Patel,Sunscreen,Beauty,6,1090,5,Debit Card,Chennai,Tamil Nadu,2025-06-21,Returned
+100519,C0001,Meera Mishra,Makeup Kit,Beauty,8,2300,12,UPI,Chennai,Tamil Nadu,2025-04-23,Processing
+100788,C0007,Sai Mishra,Basmati Rice 5kg,Grocery,1,650,40,Net Banking,Kolkata,West Bengal,2026-05-03,Delivered
+100879,C0123,Divya Naidu,Coffee 500g,Grocery,8,320,25,UPI,Mumbai,Maharashtra,2026-06-18,Delivered
+100959,C0253,Karthik Mehta,Dining Table,Furniture,2,35480,15,Cash on Delivery,Bengaluru,Karnataka,2026-04-08,Shipped
+100015,C0025,Deepak Gupta,Shampoo,Beauty,6,260,10,Net Banking,Pune,Maharashtra,2026-06-30,Shipped
+100826,C0200,Isha Singh,Sports Shoes,Clothing,8,6220,35,Credit Card,Chennai,Tamil Nadu,2026-07-03,Delivered
+100984,C0046,Vikram Iyer,T-shirt,Clothing,6,1570,20,UPI,Kolkata,West Bengal,2026-09-22,Cancelled
+100180,C0057,Swathi Yadav,Face Wash,Beauty,6,250,12,UPI,Pune,Maharashtra,2025-05-04,Delivered
+100401,C0100,Riya Reddy,Cricket Bat,Sports,3,3730,20,Net Banking,Jaipur,Rajasthan,2026-05-21,Shipped
+100419,C0165,Aditi Chopra,Sofa,Furniture,7,50370,15,Net Banking,Lucknow,Uttar Pradesh,2026-01-09,Delivered
+100704,C0158,Deepak Pandey,Moisturizer,Beauty,1,1010,30,Debit Card,Kolkata,West Bengal,2025-05-12,Processing
+100779,C0340,Tanvi Rao,Vacuum Cleaner,Home Appliances,6,13700,40,Net Banking,Lucknow,Uttar Pradesh,2025-07-01,Shipped
+100241,C0343,Pooja Jain,Study Table,Furniture,10,6570,35,Net Banking,Hyderabad,Telangana,2026-06-01,Returned
+100290,C0010,Shreya Agarwal,Vacuum Cleaner,Home Appliances,5,12740,35,Net Banking,Lucknow,Uttar Pradesh,2026-07-26,Delivered
+100358,C0132,Vikram Menon,Bedside Table,Furniture,7,4460,15,Net Banking,Lucknow,Uttar Pradesh,2025-07-14,Delivered
+100446,C0138,Pranav Joshi,Kurta,Clothing,1,750,20,UPI,Jaipur,Rajasthan,2025-01-15,Shipped
+100496,C0020,Aarav Patel,Basmati Rice 5kg,Grocery,1,520,15,Net Banking,Pune,Maharashtra,2025-10-07,Delivered
+100645,C0135,Anjali Kapoor,Sunscreen,Beauty,6,420,25,Debit Card,Vijayawada,Andhra Pradesh,2026-02-02,Returned
+100986,C0233,Aman Bose,Makeup Kit,Beauty,5,2570,5,Credit Card,Chennai,Tamil Nadu,2025-07-02,Delivered
+100251,C0078,Aditi Patel,Study Table,Furniture,6,9520,15,Credit Card,Mumbai,Maharashtra,2025-07-21,Delivered
+100711,C0083,Ananya Singh,Induction Cooktop,Home Appliances,1,2160,10,Credit Card,Kolkata,West Bengal,2025-03-31,Delivered
+100712,C0295,Lakshmi Pillai,Spice Combo,Grocery,1,710,10,UPI,Kolkata,West Bengal,2026-08-09,Delivered
+100342,C0221,Unknown,Study Table,Furniture,8,17790,12,Net Banking,Vijayawada,Andhra Pradesh,2025-11-10,Processing
+100051,C0180,Arjun Agarwal,Novel,Books,7,710,15,Unknown,Mumbai,Maharashtra,2026-07-02,Delivered
+100435,C0111,Nandini Sharma,Yoga Mat,Sports,10,1150,15,Credit Card,Unknown,Telangana,2025-10-17,Processing
+100615,C0200,Isha Singh,Basmati Rice 5kg,Grocery,5,610,40,Credit Card,Unknown,Delhi,2025-07-16,Delivered
+100702,C0257,Unknown,Saree,Clothing,8,2550,10,Net Banking,Jaipur,Rajasthan,2025-08-15,Processing
+100804,C0185,Sai Patel,Sofa,Furniture,1,31430,35,Unknown,Mumbai,Maharashtra,2026-06-03,Delivered
+100621,C0236,Siddharth Verma,Atta 10kg,Grocery,1,470,5,Credit Card,Unknown,Maharashtra,2025-03-31,Delivered
+100380,C0212,Sneha Kulkarni,Electric Kettle,Home Appliances,3,1790,20,Cash on Delivery,Unknown,Rajasthan,2025-05-13,Delivered
+100514,C0137,Unknown,Ceiling Fan,Home Appliances,2,3320,20,Debit Card,Kolkata,West Bengal,2026-08-03,Returned
+100236,C0220,Vivaan Pillai,Induction Cooktop,Home Appliances,5,4230,30,Unknown,Bengaluru,Karnataka,2026-09-21,Delivered
+100892,C0291,Varun Pillai,Coffee 500g,Grocery,2,780,15,Net Banking,Unknown,Karnataka,2026-04-17,Shipped
+100961,C0148,Priya Jain,Hoodie,Clothing,5,3840,20,UPI,Unknown,Andhra Pradesh,2025-07-07,Delivered
+100286,C0224,Unknown,Sports Bottle,Sports,5,530,40,Net Banking,Mumbai,Maharashtra,2026-06-05,Shipped
+100178,C0078,Aditi Patel,Usb-c Hub,Electronics,10,1640,10,Unknown,Kolkata,West Bengal,2026-08-04,Returned
+100439,C0211,Meera Chopra,Competitive Exam Guide,Books,7,400,12,Unknown,Chennai,Tamil Nadu,2025-02-15,Delivered
+100598,C0066,Unknown,Yoga Mat,Sports,4,1140,25,UPI,Chennai,Tamil Nadu,2026-05-12,Returned
+100328,C0332,Meera Agarwal,Yoga Mat,Sports,7,1260,15,Unknown,Pune,Maharashtra,2026-01-26,Delivered
+100613,C0199,Pooja Reddy,Programming Book,Books,8,830,5,Credit Card,Unknown,Karnataka,2026-07-03,Shipped
+100344,C0049,Unknown,Moisturizer,Beauty,3,330,5,Credit Card,Mumbai,Maharashtra,2025-02-15,Delivered
+100013,C0196,Unknown,Competitive Exam Guide,Books,3,660,12,Credit Card,Chennai,Tamil Nadu,2025-08-16,Delivered
+100706,C0039,Unknown,Sports Bottle,Sports,5,1200,35,Credit Card,Kolkata,West Bengal,2026-03-29,Delivered
+100340,C0122,Abhinav Yadav,T-shirt,Clothing,6,1630,40,Unknown,Bengaluru,Karnataka,2025-04-19,Delivered
+100845,C0337,Nikhil Joshi,Football,Sports,5,2130,0,Net Banking,Unknown,Karnataka,2025-03-26,Delivered
+100536,C0234,Tanvi Chopra,Electric Kettle,Home Appliances,10,1330,10,Unknown,Hyderabad,Telangana,2025-12-22,Processing
+100809,C0083,Unknown,Bookshelf,Furniture,7,8730,35,UPI,Mumbai,Maharashtra,2026-02-02,Delivered
+100266,C0181,Unknown,Tea 1kg,Grocery,6,370,10,Credit Card,Hyderabad,Telangana,2026-01-20,Shipped
