@@ -1,0 +1,991 @@
+order_id,customer_id,customer_name,product,category,quantity,unit_price,discount_percent,payment_method,city,state,order_date,order_status
+100331,c0005,sakshi joshi,football,sports,2,670.0,30,credit card,bengaluru,karnataka,2025-06-06,cancelled
+100333,c0263,siddharth kulkarni,programming book,books,4,670.0,0,net banking,pune,maharashtra,2025-05-08,delivered
+100506,c0228,diya tripathi,competitive exam guide,books,6,610.0,12,upi,coimbatore,tamil nadu,2025-06-02,delivered
+100931,c0204,pranav reddy,dining table,furniture,10,37710.0,30,credit card,pune,maharashtra,2025-12-25,cancelled
+100168,c0179,sai sharma,office chair,furniture,4,6820.0,35,cash on delivery,coimbatore,tamil nadu,2026-06-04,processing
+100473,c0195,tanvi gupta,badminton racket,sports,2,840.0,35,debit card,kolkata,west bengal,2026-03-24,shipped
+100532,c0149,manish pillai,shampoo,beauty,4,770.0,12,cash on delivery,delhi,delhi,2026-04-30,delivered
+100011,c0021,keerthi tripathi,programming book,books,3,1140.0,35,net banking,delhi,delhi,2026-07-27,delivered
+100064,c0276,ananya agarwal,microwave oven,home appliances,3,16610.0,0,upi,hyderabad,telangana,2025-05-15,delivered
+100176,c0138,pranav joshi,electric kettle,home appliances,2,2170.0,35,net banking,vijayawada,andhra pradesh,2026-08-23,delivered
+100307,c0189,siddharth shetty,atta 10kg,grocery,7,720.0,10,debit card,coimbatore,tamil nadu,2025-12-25,cancelled
+100414,c0097,aditya chopra,programming book,books,10,1170.0,12,credit card,bengaluru,karnataka,2025-05-06,delivered
+100680,c0244,shreya rao,tea 1kg,grocery,6,780.0,5,debit card,mumbai,maharashtra,2026-05-05,returned
+100018,c0087,akash kulkarni,jacket,clothing,10,4310.0,25,debit card,bengaluru,karnataka,2026-08-17,processing
+100060,c0246,lakshmi agarwal,sofa,furniture,1,50800.0,10,credit card,chennai,tamil nadu,2026-01-18,delivered
+100275,c0032,anjali kumar,dumbbell set,sports,1,7290.0,12,net banking,vijayawada,andhra pradesh,2025-03-05,delivered
+100332,c0218,rohan pandey,hair serum,beauty,6,450.0,12,upi,bengaluru,karnataka,2025-12-06,cancelled
+100667,c0191,aman naidu,smartphone,electronics,3,29520.0,12,cash on delivery,delhi,delhi,2026-03-04,cancelled
+100865,c0155,sneha sharma,saree,clothing,3,7070.0,12,credit card,mumbai,maharashtra,2026-02-01,delivered
+100883,c0345,keerthi yadav,monitor,electronics,8,16920.0,12,cash on delivery,jaipur,rajasthan,2026-08-19,cancelled
+100101,c0248,nandini das,dumbbell set,sports,10,7430.0,35,cash on delivery,vijayawada,andhra pradesh,2026-09-12,delivered
+100375,c0027,harsh jain,basmati rice 5kg,grocery,0,460.0,10,debit card,mumbai,maharashtra,2025-05-03,shipped
+100525,c0057,swathi yadav,novel,books,8,760.0,20,cash on delivery,chennai,tamil nadu,2025-12-29,delivered
+100919,c0214,neha tripathi,jacket,clothing,0,3600.0,20,upi,jaipur,rajasthan,2025-02-06,delivered
+100928,c0106,aman rao,mechanical keyboard,electronics,2,2430.0,12,credit card,bengaluru,karnataka,2025-05-19,delivered
+100982,c0098,sai kumar,novel,books,10,260.0,35,net banking,lucknow,uttar pradesh,2026-06-02,returned
+100130,c0264,siddharth mishra,perfume,beauty,8,4250.0,25,upi,lucknow,uttar pradesh,2026-08-03,shipped
+100202,c0100,riya reddy,hair serum,beauty,7,650.0,25,cash on delivery,coimbatore,tamil nadu,2026-02-12,delivered
+100610,c0158,deepak pandey,shampoo,beauty,6,380.0,35,net banking,vijayawada,andhra pradesh,2026-03-16,shipped
+100619,c0036,aarav singh,running shoes,sports,1,3690.0,12,net banking,vijayawada,andhra pradesh,2026-01-09,shipped
+100793,c0109,ananya joshi,dining table,furniture,3,40530.0,0,net banking,hyderabad,telangana,2026-03-27,delivered
+100829,c0036,aarav singh,coffee 500g,grocery,10,790.0,0,net banking,jaipur,rajasthan,2025-05-01,delivered
+100849,c0276,ananya agarwal,cricket bat,sports,10,1850.0,10,net banking,jaipur,rajasthan,2025-01-30,delivered
+100907,c0075,swathi tripathi,t-shirt,clothing,4,880.0,0,cash on delivery,vijayawada,andhra pradesh,2026-01-23,shipped
+100207,c0197,lakshmi das,competitive exam guide,books,8,480.0,15,credit card,delhi,delhi,2026-01-28,delivered
+100585,c0217,meera pandey,data science handbook,books,3,1110.0,30,cash on delivery,vijayawada,andhra pradesh,2026-05-27,delivered
+100623,c0182,sakshi naidu,tea 1kg,grocery,2,410.0,0,credit card,bengaluru,karnataka,2025-10-31,processing
+100010,c0113,neha sharma,kurta,clothing,4,860.0,25,upi,lucknow,uttar pradesh,2026-08-24,processing
+100589,c0220,vivaan pillai,sofa,furniture,5,34590.0,5,cash on delivery,lucknow,uttar pradesh,2026-05-31,delivered
+100612,c0091,siddharth joshi,shampoo,beauty,1,620.0,10,net banking,kolkata,west bengal,2025-11-20,returned
+100628,c0020,aarav patel,sports shoes,clothing,1,3360.0,30,debit card,mumbai,maharashtra,2026-05-04,delivered
+100887,c0157,harsh iyer,yoga mat,sports,9,1260.0,20,credit card,lucknow,uttar pradesh,2025-05-02,delivered
+100252,c0149,manish pillai,programming book,books,10,920.0,10,net banking,kolkata,west bengal,2026-01-06,delivered
+100374,c0099,arjun pandey,electric kettle,home appliances,9,930.0,40,net banking,vijayawada,andhra pradesh,2026-01-09,delivered
+100483,c0096,manish gupta,cooking oil 5l,grocery,3,620.0,0,credit card,bengaluru,karnataka,2026-09-06,delivered
+100531,c0005,sakshi joshi,jacket,clothing,8,6940.0,15,cash on delivery,vijayawada,andhra pradesh,2026-06-08,shipped
+100616,c0192,divya sharma,t-shirt,clothing,7,1530.0,15,cash on delivery,chennai,tamil nadu,2025-03-22,delivered
+100721,c0162,siddharth kapoor,business book,books,6,1100.0,10,net banking,pune,maharashtra,2026-04-19,delivered
+100185,c0308,diya patel,cooking oil 5l,grocery,5,640.0,20,cash on delivery,vijayawada,andhra pradesh,2026-03-05,delivered
+100509,c0011,riya chaudhary,running shoes,sports,10,4590.0,40,debit card,pune,maharashtra,2026-04-19,delivered
+100836,c0276,ananya agarwal,cooking oil 5l,grocery,3,710.0,20,net banking,coimbatore,tamil nadu,2026-08-29,delivered
+100985,c0089,siddharth iyer,kurta,clothing,2,840.0,35,cash on delivery,delhi,delhi,2025-09-19,delivered
+100201,c0291,varun pillai,ceiling fan,home appliances,3,3170.0,25,net banking,mumbai,maharashtra,2025-08-28,cancelled
+100204,c0156,nandini bose,yoga mat,sports,5,620.0,15,cash on delivery,jaipur,rajasthan,2025-01-21,delivered
+100366,c0062,lakshmi pillai,competitive exam guide,books,1,850.0,15,credit card,hyderabad,telangana,2026-07-14,delivered
+100656,c0225,sanjay das,face wash,beauty,1,210.0,30,net banking,jaipur,rajasthan,2025-05-19,delivered
+100179,c0047,sneha mishra,tea 1kg,grocery,3,600.0,35,credit card,jaipur,rajasthan,2025-01-23,delivered
+100228,c0271,deepak shetty,novel,books,1,750.0,0,net banking,chennai,tamil nadu,2025-11-01,processing
+100243,c0007,sai mishra,dining table,furniture,7,33330.0,40,upi,pune,maharashtra,2026-04-27,cancelled
+100270,c0173,nandini patel,shampoo,beauty,2,720.0,15,upi,hyderabad,telangana,2025-10-05,delivered
+100687,c0192,divya sharma,football,sports,3,1080.0,10,debit card,coimbatore,tamil nadu,2026-04-20,returned
+100852,c0076,neha reddy,basmati rice 5kg,grocery,4,730.0,12,credit card,vijayawada,andhra pradesh,2025-02-19,delivered
+100511,c0142,aarav chopra,tea 1kg,grocery,1,390.0,10,cash on delivery,hyderabad,telangana,2026-06-01,delivered
+100209,c0231,varun kumar,business book,books,3,560.0,10,net banking,mumbai,maharashtra,2025-07-21,delivered
+100258,c0264,siddharth mishra,laptop,electronics,2,65940.0,12,credit card,pune,maharashtra,2025-02-17,delivered
+100450,c0189,siddharth shetty,sofa,furniture,7,12850.0,20,credit card,jaipur,rajasthan,2025-06-04,delivered
+100775,c0192,divya sharma,bookshelf,furniture,2,10040.0,40,upi,kolkata,west bengal,2026-04-22,shipped
+100918,c0095,abhinav malhotra,mixer grinder,home appliances,6,4870.0,35,debit card,kolkata,west bengal,2025-12-11,delivered
+100926,c0002,deepak jain,ceiling fan,home appliances,0,3070.0,40,net banking,pune,maharashtra,2026-08-19,delivered
+100081,c0145,shreya saxena,monitor,electronics,1,18960.0,35,credit card,mumbai,maharashtra,2026-04-22,delivered
+100158,c0337,nikhil joshi,dining table,furniture,1,32910.0,40,credit card,vijayawada,andhra pradesh,2026-07-29,shipped
+100402,c0205,abhinav rao,bluetooth speaker,electronics,1,4910.0,0,net banking,chennai,tamil nadu,2025-11-15,shipped
+100485,c0057,swathi yadav,ceiling fan,home appliances,2,2640.0,30,net banking,vijayawada,andhra pradesh,2025-05-28,delivered
+100491,c0285,sanjay verma,laptop,electronics,10,45130.0,5,cash on delivery,kolkata,west bengal,2026-08-03,shipped
+100518,c0072,arjun sharma,biography,books,3,350.0,5,net banking,pune,maharashtra,2025-04-20,shipped
+100030,c0303,nandini agarwal,sports bottle,sports,7,360.0,0,cash on delivery,pune,maharashtra,2025-11-10,delivered
+100054,c0057,swathi yadav,shampoo,beauty,1,820.0,12,cash on delivery,lucknow,uttar pradesh,2025-11-08,delivered
+100067,c0304,akash yadav,football,sports,1,1530.0,20,net banking,delhi,delhi,2025-10-05,delivered
+100725,c0216,lakshmi das,mechanical keyboard,electronics,8,4730.0,40,cash on delivery,lucknow,uttar pradesh,2025-01-26,shipped
+100914,c0321,pranav sharma,makeup kit,beauty,6,4870.0,30,net banking,chennai,tamil nadu,2026-07-05,delivered
+100045,c0346,nandini mehta,wireless mouse,electronics,7,1260.0,35,upi,pune,maharashtra,2026-04-03,delivered
+100516,c0196,divya gupta,air fryer,home appliances,2,4320.0,0,upi,coimbatore,tamil nadu,2025-08-18,delivered
+100666,c0079,neha pandey,coffee 500g,grocery,9,740.0,25,cash on delivery,jaipur,rajasthan,2026-07-12,delivered
+100040,c0295,lakshmi pillai,perfume,beauty,6,1010.0,15,debit card,lucknow,uttar pradesh,2025-10-17,delivered
+100803,c0343,pooja jain,programming book,books,7,630.0,20,cash on delivery,chennai,tamil nadu,2026-04-02,shipped
+100812,c0085,aarav agarwal,hair serum,beauty,7,670.0,20,upi,chennai,tamil nadu,2025-07-20,delivered
+100152,c0090,abhinav pillai,ceiling fan,home appliances,10,3450.0,35,cash on delivery,chennai,tamil nadu,2026-02-27,delivered
+100927,c0275,aditya mehta,shampoo,beauty,1,780.0,40,credit card,delhi,delhi,2026-05-27,cancelled
+100037,c0321,pranav sharma,cricket bat,sports,5,2290.0,40,net banking,mumbai,maharashtra,2026-08-15,returned
+100268,c0315,meera malhotra,sunscreen,beauty,9,920.0,12,cash on delivery,coimbatore,tamil nadu,2026-05-06,shipped
+100269,c0157,harsh iyer,yoga mat,sports,6,1400.0,10,cash on delivery,mumbai,maharashtra,2025-02-23,delivered
+100864,c0147,deepak kumar,competitive exam guide,books,0,970.0,30,cash on delivery,hyderabad,telangana,2025-12-07,delivered
+100003,c0348,keerthi rao,hoodie,clothing,6,3080.0,12,upi,pune,maharashtra,2025-05-06,shipped
+100134,c0270,pranav iyer,study table,furniture,9,4260.0,40,debit card,bengaluru,karnataka,2025-08-11,delivered
+100372,c0197,lakshmi das,shampoo,beauty,9,490.0,15,cash on delivery,bengaluru,karnataka,2025-04-28,returned
+100427,c0192,divya sharma,football,sports,10,1020.0,10,net banking,jaipur,rajasthan,2025-03-06,delivered
+100544,c0321,pranav sharma,microwave oven,home appliances,7,10840.0,35,net banking,lucknow,uttar pradesh,2026-02-04,shipped
+100798,c0090,abhinav pillai,mechanical keyboard,electronics,4,3610.0,0,debit card,kolkata,west bengal,2026-04-09,delivered
+100219,c0145,shreya saxena,moisturizer,beauty,5,690.0,15,net banking,jaipur,rajasthan,2025-08-25,delivered
+100287,c0310,sakshi bose,basmati rice 5kg,grocery,10,580.0,20,cash on delivery,vijayawada,andhra pradesh,2026-03-26,cancelled
+100305,c0199,pooja reddy,cooking oil 5l,grocery,5,840.0,40,net banking,delhi,delhi,2025-06-16,delivered
+100970,c0175,diya naidu,study table,furniture,9,14390.0,30,upi,bengaluru,karnataka,2025-05-02,delivered
+100540,c0206,harsh pillai,ceiling fan,home appliances,2,2600.0,15,net banking,chennai,tamil nadu,2025-02-10,returned
+100781,c0190,harsh patel,dry fruits pack,grocery,3,1270.0,20,credit card,lucknow,uttar pradesh,2025-03-24,delivered
+100070,c0263,siddharth kulkarni,sofa,furniture,4,28910.0,25,debit card,mumbai,maharashtra,2025-01-29,delivered
+100197,c0280,akash singh,monitor,electronics,8,22630.0,10,credit card,lucknow,uttar pradesh,2025-02-19,shipped
+100343,c0036,aarav singh,running shoes,sports,6,4140.0,0,debit card,kolkata,west bengal,2025-10-22,processing
+100910,c0113,neha sharma,coffee 500g,grocery,7,820.0,0,upi,coimbatore,tamil nadu,2025-02-07,processing
+100115,c0069,sai malhotra,badminton racket,sports,7,3900.0,35,upi,coimbatore,tamil nadu,2025-01-12,processing
+100225,c0229,keerthi tripathi,sunscreen,beauty,5,500.0,40,credit card,mumbai,maharashtra,2025-03-08,processing
+100484,c0206,harsh pillai,usb-c hub,electronics,2,2350.0,30,cash on delivery,vijayawada,andhra pradesh,2026-07-01,processing
+100731,c0081,abhinav gupta,sofa,furniture,1,34850.0,35,debit card,delhi,delhi,2025-09-15,delivered
+100542,c0169,priya singh,spice combo,grocery,3,380.0,5,credit card,mumbai,maharashtra,2025-04-16,processing
+100558,c0308,diya patel,cricket bat,sports,10,4150.0,15,credit card,mumbai,maharashtra,2025-01-04,cancelled
+100626,c0230,siddharth iyer,atta 10kg,grocery,8,440.0,15,upi,vijayawada,andhra pradesh,2025-03-06,delivered
+100141,c0046,vikram iyer,face wash,beauty,6,480.0,30,credit card,mumbai,maharashtra,2026-06-25,processing
+100215,c0210,neha agarwal,badminton racket,sports,1,830.0,40,credit card,bengaluru,karnataka,2025-01-11,shipped
+100260,c0135,anjali kapoor,atta 10kg,grocery,1,510.0,0,debit card,hyderabad,telangana,2026-07-28,delivered
+100279,c0259,aditi agarwal,office chair,furniture,5,11290.0,12,cash on delivery,kolkata,west bengal,2025-07-28,delivered
+100462,c0131,neha singh,jacket,clothing,10,4620.0,12,credit card,lucknow,uttar pradesh,2025-03-02,processing
+100607,c0120,varun shetty,induction cooktop,home appliances,3,4250.0,35,credit card,hyderabad,telangana,2026-07-24,shipped
+100691,c0319,sanjay gupta,sofa,furniture,3,51360.0,20,net banking,kolkata,west bengal,2025-07-20,processing
+100899,c0140,sneha sharma,dining table,furniture,6,10550.0,0,upi,pune,maharashtra,2025-11-11,processing
+100112,c0111,nandini sharma,bookshelf,furniture,2,9780.0,15,cash on delivery,chennai,tamil nadu,2025-02-04,delivered
+100507,c0325,keerthi sharma,spice combo,grocery,5,400.0,35,cash on delivery,bengaluru,karnataka,2026-06-23,cancelled
+100602,c0337,nikhil joshi,sports shoes,clothing,2,5680.0,0,cash on delivery,chennai,tamil nadu,2026-01-24,shipped
+100765,c0094,sai patel,formal shirt,clothing,6,2450.0,0,cash on delivery,pune,maharashtra,2025-09-18,delivered
+100331,c0137,riya kapoor,jacket,clothing,4,1860.0,20,net banking,kolkata,west bengal,2025-02-20,delivered
+100009,c0320,lakshmi rao,data science handbook,books,2,680.0,30,debit card,vijayawada,andhra pradesh,2025-09-04,delivered
+100038,c0196,divya gupta,wireless mouse,electronics,10,910.0,10,credit card,hyderabad,telangana,2025-04-21,delivered
+100151,c0150,vivaan nair,mixer grinder,home appliances,8,5860.0,12,net banking,vijayawada,andhra pradesh,2025-10-14,delivered
+100200,c0046,vikram iyer,perfume,beauty,8,1890.0,40,upi,vijayawada,andhra pradesh,2025-10-05,shipped
+100299,c0106,aman rao,monitor,electronics,3,18470.0,0,debit card,hyderabad,telangana,2025-09-14,delivered
+100449,c0194,tanvi verma,business book,books,5,1100.0,10,upi,jaipur,rajasthan,2025-10-15,processing
+100906,c0139,tanvi naidu,mixer grinder,home appliances,6,4400.0,30,upi,hyderabad,telangana,2026-03-02,returned
+100915,c0284,nikhil yadav,saree,clothing,4,3640.0,30,net banking,pune,maharashtra,2025-10-02,delivered
+100940,c0349,tanvi reddy,vacuum cleaner,home appliances,9,12420.0,40,cash on delivery,coimbatore,tamil nadu,2026-08-29,returned
+100077,c0183,sakshi joshi,hoodie,clothing,5,2470.0,20,credit card,chennai,tamil nadu,2026-03-30,shipped
+100471,c0171,vivaan naidu,business book,books,7,1010.0,0,upi,hyderabad,telangana,2026-03-12,delivered
+100530,c0140,sneha sharma,competitive exam guide,books,7,950.0,5,cash on delivery,pune,maharashtra,2026-06-09,delivered
+100868,c0240,meera yadav,dry fruits pack,grocery,7,1300.0,5,debit card,bengaluru,karnataka,2025-04-21,shipped
+100715,c0350,kavya bose,business book,books,7,780.0,35,credit card,pune,maharashtra,2026-04-10,delivered
+100329,c0151,varun verma,bedside table,furniture,9,3530.0,20,net banking,vijayawada,andhra pradesh,2025-04-08,delivered
+100337,c0058,swathi mishra,tea 1kg,grocery,4,470.0,12,cash on delivery,lucknow,uttar pradesh,2025-05-24,cancelled
+100729,c0176,meera joshi,spice combo,grocery,7,640.0,12,debit card,vijayawada,andhra pradesh,2025-10-20,delivered
+100734,c0061,arjun nair,jeans,clothing,3,2720.0,20,credit card,jaipur,rajasthan,2026-04-28,processing
+100853,c0043,pranav menon,hoodie,clothing,6,2820.0,20,credit card,mumbai,maharashtra,2026-01-29,shipped
+100049,c0175,diya naidu,running shoes,sports,1,6530.0,5,net banking,jaipur,rajasthan,2025-07-25,processing
+100433,c0196,divya gupta,laptop,electronics,3,65930.0,15,cash on delivery,delhi,delhi,2025-12-15,shipped
+100794,c0268,keerthi iyer,cooking oil 5l,grocery,10,940.0,30,credit card,chennai,tamil nadu,2026-07-06,delivered
+100813,c0083,ananya singh,t-shirt,clothing,6,1320.0,12,debit card,pune,maharashtra,2025-06-29,shipped
+100819,c0286,rahul naidu,dumbbell set,sports,3,4290.0,35,debit card,coimbatore,tamil nadu,2025-10-17,shipped
+100041,c0113,neha sharma,study table,furniture,6,7530.0,10,credit card,delhi,delhi,2025-07-17,delivered
+100084,c0280,akash singh,microwave oven,home appliances,8,10660.0,30,net banking,kolkata,west bengal,2025-04-21,delivered
+100169,c0124,tanvi chaudhary,biography,books,3,810.0,10,credit card,kolkata,west bengal,2025-08-19,shipped
+100330,c0133,vikram reddy,yoga mat,sports,2,1890.0,25,cash on delivery,mumbai,maharashtra,2025-10-25,delivered
+100364,c0154,kavya reddy,electric kettle,home appliances,10,980.0,40,debit card,coimbatore,tamil nadu,2025-11-07,delivered
+100669,c0225,sanjay das,bedside table,furniture,6,3690.0,20,net banking,bengaluru,karnataka,2026-02-25,delivered
+100841,c0315,meera malhotra,running shoes,sports,9,2010.0,5,upi,bengaluru,karnataka,2025-04-19,delivered
+100175,c0060,arjun patel,face wash,beauty,4,680.0,20,cash on delivery,hyderabad,telangana,2026-02-26,delivered
+100460,c0131,neha singh,moisturizer,beauty,4,600.0,10,net banking,mumbai,maharashtra,2026-05-30,delivered
+100736,c0266,divya chopra,sports bottle,sports,2,500.0,15,credit card,delhi,delhi,2025-02-24,delivered
+100878,c0112,aditya rao,mixer grinder,home appliances,5,3910.0,25,credit card,delhi,delhi,2026-05-18,delivered
+100943,c0096,manish gupta,face wash,beauty,10,480.0,0,cash on delivery,mumbai,maharashtra,2025-02-12,delivered
+100953,c0173,nandini patel,power bank,electronics,1,3370.0,10,upi,mumbai,maharashtra,2026-07-10,shipped
+100975,c0298,ananya iyer,perfume,beauty,8,4050.0,40,credit card,coimbatore,tamil nadu,2025-09-04,shipped
+100247,c0074,ananya reddy,bedside table,furniture,2,4470.0,25,upi,pune,maharashtra,2025-08-24,shipped
+100882,c0068,vikram yadav,yoga mat,sports,4,770.0,5,debit card,chennai,tamil nadu,2025-04-26,delivered
+100578,c0339,deepak malhotra,dry fruits pack,grocery,1,1180.0,35,net banking,bengaluru,karnataka,2025-12-16,cancelled
+100700,c0295,lakshmi pillai,running shoes,sports,3,5350.0,5,credit card,delhi,delhi,2026-03-22,shipped
+100777,c0024,kavya malhotra,moisturizer,beauty,8,1020.0,5,credit card,jaipur,rajasthan,2026-06-30,delivered
+100810,c0054,neha shetty,competitive exam guide,books,5,740.0,0,net banking,vijayawada,andhra pradesh,2025-10-19,delivered
+100412,c0202,neha pandey,bedside table,furniture,7,5030.0,35,cash on delivery,vijayawada,andhra pradesh,2025-11-29,delivered
+100012,c0315,meera malhotra,basmati rice 5kg,grocery,1,640.0,5,net banking,vijayawada,andhra pradesh,2026-09-18,delivered
+100291,c0269,nikhil rao,bedside table,furniture,2,4430.0,10,cash on delivery,hyderabad,telangana,2026-07-04,delivered
+100326,c0249,priya patel,laptop,electronics,10,44920.0,10,cash on delivery,coimbatore,tamil nadu,2025-03-20,processing
+100422,c0185,sai patel,monitor,electronics,9,19940.0,40,credit card,pune,maharashtra,2025-11-06,processing
+100636,c0132,vikram menon,novel,books,2,400.0,20,credit card,pune,maharashtra,2026-08-30,shipped
+100800,c0228,diya tripathi,yoga mat,sports,5,720.0,5,net banking,chennai,tamil nadu,2026-08-11,processing
+100842,c0253,karthik mehta,sugar 5kg,grocery,8,330.0,20,debit card,vijayawada,andhra pradesh,2025-11-28,shipped
+100350,c0348,keerthi rao,competitive exam guide,books,3,360.0,0,credit card,hyderabad,telangana,2025-10-17,delivered
+100681,c0215,sai naidu,bluetooth speaker,electronics,3,7740.0,5,net banking,delhi,delhi,2025-11-20,processing
+100886,c0124,tanvi chaudhary,shampoo,beauty,10,720.0,12,cash on delivery,jaipur,rajasthan,2025-12-14,delivered
+100912,c0266,divya chopra,mechanical keyboard,electronics,9,3880.0,10,cash on delivery,vijayawada,andhra pradesh,2026-04-10,processing
+100131,c0045,harsh singh,moisturizer,beauty,2,920.0,15,upi,jaipur,rajasthan,2025-09-29,delivered
+100166,c0219,rahul jain,saree,clothing,2,2870.0,25,credit card,kolkata,west bengal,2025-05-31,shipped
+100323,c0055,aman shetty,jacket,clothing,6,6320.0,10,debit card,coimbatore,tamil nadu,2026-02-28,shipped
+100377,c0160,aarav nair,induction cooktop,home appliances,9,2190.0,30,cash on delivery,coimbatore,tamil nadu,2025-10-17,processing
+100416,c0033,diya agarwal,sunscreen,beauty,6,1030.0,30,net banking,pune,maharashtra,2026-09-06,cancelled
+100425,c0264,siddharth mishra,smartphone,electronics,4,24760.0,40,upi,lucknow,uttar pradesh,2025-08-15,processing
+100595,c0291,varun pillai,study table,furniture,4,19190.0,40,cash on delivery,coimbatore,tamil nadu,2025-05-09,processing
+100894,c0026,neha chaudhary,shampoo,beauty,8,590.0,35,net banking,vijayawada,andhra pradesh,2025-04-12,delivered
+100231,c0269,nikhil rao,cooking oil 5l,grocery,2,790.0,25,debit card,coimbatore,tamil nadu,2026-04-05,delivered
+100253,c0292,riya naidu,yoga mat,sports,3,1270.0,20,cash on delivery,delhi,delhi,2025-12-30,delivered
+100396,c0247,neha chaudhary,power bank,electronics,9,860.0,0,net banking,chennai,tamil nadu,2025-12-27,delivered
+100672,c0018,ananya yadav,office chair,furniture,3,17120.0,35,debit card,mumbai,maharashtra,2025-10-25,delivered
+100682,c0304,akash yadav,t-shirt,clothing,5,530.0,25,cash on delivery,chennai,tamil nadu,2025-12-03,delivered
+100934,c0326,rohan mishra,microwave oven,home appliances,9,7780.0,30,upi,jaipur,rajasthan,2026-03-19,shipped
+100393,c0296,arjun shetty,kurta,clothing,8,2420.0,20,cash on delivery,chennai,tamil nadu,2025-07-09,delivered
+100597,c0281,kavya tripathi,face wash,beauty,10,330.0,15,credit card,pune,maharashtra,2025-11-06,delivered
+100305,c0076,neha reddy,office chair,furniture,2,15390.0,5,net banking,jaipur,rajasthan,2025-12-29,delivered
+100073,c0066,pranav patel,kurta,clothing,3,1970.0,0,cash on delivery,hyderabad,telangana,2026-08-01,delivered
+100150,c0088,shreya das,monitor,electronics,4,21160.0,15,upi,delhi,delhi,2025-06-15,delivered
+100154,c0180,arjun agarwal,novel,books,5,600.0,25,debit card,coimbatore,tamil nadu,2025-04-27,delivered
+100732,c0171,vivaan naidu,monitor,electronics,6,25370.0,0,net banking,kolkata,west bengal,2025-02-25,delivered
+100281,c0121,arjun patel,coffee 500g,grocery,5,480.0,5,cash on delivery,vijayawada,andhra pradesh,2025-01-29,shipped
+100405,c0144,priya bose,bedside table,furniture,7,5960.0,35,debit card,mumbai,maharashtra,2025-02-20,processing
+100967,c0220,vivaan pillai,biography,books,7,380.0,25,cash on delivery,delhi,delhi,2025-05-16,processing
+100766,c0011,riya chaudhary,smartphone,electronics,2,65890.0,35,credit card,vijayawada,andhra pradesh,2026-09-11,delivered
+100979,c0081,abhinav gupta,office chair,furniture,2,7680.0,15,credit card,chennai,tamil nadu,2026-05-11,shipped
+100004,c0051,tanvi sharma,running shoes,sports,6,2260.0,35,net banking,lucknow,uttar pradesh,2026-07-31,cancelled
+100400,c0276,ananya agarwal,sports bottle,sports,10,540.0,20,cash on delivery,mumbai,maharashtra,2025-05-06,cancelled
+100939,c0209,nandini sharma,smartphone,electronics,3,51150.0,10,cash on delivery,vijayawada,andhra pradesh,2026-04-21,delivered
+100058,c0194,tanvi verma,power bank,electronics,2,1780.0,0,net banking,jaipur,rajasthan,2026-04-01,delivered
+100274,c0076,neha reddy,ceiling fan,home appliances,4,4570.0,10,cash on delivery,vijayawada,andhra pradesh,2026-07-23,shipped
+100456,c0284,nikhil yadav,dumbbell set,sports,2,4010.0,30,credit card,delhi,delhi,2025-03-15,delivered
+100501,c0226,priya bose,badminton racket,sports,0,880.0,35,cash on delivery,pune,maharashtra,2025-10-29,delivered
+100122,c0188,ananya sharma,sugar 5kg,grocery,6,340.0,10,debit card,vijayawada,andhra pradesh,2026-06-28,shipped
+100137,c0325,keerthi sharma,vacuum cleaner,home appliances,10,13930.0,40,debit card,delhi,delhi,2025-02-20,cancelled
+100467,c0240,meera yadav,sofa,furniture,1,34500.0,0,net banking,pune,maharashtra,2026-04-29,shipped
+100666,c0305,keerthi singh,power bank,electronics,1,1750.0,35,debit card,jaipur,rajasthan,2025-04-15,delivered
+100614,c0118,swathi agarwal,dining table,furniture,10,12170.0,5,cash on delivery,chennai,tamil nadu,2026-01-02,delivered
+100855,c0089,siddharth iyer,tea 1kg,grocery,2,390.0,12,cash on delivery,kolkata,west bengal,2025-08-21,cancelled
+100955,c0300,meera reddy,mixer grinder,home appliances,10,5970.0,30,cash on delivery,bengaluru,karnataka,2025-07-21,delivered
+100047,c0016,neha patel,biography,books,5,890.0,35,upi,lucknow,uttar pradesh,2026-09-11,cancelled
+100148,c0120,varun shetty,sports bottle,sports,2,680.0,40,credit card,pune,maharashtra,2026-03-14,delivered
+100217,c0214,neha tripathi,football,sports,1,650.0,-5,upi,chennai,tamil nadu,2026-06-14,delivered
+100353,c0047,sneha mishra,office chair,furniture,9,13030.0,20,upi,hyderabad,telangana,2025-11-28,delivered
+100727,c0301,abhinav pandey,smartphone,electronics,1,56060.0,35,upi,bengaluru,karnataka,2025-03-25,delivered
+100870,c0021,keerthi tripathi,yoga mat,sports,2,1460.0,0,debit card,hyderabad,telangana,2025-09-05,processing
+100102,c0032,anjali kumar,atta 10kg,grocery,7,0.0,40,credit card,mumbai,maharashtra,2025-03-02,processing
+100360,c0303,nandini agarwal,jeans,clothing,6,1920.0,40,net banking,coimbatore,tamil nadu,2026-02-17,cancelled
+100363,c0030,sneha nair,basmati rice 5kg,grocery,3,900.0,120,debit card,delhi,delhi,2026-03-09,delivered
+100415,c0306,nandini shetty,bookshelf,furniture,7,11460.0,12,credit card,chennai,tamil nadu,2025-08-03,cancelled
+100475,c0226,priya bose,usb-c hub,electronics,9,4440.0,0,debit card,pune,maharashtra,2026-02-09,delivered
+100424,c0158,deepak pandey,football,sports,1,1780.0,40,upi,bengaluru,karnataka,2026-01-06,delivered
+100658,c0118,swathi agarwal,kurta,clothing,10,1220.0,15,upi,pune,maharashtra,2025-01-12,delivered
+100908,c0239,pooja sharma,air fryer,home appliances,2,4110.0,30,net banking,vijayawada,andhra pradesh,2025-04-07,delivered
+100053,c0083,ananya singh,competitive exam guide,books,4,930.0,30,cash on delivery,coimbatore,tamil nadu,2025-10-25,delivered
+100124,c0006,aditi tripathi,football,sports,1,1670.0,35,cash on delivery,jaipur,rajasthan,2026-06-29,delivered
+100489,c0042,arjun singh,saree,clothing,1,8820.0,25,cash on delivery,kolkata,west bengal,2025-03-04,processing
+100555,c0201,sakshi tripathi,biography,books,6,720.0,12,credit card,jaipur,rajasthan,2025-06-12,delivered
+100831,c0013,vikram pillai,atta 10kg,grocery,1,600.0,35,cash on delivery,mumbai,maharashtra,2025-10-17,delivered
+100850,c0020,aarav patel,cricket bat,sports,6,7900.0,12,credit card,delhi,delhi,2025-11-18,delivered
+100098,c0276,ananya agarwal,study table,furniture,3,17560.0,20,cash on delivery,lucknow,uttar pradesh,2025-11-30,shipped
+100335,c0217,meera pandey,bedside table,furniture,5,5800.0,5,debit card,bengaluru,karnataka,2026-05-07,delivered
+100566,c0065,pranav agarwal,atta 10kg,grocery,2,420.0,10,cash on delivery,lucknow,uttar pradesh,2026-07-01,returned
+100570,c0236,siddharth verma,cricket bat,sports,9,5340.0,40,debit card,chennai,tamil nadu,2025-04-03,delivered
+100097,c0244,shreya rao,sofa,furniture,4,47430.0,10,net banking,hyderabad,telangana,31/02/2026,returned
+100190,c0344,aman jain,induction cooktop,home appliances,6,4920.0,40,net banking,vijayawada,andhra pradesh,2025-09-22,delivered
+100394,c0055,aman shetty,sunscreen,beauty,1,760.0,15,debit card,lucknow,uttar pradesh,2026-01-16,delivered
+100778,c0157,harsh iyer,usb-c hub,electronics,1,4350.0,40,debit card,vijayawada,andhra pradesh,2026-04-22,returned
+100891,c0122,abhinav yadav,formal shirt,clothing,3,2980.0,0,upi,mumbai,maharashtra,2025-02-12,delivered
+100917,c0180,arjun agarwal,hair serum,beauty,3,280.0,20,net banking,pune,maharashtra,2026-07-23,returned
+100026,c0137,riya kapoor,programming book,books,10,900.0,10,debit card,delhi,delhi,2026-02-22,delivered
+100157,c0266,divya chopra,biography,books,3,440.0,20,upi,delhi,delhi,2025-05-01,shipped
+100237,c0197,lakshmi das,face wash,beauty,5,670.0,0,cash on delivery,bengaluru,karnataka,2026-09-13,delivered
+100392,c0320,lakshmi rao,moisturizer,beauty,5,910.0,10,debit card,lucknow,uttar pradesh,2026-04-19,delivered
+100550,c0034,nandini kapoor,coffee 500g,grocery,4,530.0,40,cash on delivery,chennai,tamil nadu,2025-07-12,delivered
+100752,c0256,keerthi mishra,power bank,electronics,2,3010.0,25,net banking,vijayawada,andhra pradesh,2025-07-06,returned
+100044,c0080,deepak agarwal,bookshelf,furniture,9,6550.0,30,cash on delivery,jaipur,rajasthan,2026-04-21,delivered
+100096,c0080,deepak agarwal,sofa,furniture,1,21850.0,0,net banking,chennai,tamil nadu,2025-09-06,processing
+100470,c0222,divya sharma,perfume,beauty,10,3350.0,25,cash on delivery,mumbai,maharashtra,2026-09-16,delivered
+100230,c0198,nandini mehta,face wash,beauty,5,370.0,0,net banking,mumbai,maharashtra,2025-03-16,shipped
+100411,c0312,aarav kulkarni,usb-c hub,electronics,10,2350.0,5,cash on delivery,lucknow,uttar pradesh,2026-02-22,delivered
+100443,c0137,riya kapoor,vacuum cleaner,home appliances,4,7180.0,10,debit card,mumbai,maharashtra,2025-03-11,delivered
+100562,c0158,deepak pandey,cooking oil 5l,grocery,1,800.0,10,cash on delivery,delhi,delhi,2025-04-03,delivered
+100604,c0288,arjun saxena,saree,clothing,6,7320.0,25,net banking,bengaluru,karnataka,2026-08-29,processing
+100664,c0222,divya sharma,makeup kit,beauty,7,3220.0,10,cash on delivery,lucknow,uttar pradesh,2025-01-14,delivered
+100160,c0174,aarav tripathi,office chair,furniture,10,10670.0,40,upi,kolkata,west bengal,2026-06-01,delivered
+100641,c0105,swathi gupta,air fryer,home appliances,7,6780.0,0,net banking,mumbai,maharashtra,2025-04-13,delivered
+100318,c0309,kavya chopra,running shoes,sports,7,6630.0,10,debit card,delhi,delhi,2025-06-07,delivered
+100722,c0082,sanjay patel,sofa,furniture,2,46120.0,30,debit card,kolkata,west bengal,2025-12-22,delivered
+100920,c0022,divya chaudhary,shampoo,beauty,4,900.0,40,debit card,lucknow,uttar pradesh,2025-10-27,shipped
+100222,c0316,aman das,running shoes,sports,10,6260.0,30,debit card,jaipur,rajasthan,2025-11-23,delivered
+100334,c0336,siddharth pandey,cricket bat,sports,9,3350.0,25,cash on delivery,kolkata,west bengal,2026-07-02,delivered
+100390,c0251,akash kulkarni,usb-c hub,electronics,6,3950.0,25,credit card,jaipur,rajasthan,2025-12-25,returned
+100637,c0020,aarav patel,novel,books,4,610.0,20,net banking,chennai,tamil nadu,2026-13-05,delivered
+100698,c0224,keerthi naidu,laptop,electronics,9,60320.0,25,net banking,delhi,delhi,2025-11-18,delivered
+100724,c0097,aditya chopra,moisturizer,beauty,3,1140.0,15,upi,hyderabad,telangana,2026-06-10,processing
+100817,c0284,nikhil yadav,electric kettle,home appliances,1,1980.0,15,net banking,mumbai,maharashtra,2026-06-04,delivered
+100196,c0334,akash saxena,vacuum cleaner,home appliances,1,13940.0,35,debit card,vijayawada,andhra pradesh,2025-08-06,delivered
+100577,c0300,meera reddy,smartphone,electronics,10,38490.0,30,upi,vijayawada,andhra pradesh,2025-11-19,delivered
+100746,c0250,karthik patel,mixer grinder,home appliances,8,4800.0,40,credit card,delhi,delhi,2026-02-24,shipped
+100092,c0095,abhinav malhotra,programming book,books,6,660.0,5,cash on delivery,delhi,delhi,2025-05-31,processing
+100186,c0123,divya naidu,microwave oven,home appliances,9,10690.0,40,upi,lucknow,uttar pradesh,2025-04-18,shipped
+100336,c0137,riya kapoor,badminton racket,sports,3,2550.0,0,debit card,hyderabad,telangana,2025-12-28,delivered
+100609,c0111,nandini sharma,laptop,electronics,2,62420.0,20,credit card,bengaluru,karnataka,2026-06-15,returned
+100651,c0094,sai patel,data science handbook,books,9,830.0,40,net banking,hyderabad,telangana,2025-10-24,delivered
+100660,c0072,arjun sharma,sports bottle,sports,5,780.0,20,upi,lucknow,uttar pradesh,2026-08-01,delivered
+100066,c0325,keerthi sharma,monitor,electronics,4,27340.0,35,cash on delivery,jaipur,rajasthan,2025-08-20,delivered
+100220,c0057,swathi yadav,football,sports,3,1990.0,35,cash on delivery,lucknow,uttar pradesh,2025-02-15,shipped
+100261,c0200,isha singh,usb-c hub,electronics,5,2710.0,30,upi,delhi,delhi,2025-08-30,delivered
+100584,c0120,varun shetty,makeup kit,beauty,8,1250.0,12,debit card,jaipur,rajasthan,2025-07-27,delivered
+100707,c0146,diya joshi,bedside table,furniture,8,6790.0,20,debit card,lucknow,uttar pradesh,2025-01-24,delivered
+100076,c0004,neha kumar,moisturizer,beauty,5,280.0,10,net banking,chennai,tamil nadu,2026-07-16,processing
+100079,c0263,siddharth kulkarni,cricket bat,sports,4,2610.0,30,credit card,jaipur,rajasthan,2025-04-19,delivered
+100133,c0163,sanjay singh,dumbbell set,sports,5,1900.0,30,net banking,chennai,tamil nadu,2025-06-22,delivered
+100249,c0060,arjun patel,monitor,electronics,7,24480.0,35,credit card,pune,maharashtra,2026-01-02,cancelled
+100581,c0165,aditi chopra,spice combo,grocery,7,430.0,20,net banking,coimbatore,tamil nadu,2025-07-07,returned
+100737,c0257,pooja joshi,power bank,electronics,5,1080.0,12,upi,mumbai,maharashtra,2025-03-23,cancelled
+100771,c0104,karthik yadav,dumbbell set,sports,3,4240.0,10,debit card,pune,maharashtra,2026-03-11,shipped
+100962,c0101,aman jain,study table,furniture,5,15000.0,40,upi,delhi,delhi,2025-08-29,delivered
+100362,c0290,riya das,office chair,furniture,4,12320.0,15,upi,coimbatore,tamil nadu,2025-03-10,processing
+100490,c0226,priya bose,hoodie,clothing,1,3800.0,35,debit card,kolkata,west bengal,2026-05-17,delivered
+100655,c0160,aarav nair,spice combo,grocery,9,340.0,40,cash on delivery,pune,maharashtra,2025-08-11,delivered
+100719,c0312,aarav kulkarni,biography,books,1,450.0,5,credit card,vijayawada,andhra pradesh,2026-09-29,delivered
+100873,c0192,divya sharma,sports bottle,sports,10,320.0,0,cash on delivery,kolkata,west bengal,2025-07-01,delivered
+100945,c0316,aman das,induction cooktop,home appliances,1,5130.0,30,debit card,lucknow,uttar pradesh,2025-03-02,delivered
+100062,c0201,sakshi tripathi,makeup kit,beauty,6,1730.0,35,net banking,coimbatore,tamil nadu,2025-12-12,shipped
+100232,c0338,vivaan patel,jeans,clothing,3,2690.0,0,upi,delhi,delhi,2026-03-22,delivered
+100348,c0073,abhinav kulkarni,jeans,clothing,2,2090.0,0,net banking,lucknow,uttar pradesh,2025-11-14,delivered
+100797,c0306,nandini shetty,office chair,furniture,3,3810.0,30,net banking,coimbatore,tamil nadu,2025-11-02,delivered
+100014,c0342,pranav jain,formal shirt,clothing,5,2050.0,0,net banking,pune,maharashtra,2025-12-20,delivered
+100444,c0090,abhinav pillai,novel,books,8,530.0,15,credit card,mumbai,maharashtra,2025-09-11,delivered
+100488,c0236,siddharth verma,shampoo,beauty,10,390.0,10,net banking,vijayawada,andhra pradesh,2025-10-19,delivered
+100214,c0044,varun das,smartphone,electronics,6,17550.0,5,net banking,delhi,delhi,2025-06-22,delivered
+100259,c0049,sakshi chopra,yoga mat,sports,10,1900.0,40,net banking,kolkata,west bengal,2026-09-02,cancelled
+100282,c0073,abhinav kulkarni,dumbbell set,sports,6,6500.0,25,credit card,mumbai,maharashtra,2026-07-10,shipped
+100739,c0039,siddharth reddy,electric kettle,home appliances,7,1880.0,20,upi,coimbatore,tamil nadu,2026-01-31,delivered
+100869,c0122,abhinav yadav,bookshelf,furniture,1,3980.0,30,cash on delivery,coimbatore,tamil nadu,2026-04-26,returned
+100155,c0204,pranav reddy,basmati rice 5kg,grocery,7,480.0,40,upi,coimbatore,tamil nadu,2025-05-09,shipped
+100162,c0295,lakshmi pillai,novel,books,1,730.0,10,credit card,coimbatore,tamil nadu,2026-03-03,delivered
+100254,c0145,shreya saxena,office chair,furniture,8,3100.0,20,upi,mumbai,maharashtra,2025-02-17,delivered
+100373,c0145,shreya saxena,makeup kit,beauty,10,2490.0,35,debit card,kolkata,west bengal,2026-02-03,processing
+100596,c0218,rohan pandey,bedside table,furniture,3,4730.0,25,debit card,chennai,tamil nadu,2025-07-24,cancelled
+100690,c0115,siddharth saxena,jeans,clothing,10,3390.0,20,credit card,hyderabad,telangana,2026-07-30,returned
+100726,c0339,deepak malhotra,laptop,electronics,3,69120.0,40,net banking,vijayawada,andhra pradesh,2025-02-13,delivered
+100880,c0013,vikram pillai,vacuum cleaner,home appliances,9,10360.0,40,upi,pune,maharashtra,2026-06-26,delivered
+100938,c0087,akash kulkarni,hoodie,clothing,10,1440.0,12,upi,jaipur,rajasthan,2025-04-23,processing
+100983,c0025,deepak gupta,sports bottle,sports,4,1040.0,10,net banking,bengaluru,karnataka,2026-07-20,delivered
+100356,c0257,pooja joshi,cricket bat,sports,6,4530.0,20,debit card,coimbatore,tamil nadu,2025-08-24,cancelled
+100399,c0072,arjun sharma,mechanical keyboard,electronics,7,2800.0,10,debit card,bengaluru,karnataka,2026-09-10,shipped
+100465,c0086,kavya singh,sports shoes,clothing,6,5290.0,30,upi,coimbatore,tamil nadu,2025-10-16,delivered
+100469,c0139,tanvi naidu,data science handbook,books,5,840.0,5,upi,chennai,tamil nadu,2026-07-06,delivered
+101000,c0181,shreya gupta,monitor,electronics,3,14940.0,30,net banking,mumbai,maharashtra,2025-09-19,cancelled
+100316,c0082,sanjay patel,sunscreen,beauty,6,370.0,25,cash on delivery,mumbai,maharashtra,2025-01-21,processing
+100403,c0008,aarav iyer,badminton racket,sports,6,1570.0,25,credit card,bengaluru,karnataka,2026-06-02,delivered
+100744,c0261,manish tripathi,makeup kit,beauty,6,3830.0,20,cash on delivery,delhi,delhi,2026-09-15,shipped
+100932,c0191,aman naidu,sunscreen,beauty,5,850.0,30,cash on delivery,chennai,tamil nadu,2026-07-23,delivered
+100300,c0282,siddharth malhotra,vacuum cleaner,home appliances,8,8960.0,0,upi,jaipur,rajasthan,2025-10-27,cancelled
+100703,c0079,neha pandey,business book,books,8,390.0,35,debit card,pune,maharashtra,2026-01-23,delivered
+100708,c0335,akash reddy,ceiling fan,home appliances,4,2220.0,35,debit card,pune,maharashtra,2026-06-27,returned
+100227,c0318,swathi singh,electric kettle,home appliances,1,1280.0,20,cash on delivery,vijayawada,andhra pradesh,2026-01-08,delivered
+100554,c0344,aman jain,sofa,furniture,6,46460.0,10,upi,coimbatore,tamil nadu,2026-09-22,processing
+100866,c0146,diya joshi,mechanical keyboard,electronics,2,6440.0,35,credit card,coimbatore,tamil nadu,2025-02-20,cancelled
+100904,c0260,aman kapoor,sunscreen,beauty,6,840.0,5,credit card,lucknow,uttar pradesh,2026-04-14,shipped
+100989,c0225,sanjay das,badminton racket,sports,10,2990.0,40,net banking,chennai,tamil nadu,2025-11-24,delivered
+100043,c0087,akash kulkarni,sugar 5kg,grocery,1,410.0,0,net banking,pune,maharashtra,2025-01-20,shipped
+100285,c0247,neha chaudhary,induction cooktop,home appliances,10,4030.0,20,debit card,coimbatore,tamil nadu,2026-04-21,cancelled
+100791,c0044,varun das,bookshelf,furniture,10,8240.0,30,net banking,bengaluru,karnataka,2025-06-06,delivered
+100957,c0140,sneha sharma,bedside table,furniture,1,3170.0,25,cash on delivery,vijayawada,andhra pradesh,2025-06-21,delivered
+100990,c0165,aditi chopra,competitive exam guide,books,2,960.0,12,credit card,jaipur,rajasthan,2025-07-28,processing
+100036,c0341,sneha singh,usb-c hub,electronics,3,2520.0,35,credit card,delhi,delhi,2025-03-06,delivered
+100569,c0082,sanjay patel,induction cooktop,home appliances,8,3210.0,25,cash on delivery,pune,maharashtra,2026-01-11,processing
+100860,c0185,sai patel,data science handbook,books,3,1500.0,40,debit card,chennai,tamil nadu,2026-04-26,delivered
+100019,c0082,sanjay patel,programming book,books,10,580.0,10,credit card,pune,maharashtra,2026-05-11,returned
+100387,c0272,sanjay naidu,office chair,furniture,9,5560.0,12,cash on delivery,bengaluru,karnataka,2026-06-12,delivered
+100747,c0348,keerthi rao,makeup kit,beauty,2,1250.0,40,cash on delivery,jaipur,rajasthan,2025-04-20,delivered
+100858,c0115,siddharth saxena,hair serum,beauty,4,310.0,5,debit card,vijayawada,andhra pradesh,2026-03-17,shipped
+100314,c0313,sai das,usb-c hub,electronics,8,1910.0,20,debit card,lucknow,uttar pradesh,2026-08-02,shipped
+100459,c0015,siddharth yadav,sports shoes,clothing,1,3730.0,25,upi,pune,maharashtra,2025-08-31,shipped
+100472,c0114,sai nair,coffee 500g,grocery,5,620.0,15,upi,lucknow,uttar pradesh,2025-10-30,shipped
+100135,c0153,ananya jain,sports bottle,sports,2,510.0,10,upi,vijayawada,andhra pradesh,2026-06-07,delivered
+100181,c0051,tanvi sharma,sofa,furniture,6,29020.0,25,upi,mumbai,maharashtra,2026-04-12,processing
+100310,c0332,meera agarwal,vacuum cleaner,home appliances,9,9280.0,120,debit card,bengaluru,karnataka,2025-04-12,cancelled
+100322,c0004,neha kumar,programming book,books,3,610.0,35,upi,bengaluru,karnataka,2025-01-02,delivered
+100410,c0112,aditya rao,perfume,beauty,10,3080.0,25,credit card,pune,maharashtra,2025-01-12,delivered
+100622,c0239,pooja sharma,badminton racket,sports,5,1560.0,35,credit card,bengaluru,karnataka,2025-05-05,delivered
+100699,c0322,pooja saxena,air fryer,home appliances,5,10920.0,20,credit card,kolkata,west bengal,2026-06-12,shipped
+100242,c0268,keerthi iyer,sports bottle,sports,9,460.0,10,debit card,vijayawada,andhra pradesh,2025-05-30,delivered
+100315,c0167,kavya chaudhary,badminton racket,sports,1,3480.0,40,debit card,kolkata,west bengal,2026-02-24,processing
+100327,c0046,vikram iyer,sports bottle,sports,2,580.0,40,credit card,mumbai,maharashtra,2025-10-19,processing
+100421,c0003,riya patel,hair serum,beauty,1,480.0,35,upi,chennai,tamil nadu,2026-08-13,delivered
+100505,c0232,keerthi kulkarni,dining table,furniture,9,27040.0,0,credit card,jaipur,rajasthan,2025-04-01,cancelled
+100508,c0214,neha tripathi,competitive exam guide,books,1,790.0,10,debit card,delhi,delhi,2026-03-06,delivered
+100035,c0217,meera pandey,dry fruits pack,grocery,8,1090.0,5,debit card,mumbai,maharashtra,2025-12-20,delivered
+100106,c0127,riya kumar,spice combo,grocery,3,680.0,40,credit card,mumbai,maharashtra,2025-02-28,delivered
+100123,c0272,sanjay naidu,atta 10kg,grocery,4,560.0,0,upi,coimbatore,tamil nadu,2026-01-15,shipped
+100273,c0290,riya das,tea 1kg,grocery,3,350.0,35,upi,coimbatore,tamil nadu,2026-06-04,shipped
+100567,c0206,harsh pillai,business book,books,9,670.0,0,net banking,hyderabad,telangana,2025-07-24,delivered
+100896,c0237,sanjay menon,hoodie,clothing,9,2990.0,40,upi,pune,maharashtra,2025-10-11,delivered
+100264,c0247,neha chaudhary,mechanical keyboard,electronics,1,3600.0,12,debit card,mumbai,maharashtra,2025-02-27,delivered
+100317,c0264,siddharth mishra,kurta,clothing,10,1070.0,30,credit card,jaipur,rajasthan,2025-02-04,cancelled
+100407,c0286,rahul naidu,bedside table,furniture,7,4620.0,15,debit card,mumbai,maharashtra,2026-05-06,delivered
+100457,c0051,tanvi sharma,office chair,furniture,3,15130.0,15,credit card,coimbatore,tamil nadu,2026-06-30,delivered
+100905,c0171,vivaan naidu,perfume,beauty,1,1300.0,30,cash on delivery,chennai,tamil nadu,2026-02-03,delivered
+100001,c0256,keerthi mishra,saree,clothing,2,6710.0,20,credit card,mumbai,maharashtra,2026-01-01,delivered
+100063,c0099,arjun pandey,coffee 500g,grocery,4,840.0,15,credit card,mumbai,maharashtra,2025-11-16,delivered
+100164,c0247,neha chaudhary,bedside table,furniture,7,2430.0,25,debit card,jaipur,rajasthan,2025-11-21,delivered
+100692,c0141,varun agarwal,electric kettle,home appliances,4,920.0,0,net banking,delhi,delhi,2026-08-18,shipped
+100618,c0155,sneha sharma,induction cooktop,home appliances,5,3320.0,12,upi,mumbai,maharashtra,2025-02-26,cancelled
+100822,c0185,sai patel,competitive exam guide,books,3,600.0,0,net banking,mumbai,maharashtra,2025-11-17,returned
+100265,c0112,aditya rao,electric kettle,home appliances,4,1710.0,30,net banking,delhi,delhi,2026-06-22,delivered
+100426,c0241,aman joshi,formal shirt,clothing,7,2960.0,15,credit card,jaipur,rajasthan,2026-06-22,delivered
+100474,c0008,aarav iyer,programming book,books,10,910.0,15,net banking,bengaluru,karnataka,2026-05-25,delivered
+100504,c0076,neha reddy,mixer grinder,home appliances,5,2840.0,25,cash on delivery,lucknow,uttar pradesh,2025-08-25,processing
+100969,c0277,swathi patel,sports shoes,clothing,4,6000.0,20,upi,hyderabad,telangana,09-15-2026,delivered
+100541,c0240,meera yadav,badminton racket,sports,5,1770.0,30,cash on delivery,delhi,delhi,2026-07-05,delivered
+100606,c0336,siddharth pandey,mechanical keyboard,electronics,6,2070.0,40,net banking,bengaluru,karnataka,2025-08-17,delivered
+100306,c0003,riya patel,face wash,beauty,5,350.0,30,cash on delivery,vijayawada,andhra pradesh,2026-04-24,cancelled
+100500,c0320,lakshmi rao,basmati rice 5kg,grocery,2,490.0,20,cash on delivery,lucknow,uttar pradesh,2025-07-26,delivered
+100627,c0125,riya pandey,biography,books,2,630.0,12,net banking,bengaluru,karnataka,2026-07-15,delivered
+100988,c0050,tanvi patel,hoodie,clothing,6,3610.0,0,debit card,pune,maharashtra,2025-10-26,delivered
+100119,c0191,aman naidu,cricket bat,sports,5,2450.0,12,net banking,mumbai,maharashtra,2025-07-15,delivered
+100188,c0319,sanjay gupta,t-shirt,clothing,10,700.0,0,credit card,pune,maharashtra,2025-07-17,cancelled
+100382,c0046,vikram iyer,tea 1kg,grocery,10,380.0,12,debit card,kolkata,west bengal,2026-01-22,delivered
+100512,c0138,pranav joshi,power bank,electronics,4,1920.0,0,credit card,mumbai,maharashtra,2025-11-24,shipped
+100078,c0030,sneha nair,mechanical keyboard,electronics,1,5620.0,0,credit card,mumbai,maharashtra,2025-03-04,delivered
+100099,c0023,riya kapoor,badminton racket,sports,2,2670.0,35,credit card,kolkata,west bengal,2025-08-16,delivered
+100438,c0153,ananya jain,formal shirt,clothing,6,1400.0,12,cash on delivery,bengaluru,karnataka,2025-02-24,processing
+100521,c0095,abhinav malhotra,perfume,beauty,10,3310.0,5,credit card,delhi,delhi,2025-01-06,processing
+100640,c0096,manish gupta,tea 1kg,grocery,3,460.0,25,upi,jaipur,rajasthan,2025-12-30,shipped
+100786,c0263,siddharth kulkarni,bluetooth speaker,electronics,2,7880.0,30,cash on delivery,delhi,delhi,2025-11-15,cancelled
+100088,c0199,pooja reddy,bedside table,furniture,4,2160.0,35,cash on delivery,mumbai,maharashtra,2025-08-29,delivered
+100192,c0165,aditi chopra,basmati rice 5kg,grocery,4,730.0,25,credit card,coimbatore,tamil nadu,2025-03-23,shipped
+100455,c0206,harsh pillai,moisturizer,beauty,9,1200.0,12,debit card,coimbatore,tamil nadu,2025-04-06,returned
+100594,c0186,sai bose,perfume,beauty,1,3830.0,12,net banking,jaipur,rajasthan,2025-09-16,cancelled
+100895,c0018,ananya yadav,badminton racket,sports,5,2710.0,10,debit card,hyderabad,telangana,2026-03-15,delivered
+100922,c0296,arjun shetty,cricket bat,sports,6,1710.0,15,cash on delivery,chennai,tamil nadu,2025-03-14,delivered
+100016,c0215,sai naidu,hoodie,clothing,2,2390.0,0,net banking,jaipur,rajasthan,2025-04-08,delivered
+100080,c0105,swathi gupta,face wash,beauty,7,450.0,0,debit card,bengaluru,karnataka,2026-05-20,processing
+100951,c0147,deepak kumar,face wash,beauty,10,210.0,12,upi,vijayawada,andhra pradesh,2025-02-05,delivered
+100020,c0122,abhinav yadav,mechanical keyboard,electronics,1,5890.0,15,credit card,jaipur,rajasthan,2025-12-06,delivered
+100713,c0232,keerthi kulkarni,sports bottle,sports,2,1120.0,0,net banking,kolkata,west bengal,2025-12-17,delivered
+100750,c0038,anjali pandey,makeup kit,beauty,1,980.0,40,cash on delivery,jaipur,rajasthan,2026-02-18,delivered
+100935,c0068,vikram yadav,makeup kit,beauty,6,1110.0,0,upi,delhi,delhi,2025-04-28,cancelled
+100167,c0182,sakshi naidu,tea 1kg,grocery,5,780.0,0,credit card,mumbai,maharashtra,2025-08-26,cancelled
+100244,c0286,rahul naidu,football,sports,2,2320.0,12,credit card,bengaluru,karnataka,2026-07-30,delivered
+100441,c0205,abhinav rao,novel,books,8,580.0,40,credit card,vijayawada,andhra pradesh,2026-07-07,delivered
+100539,c0009,keerthi naidu,air fryer,home appliances,1,8430.0,25,credit card,vijayawada,andhra pradesh,2025-09-24,shipped
+100552,c0329,karthik shetty,data science handbook,books,9,1280.0,0,upi,jaipur,rajasthan,2025-11-23,delivered
+100759,c0301,abhinav pandey,coffee 500g,grocery,1,390.0,10,upi,jaipur,rajasthan,2026-09-18,delivered
+100795,c0075,swathi tripathi,atta 10kg,grocery,8,480.0,5,debit card,chennai,tamil nadu,2025-06-08,processing
+100832,c0206,harsh pillai,ceiling fan,home appliances,1,2830.0,12,credit card,lucknow,uttar pradesh,2026-07-10,processing
+100924,c0172,manish kapoor,moisturizer,beauty,2,850.0,25,cash on delivery,mumbai,maharashtra,2025-12-20,shipped
+100189,c0169,priya singh,jacket,clothing,8,5750.0,25,cash on delivery,hyderabad,telangana,2025-01-16,delivered
+100480,c0174,aarav tripathi,ceiling fan,home appliances,3,4000.0,40,credit card,pune,maharashtra,2026-01-03,returned
+100624,c0254,pooja nair,business book,books,5,1010.0,30,net banking,lucknow,uttar pradesh,2026-04-25,processing
+100384,c0023,riya kapoor,dumbbell set,sports,2,7310.0,12,debit card,coimbatore,tamil nadu,2026-06-29,delivered
+100388,c0056,sanjay shetty,jeans,clothing,10,2380.0,5,debit card,pune,maharashtra,2026-08-18,delivered
+100654,c0111,nandini sharma,sofa,furniture,10,53830.0,12,credit card,hyderabad,telangana,2025-06-10,returned
+100255,c0128,tanvi gupta,face wash,beauty,9,330.0,15,net banking,hyderabad,telangana,2025-08-16,processing
+100293,c0258,lakshmi joshi,sports bottle,sports,5,990.0,12,upi,delhi,delhi,2026-06-23,shipped
+100369,c0305,keerthi singh,mixer grinder,home appliances,3,5050.0,40,debit card,hyderabad,telangana,2026-09-02,processing
+100481,c0165,aditi chopra,shampoo,beauty,5,250.0,25,credit card,kolkata,west bengal,2025-07-15,processing
+100538,c0162,siddharth kapoor,air fryer,home appliances,2,11580.0,40,cash on delivery,delhi,delhi,2025-06-26,delivered
+100587,c0117,aditya malhotra,yoga mat,sports,8,1760.0,30,net banking,delhi,delhi,2026-03-01,delivered
+100633,c0078,aditi patel,bedside table,furniture,9,1860.0,0,upi,vijayawada,andhra pradesh,2025-12-10,delivered
+100824,c0345,keerthi yadav,dumbbell set,sports,9,5530.0,5,credit card,lucknow,uttar pradesh,2026-01-22,cancelled
+100871,c0079,neha pandey,sports shoes,clothing,7,2070.0,35,credit card,delhi,delhi,2025-02-12,delivered
+100898,c0147,deepak kumar,makeup kit,beauty,5,3420.0,20,debit card,jaipur,rajasthan,2025-11-16,processing
+100226,c0170,shreya kulkarni,mixer grinder,home appliances,8,5070.0,15,debit card,chennai,tamil nadu,2025-10-16,delivered
+100370,c0238,aditya chopra,spice combo,grocery,5,250.0,40,upi,jaipur,rajasthan,2025-10-22,cancelled
+100404,c0194,tanvi verma,spice combo,grocery,2,460.0,40,net banking,kolkata,west bengal,2025-12-04,shipped
+100458,c0216,lakshmi das,football,sports,0,800.0,12,debit card,vijayawada,andhra pradesh,2026-09-03,shipped
+100676,c0246,lakshmi agarwal,biography,books,5,620.0,15,debit card,coimbatore,tamil nadu,2026-07-26,cancelled
+100677,c0216,lakshmi das,induction cooktop,home appliances,6,5420.0,25,credit card,kolkata,west bengal,2025-07-12,processing
+100911,c0330,deepak menon,running shoes,sports,2,4040.0,5,net banking,jaipur,rajasthan,2026-01-19,delivered
+100057,c0103,rahul saxena,jacket,clothing,6,2640.0,10,debit card,mumbai,maharashtra,2025-12-09,delivered
+100069,c0078,aditi patel,atta 10kg,grocery,2,580.0,0,net banking,chennai,tamil nadu,2026-05-21,returned
+100173,c0072,arjun sharma,spice combo,grocery,10,630.0,0,credit card,chennai,tamil nadu,2026-08-05,shipped
+100048,c0135,anjali kapoor,data science handbook,books,9,1410.0,40,cash on delivery,hyderabad,telangana,2026-04-15,processing
+100100,c0227,aarav kumar,cooking oil 5l,grocery,8,730.0,5,net banking,delhi,delhi,2025-05-24,delivered
+100303,c0243,swathi joshi,novel,books,2,370.0,25,debit card,chennai,tamil nadu,2026-02-09,delivered
+100355,c0052,rahul kapoor,yoga mat,sports,10,1390.0,25,credit card,kolkata,west bengal,2026-04-03,returned
+100434,c0313,sai das,business book,books,4,490.0,30,credit card,mumbai,maharashtra,2026-03-30,delivered
+100823,c0154,kavya reddy,jacket,clothing,7,4070.0,0,upi,bengaluru,karnataka,2025-07-19,delivered
+100847,c0040,karthik bose,atta 10kg,grocery,5,640.0,30,credit card,chennai,tamil nadu,2025-04-05,delivered
+100893,c0077,isha iyer,novel,books,2,500.0,0,debit card,chennai,tamil nadu,2025-12-16,delivered
+100052,c0163,sanjay singh,novel,books,7,790.0,12,net banking,hyderabad,telangana,2025-12-17,delivered
+100114,c0252,keerthi singh,ceiling fan,home appliances,0,2920.0,15,net banking,chennai,tamil nadu,2025-02-15,delivered
+100339,c0177,ananya mishra,wireless mouse,electronics,9,1540.0,20,credit card,chennai,tamil nadu,2025-08-19,delivered
+100448,c0270,pranav iyer,bedside table,furniture,1,4290.0,35,upi,lucknow,uttar pradesh,not-a-date,delivered
+100834,c0204,pranav reddy,yoga mat,sports,10,780.0,25,net banking,chennai,tamil nadu,2025-01-22,delivered
+100835,c0300,meera reddy,sunscreen,beauty,4,1010.0,20,credit card,chennai,tamil nadu,2025-02-06,delivered
+100877,c0041,pooja reddy,tea 1kg,grocery,6,710.0,35,credit card,hyderabad,telangana,2026-07-20,delivered
+100909,c0221,nikhil reddy,biography,books,4,510.0,25,cash on delivery,mumbai,maharashtra,2025-03-28,delivered
+100174,c0088,shreya das,air fryer,home appliances,6,5840.0,12,debit card,pune,maharashtra,2026-08-17,delivered
+100221,c0168,arjun mehta,kurta,clothing,2,1900.0,20,credit card,chennai,tamil nadu,2025-10-27,processing
+100389,c0063,abhinav rao,football,sports,1,740.0,0,cash on delivery,delhi,delhi,2026-05-18,delivered
+100423,c0292,riya naidu,laptop,electronics,5,59530.0,30,debit card,vijayawada,andhra pradesh,2026-02-14,delivered
+100218,c0269,nikhil rao,bluetooth speaker,electronics,8,5000.0,30,upi,lucknow,uttar pradesh,2025-11-06,shipped
+100371,c0340,tanvi rao,business book,books,6,850.0,5,debit card,pune,maharashtra,2026-04-28,delivered
+100381,c0335,akash reddy,sports bottle,sports,3,690.0,20,upi,lucknow,uttar pradesh,2025-03-05,delivered
+100476,c0012,keerthi chaudhary,hair serum,beauty,4,1070.0,15,net banking,hyderabad,telangana,2026-08-13,delivered
+100517,c0041,pooja reddy,football,sports,3,2320.0,40,credit card,chennai,tamil nadu,2026-06-15,delivered
+100592,c0306,nandini shetty,formal shirt,clothing,5,2440.0,5,upi,coimbatore,tamil nadu,2025-09-20,delivered
+100601,c0278,vikram malhotra,induction cooktop,home appliances,9,4860.0,5,debit card,kolkata,west bengal,2026-07-08,delivered
+100942,c0314,riya kumar,wireless mouse,electronics,2,2260.0,15,debit card,pune,maharashtra,2025-05-19,delivered
+100486,c0199,pooja reddy,vacuum cleaner,home appliances,6,9980.0,20,debit card,bengaluru,karnataka,2025-03-20,shipped
+100559,c0025,deepak gupta,competitive exam guide,books,7,790.0,15,credit card,mumbai,maharashtra,2026-06-02,processing
+100851,c0172,manish kapoor,vacuum cleaner,home appliances,9,4820.0,5,net banking,mumbai,maharashtra,2025-10-22,delivered
+100147,c0145,shreya saxena,dumbbell set,sports,5,5700.0,20,cash on delivery,chennai,tamil nadu,2025-07-15,delivered
+100021,c0257,pooja joshi,smartphone,electronics,7,15540.0,5,debit card,hyderabad,telangana,2026-06-29,delivered
+100121,c0167,kavya chaudhary,laptop,electronics,1,56250.0,40,upi,jaipur,rajasthan,2026-04-02,shipped
+100413,c0348,keerthi rao,study table,furniture,8,5110.0,12,debit card,hyderabad,telangana,2026-04-12,shipped
+100582,c0016,neha patel,competitive exam guide,books,7,500.0,30,net banking,vijayawada,andhra pradesh,2025-07-22,cancelled
+100605,c0134,arjun iyer,makeup kit,beauty,5,2110.0,35,upi,jaipur,rajasthan,2026-08-17,delivered
+100837,c0192,divya sharma,face wash,beauty,5,190.0,40,upi,kolkata,west bengal,2025-02-11,delivered
+100900,c0345,keerthi yadav,power bank,electronics,3,3070.0,30,cash on delivery,kolkata,west bengal,2026-06-18,processing
+100949,c0035,nandini gupta,jeans,clothing,4,2130.0,0,credit card,coimbatore,tamil nadu,2025-10-31,delivered
+100142,c0337,nikhil joshi,sunscreen,beauty,4,430.0,30,credit card,mumbai,maharashtra,2026-04-09,delivered
+100461,c0095,abhinav malhotra,saree,clothing,5,8730.0,20,cash on delivery,delhi,delhi,2025-06-03,delivered
+100006,c0117,aditya malhotra,biography,books,7,650.0,10,credit card,pune,maharashtra,2026-05-09,shipped
+100065,c0156,nandini bose,induction cooktop,home appliances,6,3990.0,30,cash on delivery,kolkata,west bengal,2025-04-12,delivered
+100145,c0007,sai mishra,face wash,beauty,7,350.0,30,cash on delivery,bengaluru,karnataka,2025-08-28,delivered
+100165,c0134,arjun iyer,hair serum,beauty,10,330.0,30,upi,mumbai,maharashtra,2026-02-09,delivered
+100172,c0058,swathi mishra,jacket,clothing,10,5780.0,30,net banking,vijayawada,andhra pradesh,2025-11-30,delivered
+100193,c0090,abhinav pillai,makeup kit,beauty,5,2220.0,10,cash on delivery,chennai,tamil nadu,2025-03-05,shipped
+100561,c0005,sakshi joshi,dry fruits pack,grocery,1,1600.0,10,cash on delivery,jaipur,rajasthan,2026-01-25,delivered
+100652,c0337,nikhil joshi,moisturizer,beauty,4,520.0,35,debit card,lucknow,uttar pradesh,2025-02-14,delivered
+100684,c0343,pooja jain,smartphone,electronics,5,49940.0,5,credit card,coimbatore,tamil nadu,2025-09-05,shipped
+100999,c0017,siddharth nair,hair serum,beauty,1,940.0,-5,cash on delivery,delhi,delhi,2026-08-15,shipped
+100093,c0290,riya das,moisturizer,beauty,4,680.0,5,upi,mumbai,maharashtra,2025-04-14,delivered
+100294,c0193,sakshi shetty,running shoes,sports,10,3670.0,15,debit card,hyderabad,telangana,2025-05-30,delivered
+100420,c0168,arjun mehta,programming book,books,6,1010.0,10,net banking,vijayawada,andhra pradesh,2025-07-19,shipped
+100553,c0213,aman chopra,dumbbell set,sports,10,3510.0,10,net banking,bengaluru,karnataka,2026-02-18,delivered
+100717,c0281,kavya tripathi,bluetooth speaker,electronics,5,4090.0,25,debit card,bengaluru,karnataka,2026-01-04,processing
+100973,c0154,kavya reddy,football,sports,9,2280.0,5,debit card,kolkata,west bengal,2025-02-21,delivered
+100105,c0314,riya kumar,competitive exam guide,books,1,780.0,10,net banking,lucknow,uttar pradesh,2026-01-02,delivered
+100132,c0273,aman chaudhary,atta 10kg,grocery,2,460.0,25,cash on delivery,kolkata,west bengal,2025-11-13,shipped
+100139,c0252,keerthi singh,novel,books,10,530.0,35,credit card,jaipur,rajasthan,2026-02-13,delivered
+100802,c0153,ananya jain,basmati rice 5kg,grocery,7,540.0,5,net banking,chennai,tamil nadu,2026-09-14,delivered
+100808,c0066,pranav patel,yoga mat,sports,5,600.0,25,cash on delivery,mumbai,maharashtra,2025-02-10,delivered
+100901,c0142,aarav chopra,perfume,beauty,3,2950.0,0,net banking,pune,maharashtra,2025-09-24,returned
+100754,c0043,pranav menon,football,sports,5,1460.0,35,cash on delivery,hyderabad,telangana,2025-05-26,delivered
+100397,c0050,tanvi patel,atta 10kg,grocery,1,510.0,35,upi,delhi,delhi,2026-05-18,delivered
+100564,c0211,meera chopra,bedside table,furniture,1,2530.0,10,upi,lucknow,uttar pradesh,2026-06-06,processing
+100679,c0265,pranav joshi,mechanical keyboard,electronics,10,4690.0,5,cash on delivery,pune,maharashtra,2026-04-03,delivered
+100844,c0201,sakshi tripathi,cooking oil 5l,grocery,3,820.0,0,debit card,coimbatore,tamil nadu,2025-07-28,delivered
+100846,c0054,neha shetty,study table,furniture,3,5850.0,12,upi,mumbai,maharashtra,2025-03-27,cancelled
+100872,c0210,neha agarwal,novel,books,2,410.0,10,credit card,jaipur,rajasthan,2025-10-26,delivered
+100885,c0020,aarav patel,data science handbook,books,7,1000.0,0,net banking,bengaluru,karnataka,2026-03-12,returned
+100972,c0267,kavya malhotra,ceiling fan,home appliances,6,1790.0,40,debit card,hyderabad,telangana,2026-09-18,shipped
+100082,c0231,varun kumar,sofa,furniture,9,40630.0,35,net banking,kolkata,west bengal,2026-09-13,cancelled
+100163,c0320,lakshmi rao,atta 10kg,grocery,2,610.0,40,credit card,jaipur,rajasthan,2026-08-09,delivered
+100203,c0125,riya pandey,study table,furniture,8,11970.0,10,net banking,pune,maharashtra,2025-12-17,shipped
+100250,c0010,shreya agarwal,monitor,electronics,6,23430.0,10,credit card,delhi,delhi,2026-01-05,delivered
+100583,c0330,deepak menon,mixer grinder,home appliances,8,3190.0,35,net banking,coimbatore,tamil nadu,2026-07-05,delivered
+100755,c0274,akash jain,cooking oil 5l,grocery,4,820.0,12,debit card,lucknow,uttar pradesh,2025-11-30,delivered
+100952,c0093,shreya singh,saree,clothing,8,8000.0,15,upi,vijayawada,andhra pradesh,2025-05-27,returned
+100997,c0038,anjali pandey,business book,books,2,780.0,10,debit card,pune,maharashtra,2025-08-04,shipped
+100267,c0308,diya patel,office chair,furniture,10,7070.0,20,upi,vijayawada,andhra pradesh,2025-01-12,delivered
+100429,c0189,siddharth shetty,dumbbell set,sports,10,3390.0,30,cash on delivery,kolkata,west bengal,2025-03-05,shipped
+100580,c0264,siddharth mishra,dumbbell set,sports,5,4480.0,40,upi,mumbai,maharashtra,2025-11-05,delivered
+100890,c0036,aarav singh,bookshelf,furniture,2,2890.0,15,upi,bengaluru,karnataka,2025-11-14,delivered
+100436,c0093,shreya singh,mixer grinder,home appliances,1,4280.0,30,credit card,bengaluru,karnataka,2025-12-18,shipped
+100735,c0173,nandini patel,sofa,furniture,7,38780.0,0,credit card,jaipur,rajasthan,2026-07-23,cancelled
+100194,c0152,sakshi agarwal,kurta,clothing,9,2010.0,12,credit card,mumbai,maharashtra,2025-06-25,returned
+100289,c0175,diya naidu,novel,books,10,450.0,15,cash on delivery,kolkata,west bengal,2026-06-07,delivered
+100776,c0104,karthik yadav,face wash,beauty,6,620.0,15,cash on delivery,bengaluru,karnataka,2026-03-23,delivered
+100884,c0180,arjun agarwal,football,sports,8,1300.0,10,cash on delivery,chennai,tamil nadu,2025-11-28,delivered
+100028,c0197,lakshmi das,makeup kit,beauty,3,4800.0,15,upi,kolkata,west bengal,2026-06-26,delivered
+100074,c0292,riya naidu,makeup kit,beauty,5,1950.0,25,net banking,vijayawada,andhra pradesh,2025-10-24,returned
+100104,c0159,riya rao,bedside table,furniture,10,2810.0,12,net banking,pune,maharashtra,2025-07-08,delivered
+100447,c0294,sai kumar,running shoes,sports,6,3720.0,12,upi,delhi,delhi,2026-06-05,delivered
+100494,c0210,neha agarwal,dumbbell set,sports,2,3780.0,15,upi,chennai,tamil nadu,2025-01-23,delivered
+100575,c0343,pooja jain,hoodie,clothing,8,1660.0,10,debit card,chennai,tamil nadu,2025-06-01,delivered
+100783,c0015,siddharth yadav,dumbbell set,sports,5,6130.0,0,upi,kolkata,west bengal,2025-10-12,returned
+100854,c0253,karthik mehta,face wash,beauty,6,480.0,0,debit card,hyderabad,telangana,2025-01-03,shipped
+100974,c0303,nandini agarwal,biography,books,7,800.0,35,net banking,pune,maharashtra,2026-05-23,cancelled
+100005,c0227,aarav kumar,coffee 500g,grocery,10,740.0,12,debit card,vijayawada,andhra pradesh,2026-08-30,delivered
+100170,c0158,deepak pandey,competitive exam guide,books,6,0.0,0,net banking,pune,maharashtra,2025-08-26,shipped
+100482,c0014,arjun pillai,basmati rice 5kg,grocery,7,780.0,10,cash on delivery,lucknow,uttar pradesh,2026-03-21,shipped
+100495,c0185,sai patel,formal shirt,clothing,9,1550.0,40,credit card,coimbatore,tamil nadu,2025-02-15,delivered
+100527,c0144,priya bose,shampoo,beauty,6,500.0,25,debit card,jaipur,rajasthan,2026-09-15,shipped
+100563,c0170,shreya kulkarni,spice combo,grocery,4,490.0,12,debit card,coimbatore,tamil nadu,2025-10-30,delivered
+100856,c0196,divya gupta,electric kettle,home appliances,6,1610.0,35,debit card,hyderabad,telangana,2025-08-29,delivered
+100925,c0185,sai patel,running shoes,sports,6,5030.0,0,net banking,chennai,tamil nadu,2026-01-29,delivered
+100941,c0194,tanvi verma,novel,books,4,460.0,20,cash on delivery,delhi,delhi,2025-03-08,delivered
+100116,c0125,riya pandey,t-shirt,clothing,9,1050.0,12,cash on delivery,delhi,delhi,2025-04-07,processing
+100365,c0005,sakshi joshi,wireless mouse,electronics,0,780.0,15,upi,pune,maharashtra,2025-03-04,delivered
+100693,c0289,aditi mishra,face wash,beauty,10,560.0,25,debit card,lucknow,uttar pradesh,2025-02-06,delivered
+100694,c0030,sneha nair,basmati rice 5kg,grocery,9,610.0,35,upi,kolkata,west bengal,2025-05-29,delivered
+100770,c0228,diya tripathi,air fryer,home appliances,10,5410.0,15,cash on delivery,hyderabad,telangana,2025-03-01,delivered
+100772,c0300,meera reddy,running shoes,sports,9,4820.0,15,credit card,bengaluru,karnataka,2025-10-03,delivered
+100816,c0261,manish tripathi,smartphone,electronics,3,0.0,10,net banking,delhi,delhi,2025-08-13,delivered
+100980,c0145,shreya saxena,mechanical keyboard,electronics,9,6040.0,25,net banking,mumbai,maharashtra,2025-07-22,delivered
+100987,c0323,rahul kapoor,bluetooth speaker,electronics,7,4460.0,0,cash on delivery,chennai,tamil nadu,2025-09-08,delivered
+100600,c0178,vivaan pandey,formal shirt,clothing,6,1450.0,25,cash on delivery,kolkata,west bengal,2025-03-12,processing
+100709,c0143,priya rao,microwave oven,home appliances,4,15330.0,15,credit card,bengaluru,karnataka,2026-03-10,delivered
+100756,c0004,neha kumar,office chair,furniture,2,12380.0,25,upi,lucknow,uttar pradesh,2025-10-21,processing
+100767,c0071,rohan reddy,coffee 500g,grocery,10,530.0,10,upi,bengaluru,karnataka,2026-06-09,delivered
+100017,c0332,meera agarwal,football,sports,10,2080.0,40,debit card,delhi,delhi,2026-05-25,delivered
+100033,c0204,pranav reddy,saree,clothing,1,8440.0,12,cash on delivery,chennai,tamil nadu,2025-01-30,delivered
+100034,c0192,divya sharma,yoga mat,sports,7,1720.0,-5,cash on delivery,coimbatore,tamil nadu,2025-08-19,delivered
+100211,c0343,pooja jain,mixer grinder,home appliances,7,3510.0,15,debit card,jaipur,rajasthan,2025-06-04,returned
+100662,c0087,akash kulkarni,atta 10kg,grocery,8,470.0,10,upi,pune,maharashtra,2025-07-13,delivered
+100751,c0081,abhinav gupta,coffee 500g,grocery,10,400.0,0,cash on delivery,delhi,delhi,2025-07-08,returned
+100007,c0187,siddharth menon,biography,books,4,730.0,30,cash on delivery,hyderabad,telangana,2025-12-02,delivered
+100031,c0084,anjali sharma,bookshelf,furniture,7,5190.0,0,upi,pune,maharashtra,2025-12-16,delivered
+100089,c0142,aarav chopra,kurta,clothing,6,2440.0,10,debit card,vijayawada,andhra pradesh,2026-07-25,delivered
+100094,c0170,shreya kulkarni,biography,books,4,640.0,0,debit card,bengaluru,karnataka,2025-11-18,delivered
+100257,c0307,keerthi kapoor,jeans,clothing,7,1200.0,12,upi,lucknow,uttar pradesh,2026-03-08,shipped
+100409,c0058,swathi mishra,competitive exam guide,books,4,770.0,30,upi,hyderabad,telangana,2026-01-11,delivered
+100109,c0247,neha chaudhary,sunscreen,beauty,5,900.0,5,debit card,coimbatore,tamil nadu,2026-06-21,shipped
+100477,c0051,tanvi sharma,running shoes,sports,10,5500.0,5,cash on delivery,hyderabad,telangana,2025-11-22,returned
+100774,c0228,diya tripathi,business book,books,9,520.0,10,cash on delivery,lucknow,uttar pradesh,2026-06-09,processing
+100838,c0317,kavya pandey,badminton racket,sports,10,1630.0,25,credit card,kolkata,west bengal,2026-09-10,delivered
+100208,c0210,neha agarwal,sofa,furniture,6,20940.0,25,credit card,kolkata,west bengal,2025-05-22,delivered
+100524,c0200,isha singh,running shoes,sports,8,6540.0,15,credit card,hyderabad,telangana,2025-02-13,shipped
+100611,c0100,riya reddy,jeans,clothing,9,1380.0,20,credit card,coimbatore,tamil nadu,2025-09-22,delivered
+100671,c0208,pooja verma,jeans,clothing,4,2490.0,40,upi,lucknow,uttar pradesh,2025-02-02,delivered
+100801,c0284,nikhil yadav,sugar 5kg,grocery,3,400.0,10,debit card,mumbai,maharashtra,2026-03-05,delivered
+100072,c0312,aarav kulkarni,face wash,beauty,5,270.0,0,debit card,bengaluru,karnataka,2026-08-15,delivered
+100354,c0241,aman joshi,shampoo,beauty,10,520.0,25,upi,coimbatore,tamil nadu,2025-11-12,processing
+100728,c0147,deepak kumar,tea 1kg,grocery,5,800.0,35,net banking,pune,maharashtra,2025-06-27,processing
+100748,c0273,aman chaudhary,cooking oil 5l,grocery,9,690.0,10,upi,coimbatore,tamil nadu,2025-12-08,processing
+100108,c0347,aman chaudhary,cricket bat,sports,9,6250.0,30,net banking,coimbatore,tamil nadu,2025-11-05,cancelled
+100620,c0035,nandini gupta,football,sports,3,1580.0,10,net banking,lucknow,uttar pradesh,2025-05-14,shipped
+100146,c0011,riya chaudhary,makeup kit,beauty,10,3520.0,30,upi,chennai,tamil nadu,2025-08-04,delivered
+100223,c0124,tanvi chaudhary,coffee 500g,grocery,10,740.0,10,cash on delivery,mumbai,maharashtra,2025-07-23,delivered
+100276,c0145,shreya saxena,dining table,furniture,8,15100.0,10,net banking,hyderabad,telangana,2025-12-26,delivered
+100903,c0102,aditi patel,basmati rice 5kg,grocery,1,730.0,10,credit card,coimbatore,tamil nadu,2025-01-21,shipped
+100171,c0220,vivaan pillai,makeup kit,beauty,7,4320.0,30,upi,kolkata,west bengal,2026-09-26,shipped
+100437,c0248,nandini das,induction cooktop,home appliances,9,4550.0,5,cash on delivery,vijayawada,andhra pradesh,2025-03-07,delivered
+100087,c0172,manish kapoor,study table,furniture,8,7560.0,35,credit card,pune,maharashtra,2025-11-30,cancelled
+100159,c0144,priya bose,novel,books,10,560.0,12,net banking,hyderabad,telangana,2026-03-28,delivered
+100391,c0145,shreya saxena,competitive exam guide,books,9,740.0,15,cash on delivery,delhi,delhi,2026-01-24,cancelled
+100857,c0090,abhinav pillai,bedside table,furniture,4,2460.0,120,debit card,coimbatore,tamil nadu,2025-07-19,delivered
+100923,c0120,varun shetty,bookshelf,furniture,9,8900.0,0,cash on delivery,pune,maharashtra,2026-06-19,shipped
+100947,c0317,kavya pandey,dumbbell set,sports,10,2650.0,15,cash on delivery,bengaluru,karnataka,2026-06-21,delivered
+100086,c0219,rahul jain,cooking oil 5l,grocery,10,730.0,10,credit card,kolkata,west bengal,2025-09-22,processing
+100271,c0245,ananya verma,makeup kit,beauty,8,3780.0,20,cash on delivery,lucknow,uttar pradesh,2025-05-23,cancelled
+100386,c0057,swathi yadav,sofa,furniture,3,14280.0,5,net banking,delhi,delhi,2026-08-23,cancelled
+100792,c0034,nandini kapoor,bookshelf,furniture,4,8520.0,20,credit card,hyderabad,telangana,2025-05-06,delivered
+100863,c0299,vivaan chaudhary,dining table,furniture,3,31470.0,30,debit card,vijayawada,andhra pradesh,2025-05-31,processing
+100881,c0061,arjun nair,shampoo,beauty,3,620.0,15,credit card,hyderabad,telangana,2025-03-27,delivered
+100921,c0046,vikram iyer,hair serum,beauty,7,870.0,40,debit card,vijayawada,andhra pradesh,2025-07-23,shipped
+100024,c0237,sanjay menon,saree,clothing,8,4810.0,15,debit card,chennai,tamil nadu,2025-09-09,delivered
+100199,c0034,nandini kapoor,competitive exam guide,books,1,360.0,30,credit card,coimbatore,tamil nadu,2025-01-22,shipped
+100263,c0037,nikhil patel,power bank,electronics,2,1810.0,0,upi,lucknow,uttar pradesh,2026-03-27,delivered
+100295,c0274,akash jain,moisturizer,beauty,8,1100.0,10,cash on delivery,hyderabad,telangana,2026-03-03,delivered
+100430,c0289,aditi mishra,sports bottle,sports,8,980.0,20,cash on delivery,vijayawada,andhra pradesh,2026-08-27,delivered
+100523,c0240,meera yadav,makeup kit,beauty,7,1240.0,0,net banking,coimbatore,tamil nadu,2026-02-14,delivered
+100784,c0076,neha reddy,laptop,electronics,5,74160.0,0,debit card,jaipur,rajasthan,2025-12-19,shipped
+100493,c0149,manish pillai,office chair,furniture,4,3400.0,12,cash on delivery,mumbai,maharashtra,2025-01-20,processing
+100638,c0271,deepak shetty,biography,books,6,310.0,20,net banking,mumbai,maharashtra,2026-05-26,processing
+100805,c0339,deepak malhotra,saree,clothing,2,6470.0,20,debit card,hyderabad,telangana,2025-05-07,delivered
+100929,c0233,aman bose,hair serum,beauty,10,1180.0,35,credit card,kolkata,west bengal,2025-12-06,delivered
+100930,c0056,sanjay shetty,formal shirt,clothing,8,0.0,35,credit card,coimbatore,tamil nadu,2026-07-28,delivered
+100113,c0093,shreya singh,monitor,electronics,7,11270.0,12,cash on delivery,hyderabad,telangana,2025-12-22,processing
+100453,c0069,sai malhotra,ceiling fan,home appliances,1,3280.0,25,debit card,vijayawada,andhra pradesh,2025-10-17,delivered
+100497,c0273,aman chaudhary,cooking oil 5l,grocery,6,660.0,40,credit card,hyderabad,telangana,2025-05-18,delivered
+100528,c0028,aditya naidu,face wash,beauty,8,390.0,35,debit card,bengaluru,karnataka,2025-03-02,processing
+100635,c0204,pranav reddy,ceiling fan,home appliances,1,1770.0,5,cash on delivery,chennai,tamil nadu,2026-07-18,delivered
+100644,c0243,swathi joshi,business book,books,9,380.0,20,credit card,delhi,delhi,2026-01-03,processing
+100757,c0106,aman rao,hair serum,beauty,1,850.0,30,debit card,bengaluru,karnataka,2026-05-31,delivered
+100916,c0205,abhinav rao,programming book,books,7,1180.0,35,net banking,hyderabad,telangana,2026-03-31,delivered
+100454,c0303,nandini agarwal,basmati rice 5kg,grocery,2,570.0,35,net banking,kolkata,west bengal,2025-02-28,delivered
+100631,c0300,meera reddy,programming book,books,4,760.0,25,debit card,mumbai,maharashtra,2026-06-11,delivered
+100790,c0183,sakshi joshi,football,sports,3,1180.0,5,credit card,lucknow,uttar pradesh,2025-08-26,delivered
+100995,c0263,siddharth kulkarni,kurta,clothing,4,2150.0,30,upi,vijayawada,andhra pradesh,2026-05-10,cancelled
+100359,c0340,tanvi rao,smartphone,electronics,7,13900.0,35,cash on delivery,vijayawada,andhra pradesh,2026-05-15,shipped
+100442,c0152,sakshi agarwal,football,sports,1,980.0,35,upi,hyderabad,telangana,2026-01-20,delivered
+100571,c0273,aman chaudhary,running shoes,sports,8,6880.0,35,credit card,mumbai,maharashtra,2026-05-29,delivered
+100608,c0081,abhinav gupta,sugar 5kg,grocery,1,450.0,20,credit card,hyderabad,telangana,2026-05-11,delivered
+100648,c0230,siddharth iyer,air fryer,home appliances,6,11030.0,20,cash on delivery,vijayawada,andhra pradesh,2026-07-29,delivered
+100874,c0062,lakshmi pillai,biography,books,2,430.0,30,debit card,coimbatore,tamil nadu,2025-05-24,cancelled
+100992,c0053,anjali saxena,dining table,furniture,7,30100.0,35,credit card,jaipur,rajasthan,2026-04-18,delivered
+100288,c0339,deepak malhotra,office chair,furniture,6,4850.0,25,cash on delivery,chennai,tamil nadu,2026-02-09,shipped
+100665,c0054,neha shetty,yoga mat,sports,9,900.0,30,debit card,hyderabad,telangana,2025-03-03,delivered
+100668,c0179,sai sharma,study table,furniture,5,6630.0,35,cash on delivery,lucknow,uttar pradesh,2025-11-29,delivered
+100064,c0149,manish pillai,basmati rice 5kg,grocery,1,560.0,40,debit card,jaipur,rajasthan,2026-08-31,delivered
+100964,c0019,aman tripathi,ceiling fan,home appliances,3,4950.0,35,debit card,jaipur,rajasthan,2026-06-04,delivered
+100556,c0343,pooja jain,makeup kit,beauty,8,1450.0,15,net banking,kolkata,west bengal,2025-01-12,shipped
+100050,c0045,harsh singh,sports shoes,clothing,5,5530.0,25,upi,vijayawada,andhra pradesh,2025-11-25,cancelled
+100233,c0233,aman bose,sunscreen,beauty,5,740.0,40,debit card,pune,maharashtra,2026-01-21,shipped
+100280,c0154,kavya reddy,perfume,beauty,2,3630.0,25,net banking,bengaluru,karnataka,2026-03-09,shipped
+100753,c0177,ananya mishra,dry fruits pack,grocery,9,1260.0,0,net banking,vijayawada,andhra pradesh,2025-08-24,processing
+100993,c0161,nandini tripathi,saree,clothing,5,5490.0,25,credit card,hyderabad,telangana,2026-03-18,shipped
+100046,c0172,manish kapoor,perfume,beauty,3,3220.0,40,credit card,chennai,tamil nadu,2025-10-31,delivered
+100431,c0111,nandini sharma,novel,books,10,470.0,0,cash on delivery,lucknow,uttar pradesh,2025-09-22,shipped
+100642,c0153,ananya jain,air fryer,home appliances,2,4170.0,10,cash on delivery,lucknow,uttar pradesh,2026-01-01,delivered
+100806,c0114,sai nair,coffee 500g,grocery,2,360.0,5,net banking,jaipur,rajasthan,2025-05-10,delivered
+100156,c0176,meera joshi,t-shirt,clothing,7,990.0,35,cash on delivery,hyderabad,telangana,2026-09-12,shipped
+100239,c0335,akash reddy,data science handbook,books,6,1070.0,5,cash on delivery,jaipur,rajasthan,2025-11-27,delivered
+100498,c0009,keerthi naidu,sofa,furniture,6,52870.0,0,debit card,bengaluru,karnataka,2025-05-13,delivered
+100678,c0086,kavya singh,ceiling fan,home appliances,1,2180.0,35,debit card,lucknow,uttar pradesh,2026-07-02,delivered
+100960,c0102,aditi patel,induction cooktop,home appliances,4,2450.0,30,debit card,pune,maharashtra,2025-05-20,delivered
+100068,c0131,neha singh,electric kettle,home appliances,7,2210.0,20,upi,mumbai,maharashtra,2026-04-04,delivered
+100183,c0021,keerthi tripathi,data science handbook,books,9,1150.0,20,debit card,pune,maharashtra,2026-05-09,cancelled
+100235,c0349,tanvi reddy,power bank,electronics,7,0.0,0,upi,vijayawada,andhra pradesh,2026-03-02,delivered
+100238,c0245,ananya verma,programming book,books,3,460.0,40,credit card,vijayawada,andhra pradesh,2026-07-05,delivered
+100319,c0018,ananya yadav,spice combo,grocery,9,750.0,12,net banking,kolkata,west bengal,2026-05-19,shipped
+100773,c0315,meera malhotra,study table,furniture,7,11310.0,40,debit card,pune,maharashtra,2026-02-25,delivered
+100406,c0004,neha kumar,monitor,electronics,7,27080.0,25,debit card,mumbai,maharashtra,2025-06-04,shipped
+100568,c0317,kavya pandey,yoga mat,sports,5,550.0,5,upi,delhi,delhi,2025-02-08,delivered
+100761,c0020,aarav patel,bookshelf,furniture,7,7450.0,25,upi,pune,maharashtra,2026-01-01,delivered
+100768,c0207,deepak saxena,atta 10kg,grocery,6,410.0,0,debit card,hyderabad,telangana,2026-01-22,delivered
+100789,c0043,pranav menon,office chair,furniture,7,13560.0,35,credit card,mumbai,maharashtra,2025-09-17,delivered
+100298,c0101,aman jain,programming book,books,5,1070.0,35,debit card,coimbatore,tamil nadu,2026-07-02,delivered
+100513,c0300,meera reddy,vacuum cleaner,home appliances,4,7360.0,10,upi,bengaluru,karnataka,2026-08-27,shipped
+100695,c0180,arjun agarwal,competitive exam guide,books,4,500.0,40,credit card,coimbatore,tamil nadu,2025-10-13,delivered
+100182,c0324,rohan naidu,novel,books,1,370.0,5,upi,lucknow,uttar pradesh,2025-04-08,delivered
+100398,c0283,nandini singh,novel,books,2,330.0,0,net banking,chennai,tamil nadu,2025-11-29,processing
+100572,c0065,pranav agarwal,sugar 5kg,grocery,8,400.0,40,debit card,vijayawada,andhra pradesh,2025-05-11,delivered
+100659,c0304,akash yadav,jacket,clothing,3,6960.0,40,upi,delhi,delhi,2026-09-13,processing
+100716,c0238,aditya chopra,mixer grinder,home appliances,2,2960.0,20,upi,bengaluru,karnataka,2025-01-01,returned
+100950,c0143,priya rao,business book,books,6,510.0,5,net banking,vijayawada,andhra pradesh,2025-05-17,shipped
+100025,c0002,deepak jain,coffee 500g,grocery,7,610.0,20,cash on delivery,hyderabad,telangana,2026-09-01,delivered
+100071,c0215,sai naidu,dining table,furniture,1,36490.0,15,debit card,lucknow,uttar pradesh,2025-02-24,shipped
+100090,c0037,nikhil patel,business book,books,8,640.0,5,net banking,delhi,delhi,2025-09-12,delivered
+100312,c0049,sakshi chopra,microwave oven,home appliances,6,16920.0,0,net banking,delhi,delhi,2025-06-16,delivered
+100463,c0097,aditya chopra,monitor,electronics,1,15040.0,25,upi,mumbai,maharashtra,2025-12-08,delivered
+100296,c0246,lakshmi agarwal,power bank,electronics,4,1830.0,0,debit card,coimbatore,tamil nadu,2026-05-09,delivered
+100625,c0151,varun verma,sugar 5kg,grocery,9,390.0,25,upi,mumbai,maharashtra,2025-12-22,delivered
+100859,c0268,keerthi iyer,running shoes,sports,8,3630.0,10,credit card,jaipur,rajasthan,2025-10-28,delivered
+100888,c0162,siddharth kapoor,jacket,clothing,2,1800.0,35,cash on delivery,chennai,tamil nadu,2026-09-21,delivered
+100161,c0266,divya chopra,sports shoes,clothing,6,3180.0,10,credit card,kolkata,west bengal,2026-07-29,delivered
+100187,c0023,riya kapoor,face wash,beauty,4,480.0,40,net banking,bengaluru,karnataka,2025-01-18,delivered
+100213,c0041,pooja reddy,bedside table,furniture,10,3290.0,5,debit card,delhi,delhi,2026-05-27,shipped
+100352,c0344,aman jain,mechanical keyboard,electronics,6,4560.0,20,debit card,bengaluru,karnataka,2026-06-04,shipped
+100579,c0228,diya tripathi,t-shirt,clothing,7,1140.0,30,cash on delivery,delhi,delhi,2025-01-31,delivered
+100599,c0047,sneha mishra,biography,books,8,410.0,40,credit card,kolkata,west bengal,2026-04-02,processing
+100634,c0262,tanvi mehta,atta 10kg,grocery,10,560.0,15,cash on delivery,hyderabad,telangana,2025-02-30,processing
+100689,c0147,deepak kumar,perfume,beauty,3,1850.0,15,cash on delivery,lucknow,uttar pradesh,2025-08-24,delivered
+100718,c0193,sakshi shetty,microwave oven,home appliances,5,8720.0,40,debit card,mumbai,maharashtra,2025-09-13,delivered
+100875,c0063,abhinav rao,sugar 5kg,grocery,6,240.0,30,cash on delivery,bengaluru,karnataka,2026-07-21,delivered
+100981,c0229,keerthi tripathi,sports shoes,clothing,3,1520.0,10,upi,bengaluru,karnataka,2025-12-28,delivered
+100091,c0103,rahul saxena,dining table,furniture,2,34530.0,25,net banking,mumbai,maharashtra,2025-04-06,delivered
+100966,c0267,kavya malhotra,bookshelf,furniture,10,7650.0,10,credit card,lucknow,uttar pradesh,2025-10-09,returned
+100127,c0264,siddharth mishra,dining table,furniture,8,32780.0,12,cash on delivery,hyderabad,telangana,2025-12-16,shipped
+100002,c0042,arjun singh,t-shirt,clothing,6,680.0,5,debit card,chennai,tamil nadu,2025-08-03,delivered
+100023,c0070,sneha chopra,face wash,beauty,6,290.0,20,debit card,lucknow,uttar pradesh,2026-03-24,shipped
+100297,c0149,manish pillai,dry fruits pack,grocery,7,780.0,35,credit card,lucknow,uttar pradesh,2025-07-29,delivered
+100345,c0062,lakshmi pillai,study table,furniture,2,13510.0,15,upi,hyderabad,telangana,2026-07-01,delivered
+100650,c0234,tanvi chopra,office chair,furniture,2,11510.0,12,cash on delivery,vijayawada,andhra pradesh,2025-08-25,processing
+100701,c0017,siddharth nair,competitive exam guide,books,10,660.0,12,net banking,lucknow,uttar pradesh,2025-09-09,delivered
+100743,c0107,aditi kapoor,shampoo,beauty,9,680.0,40,net banking,kolkata,west bengal,2025-10-21,delivered
+100936,c0146,diya joshi,hair serum,beauty,6,620.0,40,upi,vijayawada,andhra pradesh,2025-06-29,delivered
+100140,c0075,swathi tripathi,cooking oil 5l,grocery,4,790.0,-5,credit card,hyderabad,telangana,2025-10-01,shipped
+100246,c0349,tanvi reddy,saree,clothing,1,7670.0,5,cash on delivery,mumbai,maharashtra,2025-08-26,delivered
+100346,c0023,riya kapoor,makeup kit,beauty,7,1540.0,40,net banking,pune,maharashtra,2026-03-28,delivered
+100349,c0005,sakshi joshi,usb-c hub,electronics,9,2500.0,15,debit card,mumbai,maharashtra,2025-06-14,processing
+100492,c0082,sanjay patel,data science handbook,books,3,1560.0,20,upi,bengaluru,karnataka,2025-06-29,delivered
+100515,c0314,riya kumar,sunscreen,beauty,9,380.0,25,debit card,vijayawada,andhra pradesh,2026-03-21,delivered
+100526,c0102,aditi patel,makeup kit,beauty,3,4420.0,15,upi,bengaluru,karnataka,2025-12-23,delivered
+100586,c0316,aman das,makeup kit,beauty,6,2490.0,10,credit card,vijayawada,andhra pradesh,2026-08-30,shipped
+100674,c0103,rahul saxena,novel,books,1,760.0,40,cash on delivery,delhi,delhi,2026-01-26,processing
+100948,c0023,riya kapoor,electric kettle,home appliances,2,1110.0,35,debit card,bengaluru,karnataka,2025-10-12,delivered
+100499,c0206,harsh pillai,bedside table,furniture,10,2580.0,10,cash on delivery,chennai,tamil nadu,2025-09-02,delivered
+100576,c0265,pranav joshi,bedside table,furniture,9,3570.0,40,debit card,hyderabad,telangana,2026-03-23,processing
+100686,c0334,akash saxena,air fryer,home appliances,4,4090.0,12,cash on delivery,jaipur,rajasthan,2025-01-15,delivered
+100825,c0316,aman das,atta 10kg,grocery,4,500.0,15,upi,coimbatore,tamil nadu,2025-01-08,delivered
+100902,c0260,aman kapoor,business book,books,5,1050.0,15,net banking,mumbai,maharashtra,2026-07-09,delivered
+100118,c0037,nikhil patel,shampoo,beauty,6,820.0,30,credit card,mumbai,maharashtra,2026-09-09,returned
+100432,c0330,deepak menon,hoodie,clothing,8,3540.0,40,cash on delivery,lucknow,uttar pradesh,2025-06-24,shipped
+100464,c0180,arjun agarwal,bookshelf,furniture,9,10390.0,15,net banking,hyderabad,telangana,2025-07-24,shipped
+100649,c0266,divya chopra,tea 1kg,grocery,3,680.0,10,cash on delivery,jaipur,rajasthan,2026-08-01,delivered
+100657,c0327,diya joshi,air fryer,home appliances,5,8420.0,10,debit card,pune,maharashtra,2026-01-01,shipped
+100705,c0298,ananya iyer,sports bottle,sports,5,960.0,20,upi,bengaluru,karnataka,2025-08-17,delivered
+100740,c0316,aman das,dining table,furniture,2,44590.0,5,credit card,hyderabad,telangana,2025-05-13,processing
+100022,c0271,deepak shetty,novel,books,3,310.0,12,debit card,hyderabad,telangana,2026-09-08,delivered
+100588,c0228,diya tripathi,bookshelf,furniture,4,11260.0,40,credit card,mumbai,maharashtra,2026-08-09,cancelled
+100177,c0072,arjun sharma,ceiling fan,home appliances,7,3920.0,30,cash on delivery,vijayawada,andhra pradesh,2026-01-18,delivered
+100385,c0145,shreya saxena,dry fruits pack,grocery,7,1520.0,10,credit card,hyderabad,telangana,2026-02-13,delivered
+100418,c0235,varun kapoor,programming book,books,3,1190.0,35,debit card,hyderabad,telangana,2025-01-16,delivered
+100529,c0081,abhinav gupta,sports bottle,sports,8,1190.0,0,credit card,bengaluru,karnataka,2025-03-11,shipped
+100630,c0082,sanjay patel,competitive exam guide,books,1,420.0,25,cash on delivery,delhi,delhi,2026-01-15,shipped
+100661,c0293,akash pillai,jacket,clothing,4,6190.0,12,cash on delivery,lucknow,uttar pradesh,2025-12-10,delivered
+100889,c0056,sanjay shetty,face wash,beauty,3,470.0,20,credit card,hyderabad,telangana,2026-02-25,delivered
+100341,c0248,nandini das,sunscreen,beauty,7,710.0,5,cash on delivery,bengaluru,karnataka,2026-02-19,shipped
+100361,c0063,abhinav rao,vacuum cleaner,home appliances,2,4070.0,20,credit card,lucknow,uttar pradesh,2025-11-04,delivered
+100670,c0167,kavya chaudhary,biography,books,7,620.0,12,cash on delivery,mumbai,maharashtra,2025-06-06,delivered
+100933,c0304,akash yadav,novel,books,8,430.0,40,debit card,chennai,tamil nadu,2025-11-12,delivered
+100956,c0004,neha kumar,novel,books,5,760.0,12,credit card,vijayawada,andhra pradesh,2025-09-26,delivered
+100111,c0198,nandini mehta,laptop,electronics,5,54330.0,25,debit card,vijayawada,andhra pradesh,2025-11-02,cancelled
+100149,c0320,lakshmi rao,football,sports,1,1400.0,30,upi,bengaluru,karnataka,2025-04-09,delivered
+100428,c0012,keerthi chaudhary,running shoes,sports,5,6850.0,0,net banking,kolkata,west bengal,2025-05-22,delivered
+100027,c0310,sakshi bose,jeans,clothing,8,2960.0,12,debit card,hyderabad,telangana,2026-07-01,shipped
+100136,c0218,rohan pandey,usb-c hub,electronics,7,2710.0,15,net banking,bengaluru,karnataka,2026-09-04,delivered
+100216,c0246,lakshmi agarwal,dining table,furniture,8,24180.0,5,upi,coimbatore,tamil nadu,2026-01-09,delivered
+100417,c0166,riya mishra,laptop,electronics,9,44500.0,0,credit card,mumbai,maharashtra,2026-05-31,delivered
+100128,c0249,priya patel,spice combo,grocery,3,350.0,20,net banking,coimbatore,tamil nadu,2025-05-06,delivered
+100351,c0197,lakshmi das,competitive exam guide,books,10,970.0,12,net banking,bengaluru,karnataka,2026-01-28,delivered
+100557,c0145,shreya saxena,induction cooktop,home appliances,9,3450.0,10,net banking,jaipur,rajasthan,2025-01-19,cancelled
+100769,c0053,anjali saxena,dumbbell set,sports,2,5240.0,30,upi,hyderabad,telangana,2025-02-11,shipped
+100320,c0111,nandini sharma,jacket,clothing,2,3590.0,10,upi,vijayawada,andhra pradesh,2025-09-16,delivered
+100367,c0078,aditi patel,sports bottle,sports,10,1170.0,35,debit card,delhi,delhi,2025-10-04,delivered
+100468,c0172,manish kapoor,atta 10kg,grocery,4,740.0,10,net banking,lucknow,uttar pradesh,2026-09-09,delivered
+100061,c0081,abhinav gupta,sunscreen,beauty,10,960.0,35,debit card,coimbatore,tamil nadu,2025-08-02,processing
+100085,c0199,pooja reddy,jacket,clothing,7,6990.0,20,debit card,vijayawada,andhra pradesh,2025-02-10,delivered
+100683,c0332,meera agarwal,usb-c hub,electronics,9,4900.0,25,credit card,kolkata,west bengal,2025-01-14,delivered
+100738,c0005,sakshi joshi,competitive exam guide,books,2,660.0,35,upi,vijayawada,andhra pradesh,2026-03-01,shipped
+100760,c0144,priya bose,spice combo,grocery,1,610.0,25,debit card,chennai,tamil nadu,2025-11-19,delivered
+100815,c0092,ananya kulkarni,competitive exam guide,books,7,460.0,20,cash on delivery,lucknow,uttar pradesh,2025-03-20,processing
+100833,c0037,nikhil patel,smartphone,electronics,7,17190.0,40,net banking,chennai,tamil nadu,2025-12-18,delivered
+100897,c0086,kavya singh,monitor,electronics,7,28140.0,10,cash on delivery,vijayawada,andhra pradesh,2026-05-15,delivered
+100042,c0030,sneha nair,running shoes,sports,1,5340.0,25,upi,delhi,delhi,2025-11-04,delivered
+100639,c0105,swathi gupta,data science handbook,books,7,1190.0,40,upi,delhi,delhi,2025-12-12,delivered
+100807,c0337,nikhil joshi,monitor,electronics,9,19460.0,12,net banking,vijayawada,andhra pradesh,2025-03-27,delivered
+100224,c0062,lakshmi pillai,usb-c hub,electronics,9,1140.0,5,cash on delivery,vijayawada,andhra pradesh,2025-02-27,delivered
+100229,c0052,rahul kapoor,business book,books,7,480.0,20,cash on delivery,mumbai,maharashtra,2026-03-20,shipped
+100466,c0294,sai kumar,office chair,furniture,6,13180.0,12,upi,lucknow,uttar pradesh,2025-05-01,delivered
+100741,c0308,diya patel,vacuum cleaner,home appliances,5,9090.0,20,credit card,chennai,tamil nadu,2026-07-18,delivered
+100799,c0211,meera chopra,mixer grinder,home appliances,5,3870.0,10,credit card,coimbatore,tamil nadu,2025-04-02,delivered
+100814,c0124,tanvi chaudhary,electric kettle,home appliances,7,1660.0,40,net banking,mumbai,maharashtra,2025-08-22,delivered
+100821,c0077,isha iyer,cricket bat,sports,9,4160.0,15,cash on delivery,jaipur,rajasthan,2026-02-04,delivered
+100830,c0087,akash kulkarni,tea 1kg,grocery,10,450.0,5,net banking,delhi,delhi,2026-03-28,delivered
+100839,c0032,anjali kumar,cricket bat,sports,10,2120.0,35,cash on delivery,lucknow,uttar pradesh,2025-11-30,delivered
+100434,c0149,manish pillai,sugar 5kg,grocery,1,230.0,35,cash on delivery,kolkata,west bengal,2026-06-06,returned
+100313,c0220,vivaan pillai,hair serum,beauty,7,880.0,35,upi,lucknow,uttar pradesh,2025-07-20,delivered
+100357,c0147,deepak kumar,badminton racket,sports,1,1740.0,40,cash on delivery,hyderabad,telangana,2025-01-19,delivered
+100383,c0168,arjun mehta,study table,furniture,3,10890.0,35,credit card,hyderabad,telangana,2025-10-17,shipped
+100742,c0313,sai das,atta 10kg,grocery,2,630.0,25,upi,bengaluru,karnataka,2026-02-16,delivered
+100764,c0327,diya joshi,yoga mat,sports,10,630.0,5,debit card,delhi,delhi,2025-04-09,cancelled
+100862,c0042,arjun singh,air fryer,home appliances,8,7830.0,40,debit card,coimbatore,tamil nadu,2026-06-16,delivered
+100876,c0157,harsh iyer,sports shoes,clothing,1,2000.0,40,net banking,hyderabad,telangana,2026-07-02,delivered
+100283,c0004,neha kumar,cooking oil 5l,grocery,9,790.0,10,debit card,jaipur,rajasthan,2025-04-22,cancelled
+100565,c0141,varun agarwal,air fryer,home appliances,3,4590.0,15,net banking,bengaluru,karnataka,2025-08-16,shipped
+100730,c0200,isha singh,cooking oil 5l,grocery,1,720.0,15,upi,vijayawada,andhra pradesh,2026-01-22,shipped
+100811,c0292,riya naidu,competitive exam guide,books,9,430.0,5,debit card,bengaluru,karnataka,2026-04-26,processing
+100820,c0241,aman joshi,bookshelf,furniture,9,3060.0,40,debit card,kolkata,west bengal,2025-01-02,delivered
+100994,c0085,aarav agarwal,sofa,furniture,3,29860.0,35,net banking,lucknow,uttar pradesh,2026-02-09,delivered
+100321,c0192,divya sharma,badminton racket,sports,9,3020.0,20,cash on delivery,kolkata,west bengal,2026-01-15,cancelled
+100452,c0261,manish tripathi,dumbbell set,sports,5,6660.0,25,cash on delivery,delhi,delhi,2026-08-22,cancelled
+100551,c0108,sanjay kumar,wireless mouse,electronics,2,2250.0,12,upi,coimbatore,tamil nadu,2025-01-09,delivered
+100714,c0248,nandini das,smartphone,electronics,8,13720.0,12,debit card,chennai,tamil nadu,2026-09-27,cancelled
+100785,c0222,divya sharma,mechanical keyboard,electronics,5,5060.0,15,net banking,chennai,tamil nadu,2025-04-26,delivered
+100944,c0101,aman jain,air fryer,home appliances,6,9980.0,40,upi,kolkata,west bengal,2025-06-13,delivered
+100032,c0060,arjun patel,induction cooktop,home appliances,3,3520.0,10,debit card,mumbai,maharashtra,2025-06-30,delivered
+100055,c0270,pranav iyer,dry fruits pack,grocery,7,930.0,12,cash on delivery,coimbatore,tamil nadu,2026-08-20,delivered
+100120,c0216,lakshmi das,induction cooktop,home appliances,7,4590.0,10,net banking,hyderabad,telangana,2025-09-17,returned
+100195,c0232,keerthi kulkarni,yoga mat,sports,3,890.0,30,upi,bengaluru,karnataka,2026-06-28,delivered
+100304,c0048,divya iyer,makeup kit,beauty,5,2830.0,12,debit card,bengaluru,karnataka,2025-04-04,delivered
+100248,c0176,meera joshi,mechanical keyboard,electronics,10,6330.0,40,net banking,mumbai,maharashtra,2025-09-26,delivered
+100256,c0216,lakshmi das,cooking oil 5l,grocery,5,1000.0,10,net banking,lucknow,uttar pradesh,2026-05-07,delivered
+100284,c0302,ananya reddy,study table,furniture,2,0.0,30,debit card,vijayawada,andhra pradesh,2026-06-22,delivered
+100546,c0025,deepak gupta,hoodie,clothing,10,1320.0,12,cash on delivery,vijayawada,andhra pradesh,2025-11-14,processing
+100629,c0184,aman joshi,office chair,furniture,9,0.0,15,credit card,hyderabad,telangana,2025-03-28,delivered
+100653,c0152,sakshi agarwal,sports shoes,clothing,2,1910.0,10,debit card,kolkata,west bengal,2025-10-13,processing
+100780,c0235,varun kapoor,office chair,furniture,0,15610.0,0,credit card,lucknow,uttar pradesh,2025-02-22,delivered
+100965,c0240,meera yadav,bookshelf,furniture,6,3040.0,40,debit card,mumbai,maharashtra,2026-02-23,delivered
+100103,c0182,sakshi naidu,office chair,furniture,2,14350.0,25,upi,mumbai,maharashtra,2025-03-08,processing
+100117,c0130,aman saxena,dumbbell set,sports,8,2360.0,5,cash on delivery,kolkata,west bengal,2025-08-04,shipped
+100617,c0107,aditi kapoor,dining table,furniture,7,23750.0,30,debit card,mumbai,maharashtra,2025-03-02,processing
+100126,c0347,aman chaudhary,running shoes,sports,4,4040.0,15,net banking,mumbai,maharashtra,2026-09-09,delivered
+100210,c0314,riya kumar,vacuum cleaner,home appliances,8,14410.0,0,credit card,pune,maharashtra,2026-01-13,delivered
+100234,c0330,deepak menon,power bank,electronics,6,2250.0,12,upi,bengaluru,karnataka,2025-08-08,delivered
+100782,c0327,diya joshi,tea 1kg,grocery,6,360.0,5,upi,bengaluru,karnataka,2025-10-14,delivered
+100301,c0347,aman chaudhary,formal shirt,clothing,10,1010.0,10,credit card,kolkata,west bengal,2025-04-29,processing
+100673,c0131,neha singh,hair serum,beauty,6,780.0,40,upi,mumbai,maharashtra,2025-12-31,delivered
+100688,c0282,siddharth malhotra,programming book,books,5,980.0,15,debit card,pune,maharashtra,2026-02-11,delivered
+100913,c0271,deepak shetty,jeans,clothing,6,3300.0,20,debit card,delhi,delhi,2026-05-07,cancelled
+100958,c0331,varun reddy,power bank,electronics,4,3250.0,30,cash on delivery,mumbai,maharashtra,2026-06-18,delivered
+100308,c0311,divya shetty,ceiling fan,home appliances,9,3270.0,25,cash on delivery,vijayawada,andhra pradesh,2026-09-28,delivered
+100368,c0007,sai mishra,electric kettle,home appliances,6,2320.0,0,upi,coimbatore,tamil nadu,2025-08-25,shipped
+100445,c0143,priya rao,coffee 500g,grocery,2,430.0,20,net banking,jaipur,rajasthan,2025-01-21,delivered
+100029,c0044,varun das,microwave oven,home appliances,4,7450.0,40,cash on delivery,vijayawada,andhra pradesh,2026-09-17,delivered
+100379,c0350,kavya bose,office chair,furniture,5,15000.0,20,credit card,coimbatore,tamil nadu,2026-09-12,returned
+100593,c0094,sai patel,coffee 500g,grocery,0,890.0,5,debit card,lucknow,uttar pradesh,2026-05-06,delivered
+100632,c0050,tanvi patel,bedside table,furniture,8,2470.0,35,credit card,bengaluru,karnataka,2025-11-10,shipped
+100733,c0041,pooja reddy,competitive exam guide,books,9,980.0,25,debit card,jaipur,rajasthan,2025-09-27,delivered
+100843,c0131,neha singh,dumbbell set,sports,3,5050.0,15,credit card,hyderabad,telangana,2026-09-16,delivered
+100245,c0202,neha pandey,face wash,beauty,7,280.0,20,net banking,jaipur,rajasthan,2025-03-07,shipped
+100311,c0113,neha sharma,dumbbell set,sports,2,5490.0,15,cash on delivery,kolkata,west bengal,2026-06-04,processing
+100848,c0041,pooja reddy,cooking oil 5l,grocery,3,730.0,25,debit card,coimbatore,tamil nadu,2025-05-06,shipped
+100861,c0338,vivaan patel,spice combo,grocery,8,600.0,35,net banking,bengaluru,karnataka,2026-03-21,shipped
+100991,c0037,nikhil patel,sugar 5kg,grocery,9,250.0,15,credit card,bengaluru,karnataka,2025-11-01,returned
+100072,c0211,meera chopra,competitive exam guide,books,9,770.0,20,credit card,jaipur,rajasthan,2026-06-30,delivered
+100191,c0244,shreya rao,laptop,electronics,7,68020.0,12,net banking,pune,maharashtra,2025-04-03,processing
+100487,c0232,keerthi kulkarni,office chair,furniture,4,0.0,25,debit card,mumbai,maharashtra,2025-02-05,returned
+100502,c0068,vikram yadav,induction cooktop,home appliances,2,5040.0,25,debit card,jaipur,rajasthan,2025-03-11,cancelled
+100590,c0159,riya rao,running shoes,sports,3,3030.0,30,debit card,mumbai,maharashtra,2025-03-13,delivered
+100968,c0073,abhinav kulkarni,wireless mouse,electronics,5,1640.0,12,upi,lucknow,uttar pradesh,2025-03-19,shipped
+100039,c0165,aditi chopra,formal shirt,clothing,6,1320.0,12,upi,hyderabad,telangana,2025-05-16,delivered
+100107,c0133,vikram reddy,makeup kit,beauty,2,2910.0,0,credit card,chennai,tamil nadu,2026-06-11,delivered
+100277,c0303,nandini agarwal,competitive exam guide,books,8,880.0,15,credit card,hyderabad,telangana,2026-01-29,delivered
+100292,c0054,neha shetty,vacuum cleaner,home appliances,8,6920.0,0,upi,pune,maharashtra,2026-08-30,cancelled
+100324,c0195,tanvi gupta,sunscreen,beauty,1,470.0,40,debit card,bengaluru,karnataka,2025-11-27,returned
+100549,c0251,akash kulkarni,tea 1kg,grocery,1,380.0,10,credit card,jaipur,rajasthan,2025-10-29,delivered
+100560,c0278,vikram malhotra,t-shirt,clothing,5,960.0,30,debit card,lucknow,uttar pradesh,2025-10-14,delivered
+100143,c0184,aman joshi,football,sports,0,1030.0,15,debit card,coimbatore,tamil nadu,2025-11-26,delivered
+100451,c0070,sneha chopra,makeup kit,beauty,1,3770.0,0,credit card,jaipur,rajasthan,2025-12-14,shipped
+100478,c0029,kavya sharma,ceiling fan,home appliances,2,3060.0,12,cash on delivery,vijayawada,andhra pradesh,2025-06-19,delivered
+100548,c0162,siddharth kapoor,business book,books,5,690.0,25,credit card,hyderabad,telangana,2025-08-09,shipped
+100138,c0123,divya naidu,yoga mat,sports,8,950.0,10,net banking,jaipur,rajasthan,2025-10-13,processing
+100696,c0019,aman tripathi,jacket,clothing,5,6400.0,12,cash on delivery,vijayawada,andhra pradesh,2026-03-07,delivered
+100262,c0348,keerthi rao,dry fruits pack,grocery,8,880.0,5,debit card,coimbatore,tamil nadu,2025-07-23,delivered
+100325,c0250,karthik patel,football,sports,7,1020.0,40,upi,bengaluru,karnataka,2025-12-21,delivered
+100440,c0106,aman rao,perfume,beauty,5,4480.0,30,cash on delivery,vijayawada,andhra pradesh,2025-02-07,shipped
+100573,c0340,tanvi rao,perfume,beauty,3,2600.0,25,cash on delivery,hyderabad,telangana,2026-03-09,cancelled
+100646,c0186,sai bose,vacuum cleaner,home appliances,10,17990.0,20,net banking,kolkata,west bengal,2026-08-02,shipped
+100685,c0249,priya patel,running shoes,sports,1,2640.0,0,upi,vijayawada,andhra pradesh,2025-11-05,delivered
+100710,c0110,anjali joshi,usb-c hub,electronics,9,3230.0,35,credit card,chennai,tamil nadu,2025-11-20,delivered
+100008,c0124,tanvi chaudhary,dining table,furniture,6,25970.0,40,cash on delivery,delhi,delhi,2025-09-25,delivered
+100144,c0136,aman nair,moisturizer,beauty,4,1150.0,40,cash on delivery,hyderabad,telangana,2025-03-31,returned
+100278,c0254,pooja nair,usb-c hub,electronics,9,3940.0,0,upi,jaipur,rajasthan,2025-02-05,processing
+100378,c0201,sakshi tripathi,atta 10kg,grocery,3,400.0,25,credit card,lucknow,uttar pradesh,2026-09-18,delivered
+100535,c0109,ananya joshi,office chair,furniture,2,4080.0,15,net banking,vijayawada,andhra pradesh,2025-06-18,delivered
+100818,c0221,nikhil reddy,running shoes,sports,4,6110.0,20,cash on delivery,delhi,delhi,2025-07-17,returned
+100963,c0115,siddharth saxena,ceiling fan,home appliances,8,3820.0,0,upi,pune,maharashtra,2025-10-10,delivered
+100998,c0087,akash kulkarni,business book,books,10,990.0,0,net banking,delhi,delhi,2025-10-05,delivered
+100198,c0014,arjun pillai,hoodie,clothing,0,2160.0,12,net banking,vijayawada,andhra pradesh,2025-09-03,shipped
+100240,c0187,siddharth menon,sofa,furniture,10,52320.0,0,net banking,delhi,delhi,2025-04-02,delivered
+100309,c0295,lakshmi pillai,office chair,furniture,9,7900.0,12,credit card,bengaluru,karnataka,2025-12-13,delivered
+100510,c0016,neha patel,monitor,electronics,8,17390.0,20,credit card,lucknow,uttar pradesh,2025-12-03,delivered
+100205,c0242,karthik chaudhary,biography,books,1,560.0,40,net banking,jaipur,rajasthan,2025-10-31,shipped
+100302,c0179,sai sharma,basmati rice 5kg,grocery,8,650.0,35,net banking,kolkata,west bengal,2026-08-13,delivered
+100503,c0312,aarav kulkarni,wireless mouse,electronics,9,1050.0,20,debit card,delhi,delhi,2025-02-08,cancelled
+100522,c0288,arjun saxena,jeans,clothing,1,3030.0,20,cash on delivery,kolkata,west bengal,2025-03-15,delivered
+100647,c0234,tanvi chopra,sports shoes,clothing,3,1500.0,20,cash on delivery,chennai,tamil nadu,2025-12-15,delivered
+100978,c0289,aditi mishra,novel,books,10,420.0,40,upi,pune,maharashtra,2025-01-26,processing
+100408,c0096,manish gupta,atta 10kg,grocery,9,460.0,12,net banking,lucknow,uttar pradesh,2025-05-15,delivered
+100763,c0275,aditya mehta,hoodie,clothing,1,1380.0,12,credit card,vijayawada,andhra pradesh,2025-04-22,returned
+100697,c0278,vikram malhotra,sugar 5kg,grocery,1,400.0,30,net banking,lucknow,uttar pradesh,2026-07-25,shipped
+100787,c0312,aarav kulkarni,sofa,furniture,1,22810.0,15,cash on delivery,kolkata,west bengal,2026-01-27,delivered
+100976,c0078,aditi patel,cooking oil 5l,grocery,1,940.0,20,debit card,pune,maharashtra,2025-11-19,delivered
+100129,c0304,akash yadav,vacuum cleaner,home appliances,10,12200.0,12,credit card,hyderabad,telangana,2026-09-30,shipped
+100206,c0053,anjali saxena,shampoo,beauty,7,860.0,0,net banking,jaipur,rajasthan,2026-02-15,shipped
+100533,c0299,vivaan chaudhary,novel,books,9,740.0,15,net banking,chennai,tamil nadu,2026-05-28,delivered
+100828,c0012,keerthi chaudhary,hair serum,beauty,7,1070.0,10,credit card,delhi,delhi,2025-03-31,delivered
+100867,c0321,pranav sharma,spice combo,grocery,10,600.0,40,credit card,lucknow,uttar pradesh,2025-09-24,delivered
+100937,c0039,siddharth reddy,laptop,electronics,4,59350.0,12,net banking,vijayawada,andhra pradesh,2026-05-21,delivered
+100479,c0110,anjali joshi,saree,clothing,4,1650.0,35,credit card,hyderabad,telangana,2025-11-07,delivered
+100083,c0328,riya iyer,study table,furniture,10,17860.0,10,upi,jaipur,rajasthan,2026-06-01,processing
+100547,c0231,varun kumar,laptop,electronics,1,81010.0,10,net banking,hyderabad,telangana,2025-08-04,delivered
+100840,c0253,karthik mehta,face wash,beauty,4,400.0,10,upi,bengaluru,karnataka,2026-07-13,cancelled
+100056,c0246,lakshmi agarwal,air fryer,home appliances,3,10240.0,30,upi,hyderabad,telangana,2026-01-20,shipped
+100212,c0234,tanvi chopra,ceiling fan,home appliances,2,1860.0,15,upi,kolkata,west bengal,2025-02-18,shipped
+100395,c0226,priya bose,t-shirt,clothing,3,1480.0,12,credit card,mumbai,maharashtra,2025-05-05,shipped
+100184,c0137,riya kapoor,bookshelf,furniture,10,11920.0,30,debit card,chennai,tamil nadu,2025-05-04,shipped
+100946,c0345,keerthi yadav,electric kettle,home appliances,5,1150.0,30,debit card,coimbatore,tamil nadu,2025-01-28,processing
+100059,c0167,kavya chaudhary,sofa,furniture,1,45850.0,40,cash on delivery,kolkata,west bengal,2026-09-19,processing
+100272,c0295,lakshmi pillai,t-shirt,clothing,1,1560.0,15,credit card,coimbatore,tamil nadu,2025-04-26,delivered
+100474,c0263,siddharth kulkarni,novel,books,4,420.0,30,net banking,pune,maharashtra,2026-01-02,cancelled
+100543,c0010,shreya agarwal,makeup kit,beauty,3,2610.0,40,debit card,hyderabad,telangana,2026-04-10,shipped
+100574,c0287,anjali chopra,biography,books,9,860.0,120,credit card,hyderabad,telangana,2025-04-19,delivered
+100631,c0157,harsh iyer,induction cooktop,home appliances,6,4000.0,40,net banking,hyderabad,telangana,2025-06-23,shipped
+100720,c0230,siddharth iyer,monitor,electronics,4,19770.0,20,debit card,chennai,tamil nadu,2025-04-10,delivered
+100796,c0163,sanjay singh,tea 1kg,grocery,10,530.0,20,net banking,lucknow,uttar pradesh,2025-01-30,returned
+100347,c0339,deepak malhotra,shampoo,beauty,9,860.0,25,net banking,chennai,tamil nadu,2026-02-15,delivered
+100520,c0011,riya chaudhary,study table,furniture,1,5650.0,15,cash on delivery,bengaluru,karnataka,2026-09-19,returned
+100534,c0271,deepak shetty,wireless mouse,electronics,8,970.0,25,cash on delivery,coimbatore,tamil nadu,2025-03-04,delivered
+100643,c0149,manish pillai,tea 1kg,grocery,5,580.0,30,cash on delivery,coimbatore,tamil nadu,2025-05-16,processing
+100749,c0190,harsh patel,formal shirt,clothing,1,1840.0,25,cash on delivery,vijayawada,andhra pradesh,2025-06-24,delivered
+100762,c0220,vivaan pillai,makeup kit,beauty,7,3470.0,10,cash on delivery,bengaluru,karnataka,2026-05-25,delivered
+100827,c0247,neha chaudhary,makeup kit,beauty,10,1790.0,25,debit card,delhi,delhi,2025-10-09,delivered
+100125,c0215,sai naidu,sugar 5kg,grocery,4,410.0,30,debit card,hyderabad,telangana,2025-09-17,returned
+100338,c0173,nandini patel,sunscreen,beauty,6,1090.0,5,debit card,chennai,tamil nadu,2025-06-21,returned
+100519,c0001,meera mishra,makeup kit,beauty,8,2300.0,12,upi,chennai,tamil nadu,2025-04-23,processing
+100788,c0007,sai mishra,basmati rice 5kg,grocery,1,650.0,40,net banking,kolkata,west bengal,2026-05-03,delivered
+100879,c0123,divya naidu,coffee 500g,grocery,8,320.0,25,upi,mumbai,maharashtra,2026-06-18,delivered
+100959,c0253,karthik mehta,dining table,furniture,2,35480.0,15,cash on delivery,bengaluru,karnataka,2026-04-08,shipped
+100015,c0025,deepak gupta,shampoo,beauty,6,260.0,10,net banking,pune,maharashtra,2026-06-30,shipped
+100826,c0200,isha singh,sports shoes,clothing,8,6220.0,35,credit card,chennai,tamil nadu,2026-07-03,delivered
+100984,c0046,vikram iyer,t-shirt,clothing,6,1570.0,20,upi,kolkata,west bengal,2026-09-22,cancelled
+100180,c0057,swathi yadav,face wash,beauty,6,250.0,12,upi,pune,maharashtra,2025-05-04,delivered
+100401,c0100,riya reddy,cricket bat,sports,3,3730.0,20,net banking,jaipur,rajasthan,2026-05-21,shipped
+100419,c0165,aditi chopra,sofa,furniture,7,50370.0,15,net banking,lucknow,uttar pradesh,2026-01-09,delivered
+100704,c0158,deepak pandey,moisturizer,beauty,1,1010.0,30,debit card,kolkata,west bengal,2025-05-12,processing
+100779,c0340,tanvi rao,vacuum cleaner,home appliances,6,13700.0,40,net banking,lucknow,uttar pradesh,2025-07-01,shipped
+100241,c0343,pooja jain,study table,furniture,10,6570.0,35,net banking,hyderabad,telangana,2026-06-01,returned
+100290,c0010,shreya agarwal,vacuum cleaner,home appliances,5,12740.0,35,net banking,lucknow,uttar pradesh,2026-07-26,delivered
+100358,c0132,vikram menon,bedside table,furniture,7,4460.0,15,net banking,lucknow,uttar pradesh,2025/07/14,delivered
+100446,c0138,pranav joshi,kurta,clothing,1,750.0,20,upi,jaipur,rajasthan,2025-01-15,shipped
+100496,c0020,aarav patel,basmati rice 5kg,grocery,1,520.0,15,net banking,pune,maharashtra,2025-10-07,delivered
+100645,c0135,anjali kapoor,sunscreen,beauty,6,420.0,25,debit card,vijayawada,andhra pradesh,2026-02-02,returned
+100986,c0233,aman bose,makeup kit,beauty,5,2570.0,5,credit card,chennai,tamil nadu,2025-07-02,delivered
+100251,c0078,aditi patel,study table,furniture,6,9520.0,15,credit card,mumbai,maharashtra,2025-07-21,delivered
+100711,c0083,ananya singh,induction cooktop,home appliances,1,2160.0,10,credit card,kolkata,west bengal,2025-03-31,delivered
+100712,c0295,lakshmi pillai,spice combo,grocery,1,710.0,10,upi,kolkata,west bengal,2026-08-09,delivered
+100342,c0221,,study table,furniture,8,17790.0,12,net banking,vijayawada,andhra pradesh,2025-11-10,processing
+100051,c0180,arjun agarwal,novel,books,7,710.0,15,,mumbai,maharashtra,2026-07-02,delivered
+100435,c0111,nandini sharma,yoga mat,sports,10,1150.0,15,credit card,,telangana,2025-10-17,processing
+100615,c0200,isha singh,basmati rice 5kg,grocery,5,610.0,40,credit card,,delhi,2025-07-16,delivered
+100702,c0257,,saree,clothing,8,2550.0,10,net banking,jaipur,rajasthan,2025-08-15,processing
+100804,c0185,sai patel,sofa,furniture,1,31430.0,35,,mumbai,maharashtra,2026-06-03,delivered
+100621,c0236,siddharth verma,atta 10kg,grocery,1,470.0,5,credit card,,maharashtra,2025-03-31,delivered
+100380,c0212,sneha kulkarni,electric kettle,home appliances,3,1790.0,20,cash on delivery,,rajasthan,2025-05-13,delivered
+100514,c0137,,ceiling fan,home appliances,2,3320.0,20,debit card,kolkata,west bengal,2026-08-03,returned
+100236,c0220,vivaan pillai,induction cooktop,home appliances,5,4230.0,30,,bengaluru,karnataka,2026-09-21,delivered
+100892,c0291,varun pillai,coffee 500g,grocery,2,780.0,15,net banking,,karnataka,2026-04-17,shipped
+100961,c0148,priya jain,hoodie,clothing,5,3840.0,20,upi,,andhra pradesh,2025-07-07,delivered
+100286,c0224,,sports bottle,sports,5,530.0,40,net banking,mumbai,maharashtra,2026-06-05,shipped
+100178,c0078,aditi patel,usb-c hub,electronics,10,1640.0,10,,kolkata,west bengal,2026-08-04,returned
+100439,c0211,meera chopra,competitive exam guide,books,7,400.0,12,,chennai,tamil nadu,2025-02-15,delivered
+100598,c0066,,yoga mat,sports,4,1140.0,25,upi,chennai,tamil nadu,2026-05-12,returned
+100328,c0332,meera agarwal,yoga mat,sports,7,1260.0,15,,pune,maharashtra,2026-01-26,delivered
+100613,c0199,pooja reddy,programming book,books,8,830.0,5,credit card,,karnataka,2026-07-03,shipped
+100344,c0049,,moisturizer,beauty,3,330.0,5,credit card,mumbai,maharashtra,2025-02-15,delivered
+100013,c0196,,competitive exam guide,books,3,660.0,12,credit card,chennai,tamil nadu,2025-08-16,delivered
+100706,c0039,,sports bottle,sports,5,1200.0,35,credit card,kolkata,west bengal,2026-03-29,delivered
+100340,c0122,abhinav yadav,t-shirt,clothing,6,1630.0,40,,bengaluru,karnataka,2025-04-19,delivered
+100845,c0337,nikhil joshi,football,sports,5,2130.0,0,net banking,,karnataka,2025-03-26,delivered
+100536,c0234,tanvi chopra,electric kettle,home appliances,10,1330.0,10,,hyderabad,telangana,2025-12-22,processing
+100809,c0083,,bookshelf,furniture,7,8730.0,35,upi,mumbai,maharashtra,2026-02-02,delivered
+100266,c0181,,tea 1kg,grocery,6,370.0,10,credit card,hyderabad,telangana,2026-01-20,shipped
