@@ -1,0 +1,3 @@
+# Preserve the exact bytes of the supplied Bronze data and exported Silver CSV.
+bronze/sales.csv -text
+silver/sales_silver.csv -text

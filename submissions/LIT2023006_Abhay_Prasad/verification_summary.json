@@ -1,0 +1,35 @@
+{
+  "student": "Abhay Prasad",
+  "roll_number": "LIT2023006",
+  "spark_version": "4.0.4",
+  "source_sha256": "1b2c7e0acea6250c992b890975ed0947b5bececa6a2880b707e4523e0ee22eb8",
+  "rows_before": 1000,
+  "exact_duplicates_removed": 10,
+  "rows_after": 990,
+  "bronze_missing_or_blank": {
+    "order_id": 0,
+    "customer_id": 0,
+    "customer_name": 10,
+    "product": 0,
+    "category": 0,
+    "quantity": 0,
+    "unit_price": 0,
+    "discount_percent": 0,
+    "payment_method": 8,
+    "city": 8,
+    "state": 0,
+    "order_date": 0,
+    "order_status": 0
+  },
+  "bronze_invalid_numeric": {
+    "quantity": 12,
+    "unit_price": 8,
+    "discount_percent": 8
+  },
+  "bronze_date_discrepancies": {
+    "missing_dates": 0,
+    "invalid_dates": 4,
+    "valid_dates_needing_format_change": 2
+  },
+  "verification": "passed"
+}
